@@ -1,18 +1,4 @@
 @@,name,position
-->,Jean Castex,Prime Minister of France->Prime Minister
-->,Élisabeth Borne,"Ministry of Labour->Minister of Labour, Employment and Economic Inclusion"
-->,Bruno Le Maire,"Minister of the Economy, Finances and Industry->Minister of the Economy, Finance and the Recovery"
-->,Amélie de Montchalin,Minister of the Civil Service->Minister of Public Sector Transformation and the Civil Service
-->,Florence Parly,Minister of the Armed Forces->Minister for the Armed Forces
-->,Jacqueline Gourault,Minister of Territorial Development->Minister for Territorial Cohesion and Relations with Local Government
-->,Jean-Michel Blanquer,"Minister of National Education->Minister of National Education, Youth and Sport"
-->,Éric Dupond-Moretti,"Minister of Justice->Keeper of the Seals, Minister of Justice"
-->,Jean-Yves Le Drian,Minister of Europe and Foreign Affairs->Minister for Europe and Foreign Affairs
-->,Barbara Pompili,Minister of Ecological and Solidary Transition->Minister for the Ecological Transition
-->,Roselyne Bachelot,Minister of Culture (France)->Minister of Culture
----,Roxana Maracineanu,Minister of Sport
----,Didier Guillaume,Minister of Agriculture
----,Brigitte Bourguignon,
----,Brigitte Klinkert,
-+++,Annick Girardin,Minister of Marine Affairs
-+++,Olivier Véran,Minister for Solidarity and Health
+---,Brigitte Bourguignon,Minister Delegate for Personal Independence
+---,Brigitte Klinkert,Minister Delegate for Integration
++++,Élisabeth Borne,"Minister of Labour, Employment and Economic Inclusion"

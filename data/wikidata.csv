@@ -1,20 +1,19 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q30379410,Amélie de Montchalin,Amélie de Montchalin,female,1985-06-19T00:00:00Z,11,,Q56880877,Minister of the Civil Service,Q30379410-df635714-480a-be5a-d6ce-1bec31ad7d0b
-Q117402,Barbara Pompili,Barbara Pompili,female,1975-06-13T00:00:00Z,11,,Q29962937,Minister of Ecological and Solidary Transition,Q117402-2685115d-45ba-d5c2-938a-86100d926a97
-Q2925411,Brigitte Bourguignon,Brigitte Bourguignon,female,1959-03-21T00:00:00Z,11,,Q97015808,,Q2925411-ca88b53b-4ac3-bd9c-f51e-0ff8deccabe4
-Q63764562,Brigitte Klinkert,Brigitte Klinkert,female,1956-07-22T00:00:00Z,11,,Q97015780,,Q63764562-b1d6826f-40c2-a878-e11e-e7c36511a55c
-Q993472,Bruno Le Maire,Bruno Le Maire,male,1969-04-15T00:00:00Z,11,,Q20202948,"Minister of the Economy, Finances and Industry",Q993472-21d7b7a7-42e1-ce47-a710-fa4fbfaf5186
-Q3027038,Didier Guillaume,Didier Guillaume,male,1959-05-11T00:00:00Z,11,,Q20202980,Minister of Agriculture,Q3027038-1837198e-4ac6-1dbb-5ce6-cb92cf212458
-Q3074013,Florence Parly,Florence Parly,female,1963-05-08T00:00:00Z,11,,Q15215099,Minister of the Armed Forces,Q3074013-7978958a-4931-b18c-785f-bddee6bc5247
+Q30379410,Amélie de Montchalin,Amélie de Montchalin,female,1985-06-19T00:00:00Z,11,https://www.gouvernement.fr/en/composition-of-the-government,Q56880877,Minister of Public Sector Transformation and the Civil Service,Q30379410-df635714-480a-be5a-d6ce-1bec31ad7d0b
+Q2851582,Annick Girardin,Annick Girardin,female,1964-08-03T00:00:00Z,11,https://www.gouvernement.fr/en/composition-of-the-government,Q3251873,Minister of Marine Affairs,Q2851582-906c8c01-4400-7e45-cfd2-37df64dbf7df
+Q117402,Barbara Pompili,Barbara Pompili,female,1975-06-13T00:00:00Z,11,https://www.gouvernement.fr/en/composition-of-the-government,Q29962937,Minister for the Ecological Transition,Q117402-2685115d-45ba-d5c2-938a-86100d926a97
+Q2925411,Brigitte Bourguignon,Brigitte Bourguignon,female,1959-03-21T00:00:00Z,11,,Q97015808,Minister Delegate for Personal Independence,Q2925411-ca88b53b-4ac3-bd9c-f51e-0ff8deccabe4
+Q63764562,Brigitte Klinkert,Brigitte Klinkert,female,1956-07-22T00:00:00Z,11,,Q97015780,Minister Delegate for Integration,Q63764562-b1d6826f-40c2-a878-e11e-e7c36511a55c
+Q993472,Bruno Le Maire,Bruno Le Maire,male,1969-04-15T00:00:00Z,11,https://www.gouvernement.fr/en/composition-of-the-government,Q20202948,"Minister of the Economy, Finance and the Recovery",Q993472-21d7b7a7-42e1-ce47-a710-fa4fbfaf5186
+Q3074013,Florence Parly,Florence Parly,female,1963-05-08T00:00:00Z,11,https://www.gouvernement.fr/en/composition-of-the-government,Q15215099,Minister for the Armed Forces,Q3074013-7978958a-4931-b18c-785f-bddee6bc5247
 Q28950190,Frédérique Vidal,Frédérique Vidal,female,1964-05-09T00:00:00Z,11,,Q29968038,"Minister of Higher Education, Research and Innovation",Q28950190-9164b7ce-4654-612b-50d6-cd9c7ad40a22
 Q3123610,Gérald Darmanin,Gérald Darmanin,male,1982-10-11T00:00:00Z,11,,Q20203006,Minister of the Interior,Q3123610-585be64b-49d4-df2b-7fad-dce5d91aa1f8
-Q3157735,Jacqueline Gourault,Jacqueline Gourault,female,1950-11-20T00:00:00Z,11,,Q29962874,Minister of Territorial Development,Q3157735-eaee4610-427d-5d17-c8bf-b0872f278177
-Q3171170,Jean Castex,Jean Castex,male,1965-06-25T00:00:00Z,11,https://www.midilibre.fr/2020/07/03/jean-castex-nomme-1er-ministre-a-la-place-dedouard-philippe-8962374.php,Q1587677,Prime Minister of France,Q3171170-c68a7de2-45f1-3764-ccb3-104038881722
-Q3167954,Jean-Michel Blanquer,Jean-Michel Blanquer,male,1964-12-04T00:00:00Z,11,,Q16059954,Minister of National Education,Q3167954-15e6bb04-4fa3-62ff-3ea4-e4397fa098df
-Q559040,Jean-Yves Le Drian,Jean-Yves Le Drian,male,1947-06-30T00:00:00Z,11,,Q29962890,Minister of Europe and Foreign Affairs,Q559040-6b685015-4301-4416-a347-e1b77897941c
+Q3157735,Jacqueline Gourault,Jacqueline Gourault,female,1950-11-20T00:00:00Z,11,https://www.gouvernement.fr/en/composition-of-the-government,Q29962874,Minister for Territorial Cohesion and Relations with Local Government,Q3157735-eaee4610-427d-5d17-c8bf-b0872f278177
+Q3171170,Jean Castex,Jean Castex,male,1965-06-25T00:00:00Z,11,https://www.gouvernement.fr/en/composition-of-the-government,Q1587677,Prime Minister,Q3171170-c68a7de2-45f1-3764-ccb3-104038881722
+Q3167954,Jean-Michel Blanquer,Jean-Michel Blanquer,male,1964-12-04T00:00:00Z,11,https://www.gouvernement.fr/en/composition-of-the-government,Q16059954,"Minister of National Education, Youth and Sport",Q3167954-15e6bb04-4fa3-62ff-3ea4-e4397fa098df
+Q559040,Jean-Yves Le Drian,Jean-Yves Le Drian,male,1947-06-30T00:00:00Z,11,https://www.gouvernement.fr/en/composition-of-the-government,Q29962890,Minister for Europe and Foreign Affairs,Q559040-6b685015-4301-4416-a347-e1b77897941c
 Q30459912,Julien Denormandie,Julien Denormandie,male,1980-08-14T00:00:00Z,11,,Q61649628,Minister of Agriculture and Food,Q30459912-4f7c2b94-43f4-be7e-d9d3-f6feeff62f75
-Q436173,Roselyne Bachelot,Roselyne Bachelot,female,1946-12-24T00:00:00Z,11,,Q12436652,Minister of Culture (France),Q436173-98342a2c-4f48-c5b2-fbca-a1f0b80e0504
-Q446170,Roxana Maracineanu,Roxana Maracineanu,female,1975-05-07T00:00:00Z,11,,Q25395297,Minister of Sport,Q446170-1acc43e6-4db5-e46e-8568-eb213785c8e7
+Q3332699,Olivier Véran,Olivier Véran,male,1980-04-22T00:00:00Z,11,,Q107658508,Minister for Solidarity and Health,Q3332699-279a316a-4bbb-9d37-8d7a-b7b8264fda5a
+Q436173,Roselyne Bachelot,Roselyne Bachelot,female,1946-12-24T00:00:00Z,11,https://www.gouvernement.fr/en/composition-of-the-government,Q12436652,Minister of Culture,Q436173-98342a2c-4f48-c5b2-fbca-a1f0b80e0504
 Q20089181,Sébastien Lecornu,Sébastien Lecornu,male,1986-06-11T00:00:00Z,11,,Q29963125,Minister for Overseas France,Q20089181-4eb6002d-4a1f-8597-ca1a-6eb04822453f
-Q20020731,Élisabeth Borne,Élisabeth Borne,female,1961-04-18T00:00:00Z,11,,Q1408517,Ministry of Labour,Q20020731-2ebd3ce0-4be7-fd83-1a8e-c57005955614
-Q3591105,Éric Dupond-Moretti,Éric Dupond-Moretti,male,1961-04-20T00:00:00Z,11,,Q17553783,Minister of Justice,Q3591105-a6902102-4c62-8497-33c4-874b46c67362
+Q3591105,Éric Dupond-Moretti,Éric Dupond-Moretti,male,1961-04-20T00:00:00Z,11,https://www.gouvernement.fr/en/composition-of-the-government,Q17553783,"Keeper of the Seals, Minister of Justice",Q3591105-a6902102-4c62-8497-33c4-874b46c67362
