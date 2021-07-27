@@ -1,5 +1,6 @@
 {
     "cabinet": "Q96872687",
     "lang":    "en",
-    "agent":   "every-politican-scrapers/france-cabinet"
+    "agent":   "every-politican-scrapers/france-cabinet",
+    "source_match": "gouvernement.fr/en/composition-of-the-government"
 }
