@@ -13,7 +13,7 @@ class MemberList
     end
 
     field :position do
-      noko.css('.ministre-fonction').text.tidy
+      noko.css('.ministre-fonction').text.gsub(/, attached to.*/, '').tidy
     end
   end
 
@@ -25,9 +25,8 @@ class MemberList
 
     private
 
-    # TODO: also scrape junior ministers
     def member_container
-      noko.css('.ministre-grand-ministere')
+      noko.css('.wrapper-nom-fonction')
     end
   end
 end
