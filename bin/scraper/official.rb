@@ -20,7 +20,7 @@ class MemberList
   # The page listing all the members
   class Members < Scraped::HTML
     field :members do
-      member_container.map { |member| fragment(member => Member).to_h }
+      member_container.map { |member| fragment(member => Member).to_h }.uniq
     end
 
     private
