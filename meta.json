@@ -1,6 +1,19 @@
 {
-    "cabinet": "Q96872687",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/france-cabinet",
-    "source_match": "gouvernement.fr/en/composition-of-the-government"
+    "jurisdiction": {
+      "name": "France",
+      "id": "Q142"
+    },
+    "cabinet": {
+      "id": "Q96872687",
+      "start": "2017-07-03"
+    },
+    "source": {
+        "url":   "https://www.gouvernement.fr/en/composition-of-the-government",
+        "title": "Composition of the Government",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/france-cabinet"
 }
