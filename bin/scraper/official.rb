@@ -7,7 +7,7 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.ministre-nom').text.tidy
+      noko.css('.ministre-name-h3,h2').text.tidy
     end
 
     def position
