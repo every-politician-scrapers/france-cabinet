@@ -1,0 +1,900 @@
+{
+  "title": "Jean Castex",
+  "pageID": 64449295,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "University of Toulouse alumni",
+    "Sciences Po alumni",
+    "École nationale d'administration alumni",
+    "Judges of the Court of Audit (France)",
+    "Mayors of places in Occitanie",
+    "Union for a Popular Movement politicians",
+    "The Republicans (France) politicians",
+    "Chevaliers of the Légion d'honneur",
+    "Grand Cross of the National Order of Merit (France)",
+    "La République En Marche! politicians",
+    "Prime Ministers of France",
+    "French people of Catalan descent"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jean Castex (born 25 June 1965) is a French politician who has served as Prime Minister of France since 3 July 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of France"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jean Castex"
+                ]
+              }
+            },
+            {
+              "text": "He was member of The Republicans (LR) until 2020, when he joined La République En Marche! (LREM).",
+              "links": [
+                {
+                  "text": "The Republicans",
+                  "type": "internal",
+                  "page": "The Republicans (France)"
+                },
+                {
+                  "type": "internal",
+                  "page": "La République En Marche!"
+                }
+              ]
+            },
+            {
+              "text": "Castex served for twelve years as Mayor of Prades, a small town in Southern France, until his appointment as Prime Minister by President Emmanuel Macron.",
+              "links": [
+                {
+                  "text": "Mayor",
+                  "type": "internal",
+                  "page": "Mayor (France)"
+                },
+                {
+                  "text": "Prades",
+                  "type": "internal",
+                  "page": "Prades, Pyrénées-Orientales"
+                },
+                {
+                  "type": "internal",
+                  "page": "Southern France"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of France"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emmanuel Macron"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Prime Minister of France",
+          "template": "short description"
+        },
+        {
+          "year": "1965",
+          "month": "06",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "transcription": "ʒɑ̃ kastɛks",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jean Castex"
+          },
+          "image": {
+            "text": "Portrait Jean Castex (cropped).jpg"
+          },
+          "caption": {
+            "text": "Castex in 2020"
+          },
+          "office": {
+            "text": "Prime Minister of France",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of France"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "3 July 2020"
+          },
+          "president": {
+            "text": "Emmanuel Macron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emmanuel Macron"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Édouard Philippe",
+            "links": [
+              {
+                "text": "Édouard Philippe",
+                "type": "internal",
+                "page": "Édouard Philippe"
+              }
+            ]
+          },
+          "office1": {
+            "text": "President of Conflent Canigó (Community of Communes)",
+            "links": [
+              {
+                "text": " Conflent Canigó",
+                "type": "internal",
+                "page": ":fr:Communauté de communes Conflent Canigó"
+              },
+              {
+                "text": "Community of Communes",
+                "type": "internal",
+                "page": "Communauté de communes"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "7 January 2015"
+          },
+          "term_end1": {
+            "text": "3 July 2020"
+          },
+          "predecessor1": {
+            "text": "Office created"
+          },
+          "successor1": {
+            "text": "Jean-Louis Jallat"
+          },
+          "office2": {
+            "text": "Deputy Secretary-General of the Presidency"
+          },
+          "term_start2": {
+            "text": "28 February 2011"
+          },
+          "term_end2": {
+            "text": "15 May 2012"
+          },
+          "president2": {
+            "text": "Nicolas Sarkozy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolas Sarkozy"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Xavier Musca",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xavier Musca"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Emmanuel Macron\nNicolas Revel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emmanuel Macron"
+              },
+              {
+                "type": "internal",
+                "page": "Nicolas Revel"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Mayor of Prades",
+            "links": [
+              {
+                "text": "Mayor",
+                "type": "internal",
+                "page": "Mayor (France)"
+              },
+              {
+                "text": "Prades",
+                "type": "internal",
+                "page": "Prades, Pyrénées-Orientales"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "18 March 2008"
+          },
+          "term_end3": {
+            "text": "3 July 2020"
+          },
+          "predecessor3": {
+            "text": "Jean-François Denis"
+          },
+          "successor3": {
+            "text": "Yves Delcor"
+          },
+          "birth_date": {
+            "text": "June 25, 1965"
+          },
+          "birth_place": {
+            "text": "Vic-Fezensac, Gers, France",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vic-Fezensac"
+              },
+              {
+                "type": "internal",
+                "page": "Gers"
+              },
+              {
+                "type": "internal",
+                "page": "France"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "French"
+          },
+          "spouse": {
+            "text": "Sandra Ribelaygue"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "residence": {
+            "text": "Hôtel Matignon (official)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hôtel Matignon"
+              }
+            ]
+          },
+          "party": {
+            "text": "La République En Marche! (2020–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "La République En Marche!"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Union for a Popular Movement (until 2015) The Republicans (2015–2020)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Union for a Popular Movement"
+              },
+              {
+                "text": "The Republicans",
+                "type": "internal",
+                "page": "The Republicans (France)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Toulouse 2 Sciences Po École nationale d'administration",
+            "links": [
+              {
+                "text": "University of Toulouse 2",
+                "type": "internal",
+                "page": "University of Toulouse-Jean Jaurès"
+              },
+              {
+                "type": "internal",
+                "page": "Sciences Po"
+              },
+              {
+                "text": "École nationale d'administration",
+                "type": "internal",
+                "page": "École nationale d'administration"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Jean Castex signature.svg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last1": "Mallet",
+          "first1": "Victor",
+          "title": "Macron names Jean Castex as new French prime minister",
+          "url": "https://www.ft.com/content/7981cdd1-3c9e-46d6-8090-2dae4ab9c8af",
+          "website": "www.ft.com",
+          "publisher": "Financial Times",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Elected in 2000 as Mayor of Prades, Pyrénées-Orientales, from 2010 until 2011, Castex served under Health Minister Xavier Bertrand as Chief of Staff in François Fillon's ministry.",
+              "links": [
+                {
+                  "text": "Mayor",
+                  "type": "internal",
+                  "page": "Mayor (France)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prades, Pyrénées-Orientales"
+                },
+                {
+                  "type": "internal",
+                  "page": "Xavier Bertrand"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chief of Staff"
+                },
+                {
+                  "type": "internal",
+                  "page": "François Fillon"
+                },
+                {
+                  "text": "ministry",
+                  "type": "internal",
+                  "page": "ministry (collective executive)"
+                }
+              ]
+            },
+            {
+              "text": "He succeeded Raymond Soubie as Secretary-General of the Élysée under President Nicolas Sarkozy between 2011 and 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Raymond Soubie"
+                }
+              ]
+            },
+            {
+              "text": "In the UMP 2012 leadership primaries, he endorsed Fillon.",
+              "links": [
+                {
+                  "text": "2012 leadership primaries",
+                  "type": "internal",
+                  "page": "2012 Union for a Popular Movement leadership election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On the local level, Castex was a regional councillor of Languedoc-Roussillon from 2010 to 2015, and has served as department councillor of Pyrénées-Orientales since 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Languedoc-Roussillon"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pyrénées-Orientales"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2017, Castex was appointed interdepartmental delegate to the 2024 Olympics and Paralympics; he was also appointed as President of the National Sports Agency.",
+              "links": [
+                {
+                  "text": " Olympics",
+                  "type": "internal",
+                  "page": "2024 Summer Olympics"
+                },
+                {
+                  "text": "Paralympics",
+                  "type": "internal",
+                  "page": "2024 Summer Paralympics"
+                }
+              ]
+            },
+            {
+              "text": "On 2 April 2020, he was appointed coordinator of the phasing out of the lockdown (confinement) implemented in France during the COVID-19 pandemic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19 pandemic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Castex was a member of The Republicans until early 2020, where he was regarded as being socially conservative.",
+              "links": [
+                {
+                  "text": "The Republicans",
+                  "type": "internal",
+                  "page": "The Republicans (France)"
+                },
+                {
+                  "text": "socially conservative",
+                  "type": "internal",
+                  "page": "Social conservatism"
+                }
+              ]
+            },
+            {
+              "text": "Following Édouard Philippe's resignation on 3 July 2020, Castex was appointed Prime Minister by President Emmanuel Macron.",
+              "links": [
+                {
+                  "text": "Édouard Philippe",
+                  "type": "internal",
+                  "page": "Édouard Philippe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prime Minister"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of France"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emmanuel Macron"
+                }
+              ]
+            },
+            {
+              "text": "His appointment was described as a \"doubling down on a course that is widely seen as centre-right in economic terms\".",
+              "links": [
+                {
+                  "text": "centre-right",
+                  "type": "internal",
+                  "page": "Centre-right politics"
+                }
+              ]
+            },
+            {
+              "text": "Castex subsequently named his government on 6 July.",
+              "links": [
+                {
+                  "text": "his government",
+                  "type": "internal",
+                  "page": "Castex government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Qui est Jean Castex, le nouveau Premier ministre?",
+          "url": "https://www.bfmtv.com/politique/qui-est-jean-castex-le-nouveau-premier-ministre_AN-202007030149.html",
+          "access-date": "2020-07-03",
+          "website": "BFMTV",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-07-03",
+          "title": "Macron appoints new PM after Philippe resigns",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/world-europe-53276582",
+          "access-date": "2020-07-03",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.thetelegraph.com/news/article/French-prime-minister-resigns-reshuffle-expected-15384114.php",
+          "title": "Jean Castex named as new French prime minister",
+          "date": "3 July 2020",
+          "publisher": "The Telegraph",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Momtaz",
+          "first": "Rym",
+          "date": "3 July 2020",
+          "title": "Picking low-profile French PM, Macron bets big on himself",
+          "url": "https://www.politico.eu/article/macron-appoints-jean-castex-as-french-prime-minister/",
+          "work": "Politico",
+          "access-date": "17 May 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042088964",
+          "title": "Decree on the composition of the Government",
+          "language": "fr",
+          "website": "legifrance.gouv.fr",
+          "last": "Government of the French Republic",
+          "date": "7 July 2020",
+          "access-date": "27 July 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Pascale Davies & Alasdair Sandford with AFP",
+          "title": "New French government named under Prime Minister Jean Castex in Macron reshuffle",
+          "url": "https://www.euronews.com/2020/07/06/france-s-new-prime-minister-castex-to-announce-government-reshuffle",
+          "work": "Euronews",
+          "date": "6 July 2020",
+          "access-date": "11 July 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.rtl.fr/actu/politique/coronavirus-qui-est-jean-castex-le-monsieur-deconfinement-du-gouvernement-7800370214",
+          "title": "Coronavirus: who is Jean Castex, the \"Mr. Déconfinement\" of the government?",
+          "date": "7 April 2020",
+          "author": "Paul Turban",
+          "publisher": "RTL Group",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://apnews.com/6af43388ebac7bc8a7260e8ebd0baea7",
+          "title": "French president names Jean Castex, who coordinated France's virus reopening strategy, as new prime minister",
+          "publisher": "Associated Press",
+          "date": "3 July 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Castex, who has a southwestern French accent, is married to Sandra Ribelaygue; they have four daughters."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A fluent Catalan language speaker, Castex is regarded a defender of the Catalan identity in Southern France and other regional sensibilities.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Catalan language"
+                },
+                {
+                  "text": "Catalan",
+                  "type": "internal",
+                  "page": "Catalans"
+                }
+              ]
+            },
+            {
+              "text": "He is also friends with the ex-trades union leader Jean-Claude Mailly and the physician Patrick Pelloux, a former columnist at Charlie Hebdo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jean-Claude Mailly"
+                },
+                {
+                  "type": "internal",
+                  "page": "Patrick Pelloux"
+                },
+                {
+                  "type": "internal",
+                  "page": "Charlie Hebdo"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Charlie Hebdo"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Braun",
+          "first": "Elisa",
+          "title": "5 things to know about France's new PM Jean Castex",
+          "url": "https://www.politico.com/news/2020/07/03/5-things-to-know-about-frances-new-pm-jean-castex-348530",
+          "access-date": "2020-07-04",
+          "website": "POLITICO",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-07-03",
+          "title": "Le Premier ministre français, défenseur de l'identité catalane",
+          "url": "https://www.equinoxmagazine.fr/2020/07/03/le-premier-ministre-francais-defenseur-de-lidentite-catalane/",
+          "access-date": "2020-07-04",
+          "website": "Equinox",
+          "language": "fr-FR",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Honours",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "Ribbon bar": {
+              "text": "Legion Honneur Chevalier ribbon.svg"
+            },
+            "Honour": {
+              "text": "Knight of the Legion of Honour",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legion of Honour"
+                }
+              ]
+            },
+            "Date and comment": {
+              "text": "2020",
+              "number": 2020
+            }
+          },
+          {
+            "Ribbon bar": {
+              "text": "National Order of Merit Grand Cross Ribbon.png"
+            },
+            "Honour": {
+              "text": "Grand Cross of the National Order of Merit",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Grand Cross"
+                },
+                {
+                  "text": "National Order of Merit",
+                  "type": "internal",
+                  "page": "National Order of Merit (France)"
+                }
+              ]
+            },
+            "Date and comment": {
+              "text": "2020 (ex officio) 2006 (knight)",
+              "formatting": {
+                "italic": [
+                  "ex officio"
+                ]
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Castex government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Castex government"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "url": "https://web.archive.org/web/20200703170438/http://www.prades.com/articles-1/7-49-cv-maire/",
+          "date": "2020-07-03",
+          "template": "webarchive"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Jean-François Denis",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Prades",
+          "years": "2008–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Yves Delcor",
+          "template": "s-aft"
+        },
+        {
+          "before": "Xavier Musca",
+          "rows": "2",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Secretary-General of the\nPresidency of the Republic",
+          "years": "2011–2012",
+          "rows": "2",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Emmanuel Macron",
+          "template": "s-aft"
+        },
+        {
+          "after": "Nicolas Revel",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-break"
+        },
+        {
+          "list": [
+            "office"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "President of the community of communes\nConflent Canigó",
+          "years": "2008–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jean-Louis Jallat",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-break"
+        },
+        {
+          "before": "Édouard Philippe",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister of France",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "list": [
+            "france"
+          ],
+          "template": "s-prec"
+        },
+        {
+          "before": "Emmanuel Macron",
+          "as": "President of the Republic",
+          "template": "s-bef"
+        },
+        {
+          "title": "Order of precedence in France\nPrime Minister",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Gérard Larcher\nas President of the Senate",
+          "template": "s-aft"
+        },
+        {
+          "template": "heads of government of france"
+        },
+        {
+          "list": [
+            "Biography"
+          ],
+          "template": "portal bar"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Curriculum vitae",
+            "links": [
+              {
+                "text": "Curriculum vitae",
+                "type": "external",
+                "site": "http://www.prades.com/articles-1/7-49-cv-maire/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

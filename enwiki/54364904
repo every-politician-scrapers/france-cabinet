@@ -1,0 +1,377 @@
+{
+  "title": "Jean-Baptiste Lemoyne (politician)",
+  "pageID": 54364904,
+  "categories": [
+    "1977 births",
+    "Living people",
+    "The Republicans (France) politicians",
+    "La République En Marche! politicians",
+    "Senators of Yonne",
+    "Lycée Lakanal alumni",
+    "ESSEC Business School alumni",
+    "People from Bourg-la-Reine",
+    "Politicians from Île-de-France"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jean-Baptiste Lemoyne (born 15 September 1977) is a French politician of La République En Marche! (LREM) who has been serving as Secretary of State at the Minister for Europe and Foreign Affairs in the governments of successive Prime Ministers Édouard Philippe and Jean Castex since 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "La République En Marche!"
+                },
+                {
+                  "text": "Secretary of State",
+                  "type": "internal",
+                  "page": "Secretary of state"
+                },
+                {
+                  "text": "Minister for Europe and Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs and International Development (France)"
+                },
+                {
+                  "text": "Prime Ministers",
+                  "type": "internal",
+                  "page": "Prime Minister of France"
+                },
+                {
+                  "text": "Édouard Philippe",
+                  "type": "internal",
+                  "page": "Édouard Philippe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jean Castex"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jean-Baptiste Lemoyne"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "French politician",
+          "template": "short description"
+        },
+        {
+          "date": "June 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "topic": "gov",
+          "date": "June 2017",
+          "list": [
+            "Jean-Baptiste Lemoyne"
+          ],
+          "template": "expand french"
+        },
+        {
+          "year": "1977",
+          "month": "09",
+          "day": "15",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jean-Baptiste Lemoyne"
+          },
+          "image": {
+            "text": "Jean-Baptiste Lemoyne (cropped).jpg"
+          },
+          "office": {
+            "text": "Secretary of State for Tourism, French living abroad and Francophonie",
+            "links": [
+              {
+                "text": "Secretary of State",
+                "type": "internal",
+                "page": "Secretary of state"
+              },
+              {
+                "type": "internal",
+                "page": "Tourism"
+              },
+              {
+                "type": "internal",
+                "page": "Francophonie"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 July 2020"
+          },
+          "president": {
+            "text": "Emmanuel Macron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emmanuel Macron"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Jean Castex",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jean Castex"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Secretary of State to the Minister for Europe and Foreign Affairs",
+            "links": [
+              {
+                "text": "Secretary of State to the Minister for Europe and Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (France)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "21 June 2017"
+          },
+          "term_end2": {
+            "text": "6 July 2020"
+          },
+          "president2": {
+            "text": "Emmanuel Macron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emmanuel Macron"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Édouard Philippe",
+            "links": [
+              {
+                "text": "Édouard Philippe",
+                "type": "internal",
+                "page": "Édouard Philippe"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Renaud Muselier",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Renaud Muselier"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 15, 1977"
+          },
+          "birth_place": {
+            "text": "Bourg-la-Reine, France",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bourg-la-Reine"
+              },
+              {
+                "type": "internal",
+                "page": "France"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "French",
+            "links": [
+              {
+                "text": "French",
+                "type": "internal",
+                "page": "France"
+              }
+            ]
+          },
+          "party": {
+            "text": "La République En Marche!",
+            "links": [
+              {
+                "type": "internal",
+                "page": "La République En Marche!"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Sciences Po Strasbourg ESSEC Business School",
+            "links": [
+              {
+                "text": "Sciences Po Strasbourg",
+                "type": "internal",
+                "page": "Institut d'études politiques de Strasbourg"
+              },
+              {
+                "type": "internal",
+                "page": "ESSEC Business School"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.diplomatie.gouv.fr/en/the-minister-and-the-ministers-of-state/jean-baptiste-lemoyne/",
+          "title": "Jean-Baptiste Lemoyne",
+          "publisher": "Diplomatie.gouv.fr",
+          "access-date": "2017-06-22",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After the presidential and legislative elections of 2007, Lemoyne became deputy chair of the UMP parliamentary group at the National Assembly.",
+              "links": [
+                {
+                  "text": "presidential",
+                  "type": "internal",
+                  "page": "2007 French presidential election"
+                },
+                {
+                  "text": "legislative",
+                  "type": "internal",
+                  "page": "2007 French legislative election"
+                },
+                {
+                  "text": "UMP parliamentary group",
+                  "type": "internal",
+                  "page": "The Republicans group (National Assembly)"
+                }
+              ]
+            },
+            {
+              "text": "He held this position until 2014, under successive chairmen Jean-François Copé (2007-2010) and Christian Jacob (2010-2014).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jean-François Copé"
+                },
+                {
+                  "text": "Christian Jacob",
+                  "type": "internal",
+                  "page": "Christian Jacob (politician)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political positions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2013, Lemoyne voted against Law 2013-404, French legislation which grants same-sex couples the right to marry and jointly adopt children.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Law 2013-404"
+                },
+                {
+                  "text": "same-sex couples the right to marry",
+                  "type": "internal",
+                  "page": "same-sex marriage"
+                },
+                {
+                  "text": "jointly adopt children",
+                  "type": "internal",
+                  "page": "LGBT adoption"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When German Chancellor Angela Merkel called for EU member states to give European Commissioner for Trade Cecilia Malmström a clear mandate for negotiations with the United States on metal tariffs in 2018, Lemoyne publicly opposed these plans.",
+              "links": [
+                {
+                  "text": "Chancellor",
+                  "type": "internal",
+                  "page": "Chancellor of Germany"
+                },
+                {
+                  "type": "internal",
+                  "page": "Angela Merkel"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Commissioner for Trade"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cecilia Malmström"
+                },
+                {
+                  "text": "metal tariffs",
+                  "type": "internal",
+                  "page": "Trump tariffs"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "second philippe government"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "france-politician-lrem-stub"
+        }
+      ]
+    }
+  ]
+}

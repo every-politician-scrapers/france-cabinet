@@ -1,0 +1,458 @@
+{
+  "title": "Alain Griset",
+  "pageID": 66110297,
+  "categories": [
+    "1953 births",
+    "Living people",
+    "French politicians",
+    "French taxi drivers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alain Griset (born 30 May 1953) is a French businessman, politician and former taxi driver serving as Minister Delegate in charge of Small and Medium-Sized Entreprises attached to the Ministry of the Economy, Finance and Recovery in the government of Prime Minister Jean Castex since 2020.",
+              "links": [
+                {
+                  "text": "Minister Delegate",
+                  "type": "internal",
+                  "page": "Minister Delegate (France)"
+                },
+                {
+                  "text": "Ministry of the Economy, Finance and Recovery",
+                  "type": "internal",
+                  "page": "Ministry of the Economy and Finance (France)"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Castex government"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of France"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jean Castex"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alain Griset"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "French politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2020",
+          "template": "use british english"
+        },
+        {
+          "year": "1953",
+          "month": "05",
+          "day": "30",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "author": "JDD",
+          "year": "2020",
+          "template": "sfn"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alain Griset"
+          },
+          "image": {
+            "text": "Alain Griset (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister Delegate in charge of Small and Medium-Sized Entreprises",
+            "links": [
+              {
+                "text": "Minister Delegate in charge of Small and Medium-Sized Entreprises",
+                "type": "internal",
+                "page": "Ministry of the Economy and Finance (France)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 July 2020"
+          },
+          "primeminister": {
+            "text": "Jean Castex",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jean Castex"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "birth_date": {
+            "text": "May 30, 1953"
+          },
+          "birth_place": {
+            "text": "Faches-Thumesnil, France",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Faches-Thumesnil"
+              },
+              {
+                "type": "internal",
+                "page": "France"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "French"
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Qui sont les ministres du gouvernement Castex ?",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/07/06/famille-politique-etudes-ou-precedentes-fonctions-decouvrez-qui-sont-les-membres-du-gouvernement-castex_6045396_4355770.html",
+          "url-status": "live",
+          "website": "Le Monde.fr",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alain Griset was born on 30 May 1953 in a working-class family in Faches-Thumesnil, Northern France.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Faches-Thumesnil"
+                }
+              ]
+            },
+            {
+              "text": "His father was a metal worker and his mother a stay-at-home mom.",
+              "links": [
+                {
+                  "text": "metal worker",
+                  "type": "internal",
+                  "page": "metal worker"
+                }
+              ]
+            },
+            {
+              "text": "At 19 he started working as a switchboard operator in a taxi company after failing his Baccalauréat in mechanical manufacturing, he passed the taxi exam at 21 and started working as a driver.",
+              "links": [
+                {
+                  "text": "switchboard operator",
+                  "type": "internal",
+                  "page": "switchboard operator"
+                },
+                {
+                  "text": "taxi",
+                  "type": "internal",
+                  "page": "taxi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Baccalauréat"
+                }
+              ]
+            },
+            {
+              "text": "In 1975 he created his own taxi company in Lille; he then settled in Maubeuge then Tourcoing and finally Douai.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lille"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maubeuge"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tourcoing"
+                },
+                {
+                  "type": "internal",
+                  "page": "Douai"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1989, he was elected to the Chamber of Trades and Crafts of Northern France in 1995, he became its president."
+            },
+            {
+              "text": "In 2005 the body changed to Chamber of Trades and Crafts of the Nord-Pas-de-Calais region and he became its president."
+            },
+            {
+              "text": "On July 6, 2020, after the appointment of Jean Castex as Prime Minister, Griset is appointed Minister Delegate in charge of Small and Medium-Sized Entreprises, attached to the Minister of the Economy, Bruno Le Maire.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jean Castex"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime minister (France)"
+                },
+                {
+                  "text": "Minister of the Economy",
+                  "type": "internal",
+                  "page": "Ministry of the Economy and Finance (France)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bruno Le Maire"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "author": "JDD",
+          "year": "2020",
+          "template": "sfn"
+        },
+        {
+          "author": "Bourdeau",
+          "year": "2020",
+          "template": "sfn"
+        },
+        {
+          "author": "Bourdeau",
+          "year": "2020",
+          "template": "sfn"
+        },
+        {
+          "author": "Le Monde.fr",
+          "year": "2020",
+          "template": "sfn"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Castex Government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Castex Government"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "Sources",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "author": "Web24",
+          "year": "2020",
+          "template": "sfnref"
+        },
+        {
+          "author": "La Tribune",
+          "year": "2020",
+          "template": "sfnref"
+        },
+        {
+          "author": "Le Monde.fr",
+          "year": "2020",
+          "template": "sfnref"
+        }
+      ],
+      "references": [
+        {
+          "title": "Alain Griset, the spokesperson for artisans, settles in Bercy",
+          "website": "Web24",
+          "date": "2020-07-13",
+          "url": "https://www.web24.news/u/2020/07/alain-griset-the-spokesperson-for-artisans-settles-in-bercy.html",
+          "template": "citation",
+          "type": "cite web"
+        },
+        {
+          "last": "France",
+          "first": "Centre",
+          "title": "Économie - Le ministre Alain Griset à Nevers : \"La digitalisation doit être un complément, pas remplacer le commerce physique\"",
+          "website": "www.lejdc.fr",
+          "date": "2020-12-15",
+          "url": "https://www.lejdc.fr/nevers-58000/actualites/le-ministre-alain-griset-a-nevers-la-digitalisation-doit-etre-un-complement-pas-remplacer-le-commerce-physique_13892076/",
+          "language": "fr",
+          "template": "citation",
+          "type": "cite web"
+        },
+        {
+          "title": "Compte bancaire : le ministre aux PME Alain Griset visé par deux enquêtes",
+          "website": "La Tribune",
+          "date": "2020-12-15",
+          "url": "https://www.latribune.fr/economie/france/declaration-de-patrimoine-le-ministre-aux-pme-alain-griset-soupconne-d-abus-de-confiance-863180.html",
+          "language": "fr",
+          "template": "citation",
+          "type": "cite web"
+        },
+        {
+          "last": "France",
+          "first": "Centre",
+          "title": "Économie - Le ministre Alain Griset à Nevers",
+          "date": "2020-12-15",
+          "url": "https://www.lejdc.fr/nevers-58000/actualites/le-ministre-alain-griset-a-nevers-la-digitalisation-doit-etre-un-complement-pas-remplacer-le-commerce-physique_13892076/",
+          "language": "fr",
+          "template": "citation",
+          "type": "cite web"
+        },
+        {
+          "last": "Bourdeau",
+          "first": "Maxime",
+          "title": "Alain Griset, fils d'ouvrier, ancien taxi et nouveau ministre des PME",
+          "website": "Le HuffPost",
+          "date": "2020-07-07",
+          "url": "https://www.huffingtonpost.fr/entry/alain-griset-fils-douvrier-ancien-taxi-et-nouveau-ministre-des-pme_fr_5f03b928c5b6e97b5689126b",
+          "language": "fr",
+          "template": "citation",
+          "type": "cite web"
+        },
+        {
+          "title": "Alain Griset : \" Face à la crise, l’objectif du gouvernement est d’accompagner toutes les entreprises, quelle que soit leur situation \"",
+          "website": "Le Monde.fr",
+          "date": "2020-11-20",
+          "url": "https://www.lemonde.fr/economie/article/2020/11/20/alain-griset-face-a-la-crise-l-objectif-du-gouvernement-est-d-accompagner-toutes-les-entreprises-quelle-que-soit-leur-situation_6060509_3234.html",
+          "language": "fr",
+          "template": "citation",
+          "type": "cite web"
+        },
+        {
+          "last": "JDD",
+          "first": "Le",
+          "title": "Alain Griset, le porte-parole des artisans, s'installe à Bercy",
+          "website": "lejdd.fr",
+          "date": "2020-07-13",
+          "url": "https://www.lejdd.fr/Politique/alain-griset-le-porte-parole-des-artisans-sinstalle-a-bercy-3980602",
+          "language": "fr",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "list": [
+            "Biography"
+          ],
+          "template": "portal bar"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Alain Griset on French Government website",
+            "links": [
+              {
+                "text": "Alain Griset on French Government website",
+                "type": "external",
+                "site": "https://www.gouvernement.fr/ministre/alain-griset"
+              }
+            ]
+          },
+          {
+            "text": "Alain Griset on Ministry of Economy website",
+            "links": [
+              {
+                "text": "Alain Griset on Ministry of Economy website",
+                "type": "external",
+                "site": "https://www.economie.gouv.fr/ministres/alain-griset"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

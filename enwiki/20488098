@@ -1,0 +1,214 @@
+{
+  "title": "Joël Giraud",
+  "pageID": 20488098,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "People from Gap, Hautes-Alpes",
+    "Radical Party of the Left politicians",
+    "Deputies of the 15th National Assembly of the French Fifth Republic",
+    "Politicians from Provence-Alpes-Côte d'Azur",
+    "Deputies of the 12th National Assembly of the French Fifth Republic",
+    "Deputies of the 13th National Assembly of the French Fifth Republic",
+    "Deputies of the 14th National Assembly of the French Fifth Republic"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Joël Giraud (born 14 October 1959 in Gap, Hautes-Alpes) is a member of the National Assembly of France.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gap, Hautes-Alpes"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of France"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Joël Giraud"
+                ]
+              }
+            },
+            {
+              "text": "He represents the Hautes-Alpes department, and is a member of La République En Marche! (formerly of the Radical Party of the Left) and former Secretary of the Economic Affairs Committee.",
+              "links": [
+                {
+                  "text": "Hautes-Alpes",
+                  "type": "internal",
+                  "page": "Hautes-Alpes's 2nd constituency"
+                },
+                {
+                  "type": "internal",
+                  "page": "La République En Marche!"
+                },
+                {
+                  "type": "internal",
+                  "page": "Radical Party of the Left"
+                }
+              ]
+            },
+            {
+              "text": "He was elected on 16 June 2002, and re-elected on 17 June 2007, 17 June 2012 and in 2017."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "French politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2010",
+          "template": "blp sources"
+        },
+        {
+          "date": "March 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "topic": "gov",
+          "date": "December 2008",
+          "list": [
+            "Joël Giraud"
+          ],
+          "template": "expand french"
+        },
+        {
+          "year": "1959",
+          "month": "10",
+          "day": "14",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Joël Giraud"
+          },
+          "image": {
+            "text": "Joël Giraud.jpg"
+          },
+          "caption": {
+            "text": "Joël Giraud"
+          },
+          "office": {
+            "text": "Member of the French National Assembly for Hautes-Alpes's 2nd constituency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "French National Assembly"
+              },
+              {
+                "type": "internal",
+                "page": "Hautes-Alpes's 2nd constituency"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "18 June 2002"
+          },
+          "predecessor": {
+            "text": "Patrick Ollier",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patrick Ollier"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Mayor of L'Argentière-la-Bessée",
+            "links": [
+              {
+                "type": "internal",
+                "page": "L'Argentière-la-Bessée"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "20 March 1989"
+          },
+          "predecessor2": {
+            "text": "Auguste Toye"
+          },
+          "birth_date": {
+            "text": "October 14, 1959"
+          },
+          "birth_place": {
+            "text": "Gap, France",
+            "links": [
+              {
+                "text": "Gap",
+                "type": "internal",
+                "page": "Gap, Hautes-Alpes"
+              },
+              {
+                "type": "internal",
+                "page": "France"
+              }
+            ]
+          },
+          "party": {
+            "text": "PRG\nEn Marche!",
+            "links": [
+              {
+                "text": "PRG",
+                "type": "internal",
+                "page": "Radical Party of the Left"
+              },
+              {
+                "type": "internal",
+                "page": "En Marche!"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Haut fonctionnaire"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.assemblee-nationale.fr/elections/2007/resultats/LDD_DEP.csv.asp",
+          "accessdate": "2010-07-03",
+          "title": "Liste Définitive des Députés Élus à L'issue des Deux Tours",
+          "language": "French",
+          "publisher": "National Assembly of France",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "france-politician-lrem-stub"
+        }
+      ]
+    }
+  ]
+}
