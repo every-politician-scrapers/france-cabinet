@@ -347,9 +347,6 @@
       ],
       "infoboxes": [
         {
-          "name": {
-            "text": "Emmanuel Macron"
-          },
           "image": {
             "text": "Emmanuel Macron (cropped).jpg"
           },
@@ -451,10 +448,6 @@
                 "text": "Somme",
                 "type": "internal",
                 "page": "Somme (department)"
-              },
-              {
-                "type": "internal",
-                "page": "France"
               }
             ]
           },
@@ -1161,8 +1154,11 @@
                 },
                 {
                   "text": "IPESUP (fr)",
-                  "type": "internal",
-                  "page": ":fr:Institut privé de préparation aux études supérieures"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "fr"
+                  }
                 },
                 {
                   "type": "internal",
