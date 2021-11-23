@@ -320,8 +320,11 @@
                 },
                 {
                   "text": "Rural, Water and Forest Engineer's Corps",
-                  "type": "internal",
-                  "page": ":fr:Ingénieur du génie rural, des eaux et des forêts"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "fr"
+                  }
                 }
               ]
             },
@@ -361,8 +364,11 @@
                 },
                 {
                   "text": "CEI",
-                  "type": "internal",
-                  "page": ":fr:Communauté des États indépendants"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "fr"
+                  }
                 }
               ]
             }

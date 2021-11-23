@@ -266,9 +266,11 @@
                   "page": "Minister of the Economy, Finances and Industry (France)"
                 },
                 {
-                  "text": "Direction générale des Impôts",
-                  "type": "internal",
-                  "page": ":fr:Direction générale des Impôts"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "fr"
+                  }
                 }
               ],
               "formatting": {
