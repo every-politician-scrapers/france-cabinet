@@ -85,6 +85,10 @@
       ],
       "templates": [
         {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
           "description": "Prime Minister of France",
           "template": "short description"
         },
@@ -520,19 +524,19 @@
         {
           "title": "Qui est Jean Castex, le nouveau Premier ministre?",
           "url": "https://www.bfmtv.com/politique/qui-est-jean-castex-le-nouveau-premier-ministre_AN-202007030149.html",
-          "access-date": "2020-07-03",
+          "access-date": "3 July 2020",
           "website": "BFMTV",
           "language": "fr",
           "template": "citation",
           "type": "web"
         },
         {
-          "date": "2020-07-03",
+          "date": "3 July 2020",
           "title": "Macron appoints new PM after Philippe resigns",
           "language": "en-GB",
           "work": "BBC News",
           "url": "https://www.bbc.com/news/world-europe-53276582",
-          "access-date": "2020-07-03",
+          "access-date": "3 July 2020",
           "template": "citation",
           "type": "news"
         },
@@ -643,9 +647,19 @@
                   "Charlie Hebdo"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "The prime minister has tested positive for the coronavirus."
+              "text": "Castex tested positive for COVID-19 on 23 November 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
             }
           ]
         }
@@ -656,17 +670,17 @@
           "first": "Elisa",
           "title": "5 things to know about France's new PM Jean Castex",
           "url": "https://www.politico.com/news/2020/07/03/5-things-to-know-about-frances-new-pm-jean-castex-348530",
-          "access-date": "2020-07-04",
+          "access-date": "4 July 2020",
           "website": "POLITICO",
           "language": "en",
           "template": "citation",
           "type": "web"
         },
         {
-          "date": "2020-07-03",
+          "date": "3 July 2020",
           "title": "Le Premier ministre français, défenseur de l'identité catalane",
           "url": "https://www.equinoxmagazine.fr/2020/07/03/le-premier-ministre-francais-defenseur-de-lidentite-catalane/",
-          "access-date": "2020-07-04",
+          "access-date": "4 July 2020",
           "website": "Equinox",
           "language": "fr-FR",
           "template": "citation",
@@ -683,6 +697,15 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "url": "https://www.reuters.com/world/europe/french-prime-minister-castex-tests-positive-coronavirus-pms-office-2021-11-22/",
+          "title": "French Prime Minister Castex tests positive for coronavirus -PM's office",
+          "publisher": "Reuters",
+          "date": "23 November 2021",
+          "access-date": "23 November 2021",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -781,7 +804,7 @@
       "templates": [
         {
           "url": "https://web.archive.org/web/20200703170438/http://www.prades.com/articles-1/7-49-cv-maire/",
-          "date": "2020-07-03",
+          "date": "3 July 2020",
           "template": "webarchive"
         },
         {
