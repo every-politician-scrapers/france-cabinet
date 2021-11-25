@@ -274,6 +274,13 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2021 she received the Grand Cross of Merit of the Federal Republic of Germany."
+            }
+          ]
         }
       ],
       "references": [
@@ -308,6 +315,15 @@
           "website": "Archyde",
           "date": "2020-07-07",
           "url": "https://www.archyde.com/who-is-brigitte-klinkert-new-minister-responsible-for-employment/",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Bundespraesident",
+          "title": "Bekanntgabe vom 1. November 2021",
+          "website": "Bundespraesident",
+          "date": "2021-11-24",
+          "url": "https://www.bundespraesident.de/SharedDocs/Berichte/Bekanntgabe-Ordensverleihung/2111-Verleihungen.html;jsessionid=1700792FD9FDD70EBAF78CA565CD0D26.2_cid504",
           "template": "citation",
           "type": "web"
         }
