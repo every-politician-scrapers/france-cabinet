@@ -151,8 +151,11 @@
             "links": [
               {
                 "text": " Conflent Canigó",
-                "type": "internal",
-                "page": ":fr:Communauté de communes Conflent Canigó"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "fr"
+                }
               },
               {
                 "text": "Community of Communes",
