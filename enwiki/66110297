@@ -47,6 +47,9 @@
                   "Alain Griset"
                 ]
               }
+            },
+            {
+              "text": "On 8 December 2021 Griset announced his resignation from the government after being found guilty of underpayment of taxes."
             }
           ]
         }
@@ -75,6 +78,11 @@
           "author": "JDD",
           "year": "2020",
           "template": "sfn"
+        },
+        {
+          "author": "AFP",
+          "year": "2021",
+          "template": "sfn"
         }
       ],
       "infoboxes": [
@@ -97,6 +105,9 @@
           },
           "term_start": {
             "text": "6 July 2020"
+          },
+          "term_end": {
+            "text": "8 December 2021"
           },
           "primeminister": {
             "text": "Jean Castex",
@@ -143,10 +154,26 @@
                 "page": "Independent politician"
               }
             ]
+          },
+          "awards": {
+            "text": "Legion of Honour",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Legion of Honour"
+              }
+            ]
           }
         }
       ],
       "references": [
+        {
+          "title": "Journal officiel Décret du 31 décembre 2014",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030008403?datePublication=&dateSignature=&isAdvancedResult=&page=1&pageSize=10&query=alain+griset&searchField=ARTICLE&searchProximity=&searchType=ALL&sortValue=SIGNATURE_DATE_DESC&tab_selection=jorf&typePagination=DEFAUT",
+          "website": "legifrance",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "title": "Qui sont les ministres du gouvernement Castex ?",
           "url": "https://www.lemonde.fr/les-decodeurs/article/2020/07/06/famille-politique-etudes-ou-precedentes-fonctions-decouvrez-qui-sont-les-membres-du-gouvernement-castex_6045396_4355770.html",
