@@ -170,6 +170,49 @@
               }
             ]
           },
+          "office2": {
+            "text": "Member of the National Assembly\nfor Pas-de-Calais's 6th constituency",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly (France)"
+              },
+              {
+                "type": "internal",
+                "page": "Pas-de-Calais"
+              },
+              {
+                "text": "6th",
+                "type": "internal",
+                "page": "Pas-de-Calais's 6th constituency"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "7 June 2021"
+          },
+          "term_end2": {
+            "text": "6 July 2021"
+          },
+          "predecessor2": {
+            "text": "Ludovic Loquet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ludovic Loquet"
+              }
+            ]
+          },
+          "succeeded2": {
+            "text": "Christophe Leclercq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christophe Leclercq"
+              }
+            ]
+          },
           "birth_date": {
             "text": "March 21, 1959"
           },
