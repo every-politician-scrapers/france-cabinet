@@ -1,0 +1,63 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q191954,President of the French Republic,Q142,Q142,,,,,,,President of France
+Q1587677,Prime Minister of France,Q142,Q142,,Q11134906,1958-10-04,,,,Prime Minister of France
+Q20202980,Minister of Agriculture,Q142,Q142,,,,,,,
+Q61641267,Minister of Agriculture and Forestry,Q142,Q142,,,1988-05-12,1992-10-02,,,
+Q51624064,Minister of Agriculture and Rural Development,Q142,Q142,,,,,,,
+Q61650495,"Minister of Agriculture, Agri-Food and Forestry",Q142,Q142,,,,,,,
+Q15215099,Minister of the Armed Forces,Q142,Q142,Q2962002,,1944,,,,Minister of the Armed Forces (France)
+Q21113166,Minister of City Affairs,Q142,Q142,,,,,,,
+Q56880877,Minister of the Civil Service,Q142,Q142,,Q3251869,,,,,
+Q12436652,Minister of Culture (France),Q142,Q142,,Q3251864,,,,,
+Q29962937,Minister of Ecological and Solidary Transition,Q142,Q142,,,,,,,
+Q20202948,"Minister of the Economy, Finances and Industry",Q142,Q142,,,,,,,
+Q17618126,"Minister of Economy, Industry and Digital",Q142,,,,,,,,
+Q29962890,Minister of Europe and Foreign Affairs,Q142,Q142,,,,,,,
+Q3251882,Minister of European Affairs of France,Q142,Q142,,,1950-07-12,,,,
+Q97061396,French Minister of Foreign Trade,Q142,Q142,,Q1916824,,,,,
+Q25398921,Minister of Higher Education,Q142,Q142,,,,,,,
+Q29968038,"Minister of Higher Education, Research and Innovation",Q142,Q142,,Q3251848,,,,,"Minister of Higher Education, Research and Innovation (France)"
+Q20203006,Minister of the Interior,Q142,Q142,,Q1412062,,,,,
+Q17553783,Minister of Justice,Q142,Q142,,,,,,,
+Q51622356,Minister of National Defence,Q142,Q142,,,,,,,
+Q16059954,Minister of National Education,Q142,Q142,,Q356016,,,,,
+Q29043058,"Minister of National Education, Higher Education and Research",Q142,Q142,,,,,,,
+Q29963125,Minister for Overseas France,Q142,Q142,,Q3251856,,,,,
+Q29962994,Minister of Public Account and Action,Q142,Q142,,Q3251899,,,,,
+Q3251873,French Minister of the Sea,Q142,Q142,,,,,,,Minister of the Sea (France)
+Q107658508,Minister for Solidarity and Health,Q142,Q142,,,,,,,Minister of Health (France)
+Q25395297,Minister of Sport,,Q142,,,,,,,
+Q97705623,Minister of State for Biodiversity,Q142,,,,,,,,
+Q107659110,Minister of State for Children and Families,Q142,Q142,,Q3251835,,,,,
+Q29963253,Minister of State for Disabled People,Q142,Q142,,,,,,,
+Q107658969,Minister of State for Priority Education Policy,Q142,Q142,,,,,,,
+Q107233130,Minister of State for Rural Affairs,Q142,Q142,,,,,,,
+Q87717124,"Minister of State for Tourism, French Nationals Abroad and Francophonie",Q142,,,,,,,,
+Q107658956,Minister of State for Youth and Engagement,Q142,Q142,,,,,,,
+Q107658936,"Minister of State for the Social, Inclusive and Responsible Economy",Q142,Q142,,,,,,,
+Q29962874,Minister of Territorial Development,Q142,Q142,,,,,,,
+Q27103646,Minister for Transport,Q142,Q142,,,,,,,
+Q108730464,Minister of Tourism,Q142,Q142,,Q3251905,,,,,
+Q47173651,Minister of Veterans Affairs,Q142,Q142,,Q3251832,,,,,
+Q19018174,Minister of War,Q142,Q142,,Q86113799,,,,,Minister of War (France)
+Q3251870,Minister of Youth Affairs and Sports,Q142,Q142,,,,,,,
+Q3247878,Head of the Minister of Defence's military cabinet,Q142,,,,,,,,Head of the Minister of Defence's military cabinet
+Q2962046,Head of the Prime Minister's military cabinet,Q142,Q1587677,,,,,,,Head of the Prime Minister's military cabinet
+Q107659645,Minister Delegate for Citizenship,Q142,Q142,,,,,,,
+Q107659591,"Minister Delegate for Gender Equality, Diversity and Equal Opportunities",Q142,Q142,,,,,,,
+Q107659549,Minister Delegate for Housing,Q142,Q142,,,,,,,
+Q107659517,Minister Delegate for Industry,Q142,Q142,,,,,,,
+Q97015780,Minister Delegate for Integration,Q142,Q142,,,,,,,
+Q97015808,Minister Delegate for Personal Independence,Q142,Q142,,,,,,,
+Q107659488,Minister Delegate for Public Accounts,Q142,Q142,,,,,,,
+Q107659387,Minister Delegate for Remembrance and Veterans,Q142,Q142,,,,,,,
+Q107659379,Minister Delegate for Small and Medium-sized Enterprises,Q142,Q142,,,,,,,
+Q107659360,Minister Delegate for Sport,Q142,Q142,,,,,,,
+Q16260691,Secretary of State for Digital Affairs,Q142,Q142,,,,,,,
+Q29963198,Secretary of State for Parliamentary Affairs,Q142,Q142,,,,,,,
+Q3409222,President of the Senate of France,Q142,,,,1958-10-04,,,,
+Q20968036,president of the French National Assembly,Q142,,,Q1704225,,,,,
+Q105513466,Government Spokesperson,Q142,Q142,,,,,,,
+Q17280398,Chief of Staff of the French Army,Q142,,,,1874,,,,Chief of Staff of the French Army
+Q98837534,High Commissioner for Planning,Q142,,,,2020-09-01,,,,
+Q7886203,Governor of the Banque de France,Q142,,,,,,,,Governor of the Bank of France
