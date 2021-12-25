@@ -460,7 +460,7 @@
             "text": "French"
           },
           "party": {
-            "text": "Socialist Party (1974–2018) Independent (2018–present)",
+            "text": "Socialist Party (1974–2018) Independent (2018–2020) Territories of Progress (2020–present)",
             "links": [
               {
                 "text": "Socialist Party",
@@ -471,6 +471,10 @@
                 "text": "Independent",
                 "type": "internal",
                 "page": "Independent politician"
+              },
+              {
+                "type": "internal",
+                "page": "Territories of Progress"
               }
             ]
           },
