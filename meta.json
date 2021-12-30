@@ -5,7 +5,8 @@
     },
     "cabinet": {
       "id": "Q96872687",
-      "start": "2017-07-03"
+      "start": "2017-07-03",
+      "parent": "Q2993836"
     },
     "source": {
         "url":   "https://www.gouvernement.fr/en/composition-of-the-government",
