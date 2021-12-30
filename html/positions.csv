@@ -32,6 +32,12 @@ Q29962994,Minister of Public Account and Action,Q142,Q142,,Q3251899,,,,,
 Q3251873,French Minister of the Sea,Q142,Q142,,,,,,,Minister of the Sea (France)
 Q107658508,Minister for Solidarity and Health,Q142,Q142,,,,,,,Minister of Health (France)
 Q25395297,Minister of Sport,,Q142,,,,,,,
+Q29962874,Minister of Territorial Development,Q142,Q142,,,,,,,
+Q27103646,Minister for Transport,Q142,Q142,,,,,,,
+Q108730464,Minister of Tourism,Q142,Q142,,Q3251905,,,,,
+Q47173651,Minister of Veterans Affairs,Q142,Q142,,Q3251832,,,,,
+Q19018174,Minister of War,Q142,Q142,,Q86113799,,,,,Minister of War (France)
+Q3251870,Minister of Youth Affairs and Sports,Q142,Q142,,,,,,,
 Q97705623,Minister of State for Biodiversity,Q142,,,,,,,,
 Q107659110,Minister of State for Children and Families,Q142,Q142,,Q3251835,,,,,
 Q29963253,Minister of State for Disabled People,Q142,Q142,,,,,,,
@@ -41,14 +47,7 @@ Q107233130,Minister of State for Rural Affairs,Q142,Q142,,,,,,,
 Q87717124,"Minister of State for Tourism, French Nationals Abroad and Francophonie",Q142,,,,,,,,
 Q107658956,Minister of State for Youth and Engagement,Q142,Q142,,,,,,,
 Q107658936,"Minister of State for the Social, Inclusive and Responsible Economy",Q142,Q142,,,,,,,
-Q29962874,Minister of Territorial Development,Q142,Q142,,,,,,,
-Q27103646,Minister for Transport,Q142,Q142,,,,,,,
-Q108730464,Minister of Tourism,Q142,Q142,,Q3251905,,,,,
-Q47173651,Minister of Veterans Affairs,Q142,Q142,,Q3251832,,,,,
-Q19018174,Minister of War,Q142,Q142,,Q86113799,,,,,Minister of War (France)
-Q3251870,Minister of Youth Affairs and Sports,Q142,Q142,,,,,,,
-Q3247878,Head of the Minister of Defence's military cabinet,Q142,,,,,,,,Head of the Minister of Defence's military cabinet
-Q2962046,Head of the Prime Minister's military cabinet,Q142,Q1587677,,,,,,,Head of the Prime Minister's military cabinet
+Q110310819,"Minister Delegate for Tourism, French Nationals Abroad and Francophonie",Q142,Q142,,,,,,,
 Q107659645,Minister Delegate for Citizenship,Q142,Q142,,,,,,,
 Q107659591,"Minister Delegate for Gender Equality, Diversity and Equal Opportunities",Q142,Q142,,,,,,,
 Q107659549,Minister Delegate for Housing,Q142,Q142,,,,,,,
@@ -61,6 +60,8 @@ Q107659379,Minister Delegate for Small and Medium-sized Enterprises,Q142,Q142,,,
 Q107659360,Minister Delegate for Sport,Q142,Q142,,,,,,,
 Q16260691,Secretary of State for Digital Affairs,Q142,Q142,,,,,,,
 Q29963198,Secretary of State for Parliamentary Affairs,Q142,Q142,,,,,,,
+Q2962046,Head of the Prime Minister's military cabinet,Q142,Q1587677,,,,,,,Head of the Prime Minister's military cabinet
+Q3247878,Head of the Minister of Defence's military cabinet,Q142,,,,,,,,Head of the Minister of Defence's military cabinet
 Q3409222,President of the Senate of France,Q142,,,,1958-10-04,,,,
 Q20968036,president of the French National Assembly,Q142,,,Q1704225,,,,,
 Q105513466,Government Spokesperson,Q142,Q142,,,,,,,
