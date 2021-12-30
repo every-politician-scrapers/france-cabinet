@@ -32,6 +32,12 @@ Q29962994,Minister of Public Account and Action
 Q3251873,Minister of the Sea
 Q107658508,Minister for Solidarity and Health
 Q25395297,Minister of Sport
+Q29962874,Minister of Territorial Development
+Q27103646,Minister for Transport
+Q108730464,Minister of Tourism
+Q47173651,Minister of Veterans Affairs
+Q19018174,Minister of War
+Q3251870,Minister of Youth Affairs and Sports
 Q97705623,Minister of State for Biodiversity
 Q107659110,Minister of State for Children and Families
 Q29963253,Minister of State for Disabled People
@@ -41,14 +47,7 @@ Q107233130,Minister of State for Rural Affairs
 Q87717124,"Minister of State for Tourism, French Nationals Abroad and Francophonie"
 Q107658956,Minister of State for Youth and Engagement
 Q107658936,"Minister of State for the Social, Inclusive and Responsible Economy"
-Q29962874,Minister of Territorial Development
-Q27103646,Minister for Transport
-Q108730464,Minister of Tourism
-Q47173651,Minister of Veterans Affairs
-Q19018174,Minister of War
-Q3251870,Minister of Youth Affairs and Sports
-Q3247878,Head of the Minister of Defence's military cabinet
-Q2962046,Head of the Prime Minister's military cabinet
+Q110310819,"Minister Delegate for Tourism, French Nationals Abroad and Francophonie"
 Q107659645,Minister Delegate for Citizenship
 Q107659591,"Minister Delegate for Gender Equality, Diversity and Equal Opportunities"
 Q107659549,Minister Delegate for Housing
@@ -61,6 +60,8 @@ Q107659379,Minister Delegate for Small and Medium-sized Enterprises
 Q107659360,Minister Delegate for Sport
 Q16260691,Secretary of State for Digital Affairs
 Q29963198,Secretary of State for Parliamentary Affairs
+Q2962046,Head of the Prime Minister's military cabinet
+Q3247878,Head of the Minister of Defence's military cabinet
 Q3409222,President of the Senate
 Q20968036,President of the National Assembly
 Q105513466,Government Spokesperson
