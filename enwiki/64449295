@@ -333,38 +333,6 @@
             "text": "Jean Castex signature.svg"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.lefigaro.fr/elections/presidentielles/ensemble-citoyens-la-majorite-lance-son-alliance-en-soutien-a-macron-20211130",
-          "title": "«Ensemble citoyens !» : la majorité lance son alliance en soutien à Macron",
-          "lang": "fr",
-          "trans-title": "“Together citizens!” : the majority launches its alliance in support of Macron",
-          "first": "Loris",
-          "last": "Boichot",
-          "newspaper": "Le Figaro",
-          "date": "30 November 2021",
-          "access-date": "4 December 2021",
-          "archive-date": "4 December 2021",
-          "archive-url": "https://web.archive.org/web/20211204024156/https://www.lefigaro.fr/elections/presidentielles/ensemble-citoyens-la-majorite-lance-son-alliance-en-soutien-a-macron-20211130",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Mallet",
-          "first1": "Victor",
-          "title": "Macron names Jean Castex as new French prime minister",
-          "url": "https://www.ft.com/content/7981cdd1-3c9e-46d6-8090-2dae4ab9c8af",
-          "newspaper": "Financial Times",
-          "date": "3 July 2020",
-          "access-date": "3 July 2020",
-          "archive-date": "3 July 2020",
-          "archive-url": "https://web.archive.org/web/20200703102434/https://www.ft.com/content/7981cdd1-3c9e-46d6-8090-2dae4ab9c8af",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

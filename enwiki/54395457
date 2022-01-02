@@ -205,26 +205,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.lemonde.fr/politique/article/2019/01/25/le-depute-lrm-adrien-taquet-nomme-secretaire-d-etat-charge-de-la-protection-de-l-enfance_5414215_823448.html",
-          "title": "Le député LRM Adrien Taquet nommé secrétaire d'Etat chargé de la protection de l'enfance",
-          "newspaper": "Le Monde.fr",
-          "date": "25 January 2019",
-          "language": "French",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://elections.interieur.gouv.fr/legislatives-2017/092/09202.html",
-          "title": "Elections législatives 2017",
-          "access-date": "19 June 2017",
-          "work": "Ministry of the Interior",
-          "language": "French",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

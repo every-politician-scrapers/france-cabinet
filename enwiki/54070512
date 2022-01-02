@@ -155,43 +155,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.lemonde.fr/gouvernement-philippe/article/2017/05/17/la-militante-sophie-cluzel-nommee-secretaire-d-etat-aux-personnes-handicapees_5129298_5129180.html",
-          "title": "La militante Sophie Cluzel nommée secrétaire d'Etat aux personnes handicapées",
-          "first": "Aurélie Collas et Mattea",
-          "last": "Battaglia",
-          "newspaper": "Le Monde.fr",
-          "date": "17 May 2017",
-          "accessdate": "17 May 2017",
-          "via": "Le Monde",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.lesechos.fr/politique-societe/gouvernement/0212100278566-sophie-cluzel-une-secretaire-detat-chargee-du-handicap-concernee-2087553.php",
-          "title": "Sophie Cluzel : une secrétaire d'Etat chargée du Handicap engagée",
-          "date": "17 May 2017",
-          "accessdate": "17 May 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.huffingtonpost.fr/2017/05/17/qui-est-sophie-cluzel-nommee-secretaire-detat-chargee-des-pers_a_22095594/",
-          "title": "Qui est Sophie Cluzel, nommée secrétaire d'Etat chargée des personnes handicapées",
-          "website": "Le Huffington Post",
-          "date": "17 May 2017",
-          "accessdate": "17 May 2017",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

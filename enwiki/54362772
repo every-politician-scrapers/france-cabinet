@@ -263,14 +263,6 @@
             "text": "Sales Executive"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.francetvinfo.fr/elections/resultats/loire-atlantique_44/loire-atlantique_5eme-circonscription",
-          "title": "Loire-Atlantique - 5e circonscription : Résultats des législatives",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

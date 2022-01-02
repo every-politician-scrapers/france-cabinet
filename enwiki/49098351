@@ -323,22 +323,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Mme Barbara Pompili",
-          "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA609520",
-          "website": "National Assembly",
-          "accessdate": "14 January 2016",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

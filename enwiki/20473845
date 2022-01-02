@@ -408,26 +408,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Gouvernement Castex en direct : Darmanin nommé ministre de l'intérieur, Dupond-Moretti garde des sceaux et Bachelot à la culture",
-          "website": "Le Monde.fr",
-          "date": "2020-07-06",
-          "url": "https://www.lemonde.fr/politique/live/2020/07/06/en-direct-la-composition-du-gouvernement-de-jean-castex-annoncee-a-19-heures_6045386_823448.html",
-          "language": "fr",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.assemblee-nationale.fr/elections/2007/resultats/LDD_DEP.csv.asp",
-          "access-date": "4 July 2010",
-          "title": "LISTE DÉFINITIVE DES DÉPUTÉS ÉLUS À L'ISSUE DES DEUX TOURS",
-          "language": "fr",
-          "publisher": "National Assembly of France",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

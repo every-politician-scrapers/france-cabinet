@@ -259,24 +259,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.boursier.com/vals/ALL/avant-le-congres-les-socialistes-jouent-la-carte-jeune-feed-42535.htm",
-          "accessdate": "2010-05-02",
-          "title": "Avant le congrès, les socialistes jouent la carte jeune",
-          "author": "Laure Bretton",
-          "work": "Boursier.com",
-          "agency": "Reuters",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

@@ -191,14 +191,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.francetvinfo.fr/elections/resultats/val-d-oise_95/val-d-oise_6eme-circonscription",
-          "title": "Val-d'Oise - 6e circonscription : Résultats des législatives",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

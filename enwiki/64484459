@@ -283,23 +283,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Qui sont les ministres du gouvernement Castex ?",
-          "newspaper": "Le Monde.fr",
-          "date": "2020-07-06",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/07/06/famille-politique-etudes-ou-precedentes-fonctions-decouvrez-qui-sont-les-membres-du-gouvernement-castex_6045396_4355770.html",
-          "language": "fr",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
