@@ -316,25 +316,6 @@
             "text": "Economist"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.theparliamentmagazine.eu/news/article/movers-and-shakers-31-july-2020",
-          "title": "Movers and Shakers &#124; 31 July 2020",
-          "date": "31 July 2020",
-          "website": "The Parliament Magazine",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://elections.interieur.gouv.fr/legislatives-2017/091/09106.html",
-          "title": "Elections législatives 2017",
-          "access-date": "19 June 2017",
-          "work": "Ministry of the Interior",
-          "language": "French",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

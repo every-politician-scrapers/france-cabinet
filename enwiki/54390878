@@ -249,29 +249,6 @@
             "text": "3 September 2019"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://elections.interieur.gouv.fr/legislatives-2017/087/08702.html",
-          "title": "Elections législatives 2017",
-          "access-date": "19 June 2017",
-          "work": "Ministry of the Interior",
-          "language": "French",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

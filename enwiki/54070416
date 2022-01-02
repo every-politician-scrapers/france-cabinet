@@ -345,28 +345,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "author1": "Anne Courtel",
-          "title": "Gouvernement – Gérald Darmanin, progresse toujours et transgresse encore",
-          "url": "http://www.lavoixdunord.fr/164047/article/2017-05-17/gerald-darmanin-maire-de-tourcoing-est-nomme-ministre",
-          "website": "lavoixdunord.fr",
-          "publisher": "La Voix du Nord",
-          "access-date": "19 May 2017",
-          "language": "fr",
-          "date": "17 May 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/05/17/gerald-darmanin-un-espoir-de-la-droite-a-bercy_1570144",
-          "title": "Gérald Darmanin, un espoir de la droite à Bercy",
-          "work": "Libération",
-          "access-date": "17 May 2017",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

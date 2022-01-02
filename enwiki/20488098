@@ -176,23 +176,6 @@
             "text": "Haut fonctionnaire"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.assemblee-nationale.fr/elections/2007/resultats/LDD_DEP.csv.asp",
-          "accessdate": "2010-07-03",
-          "title": "Liste Définitive des Députés Élus à L'issue des Deux Tours",
-          "language": "French",
-          "publisher": "National Assembly of France",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

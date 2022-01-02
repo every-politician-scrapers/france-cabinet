@@ -413,17 +413,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.assemblee-nationale.fr/elections/2007/resultats/LDD_DEP.csv.asp",
-          "accessdate": "3 July 2010",
-          "title": "Liste Définitive des Députés Élus à L'issue des Deux Tours",
-          "language": "French",
-          "publisher": "National Assembly of France",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
