@@ -11,7 +11,6 @@ module.exports = function () {
                   ?startTime ?startTimePrecision
                   ?abolished ?abolishedPrecision
                   ?endTime   ?endTimePrecision
-                  ?isa ?isaLabel ?parent ?parentLabel
                   ?replaces ?replacesLabel ?replacedBy ?replacedByLabel
                   ?follows ?followsLabel ?followedBy ?followedByLabel
   WHERE {
@@ -24,17 +23,16 @@ module.exports = function () {
     OPTIONAL { ?item p:P580 [ a wikibase:BestRank ; psv:P580 [wikibase:timeValue ?startTime ; wikibase:timePrecision ?startTimePrecision] ] }
     OPTIONAL { ?item p:P576 [ a wikibase:BestRank ; psv:P576 [wikibase:timeValue ?abolished ; wikibase:timePrecision ?abolishedPrecision] ] }
     OPTIONAL { ?item p:P582 [ a wikibase:BestRank ; psv:P582 [wikibase:timeValue ?endTime   ; wikibase:timePrecision ?endTimePrecision]   ] }
-    OPTIONAL { ?item wdt:P580 ?startTime     }
-    OPTIONAL { ?item wdt:P576 ?abolished     }
-    OPTIONAL { ?item wdt:P582 ?endTime       }
-    OPTIONAL { ?item wdt:P31 ?isa            }
-    OPTIONAL { ?item wdt:P279 ?parent        }
+
     OPTIONAL { ?item wdt:P1365 ?replaces     }
     OPTIONAL { ?item wdt:P1366 ?replacedBy   }
     OPTIONAL { ?item wdt:P155 ?follows       }
     OPTIONAL { ?item wdt:P156 ?followedBy    }
 
-    SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+    BIND(COALESCE(?inception, ?startTime) AS ?start)
+
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
   }
-  ORDER BY ?inception ?isa ?parent`
+  # ${new Date().toISOString()}
+  ORDER BY ?start ?item`
 }
