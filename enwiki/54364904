@@ -10,7 +10,8 @@
     "Lycée Lakanal alumni",
     "ESSEC Business School alumni",
     "People from Bourg-la-Reine",
-    "Politicians from Île-de-France"
+    "Politicians from Île-de-France",
+    "Secretaries of State of France"
   ],
   "sections": [
     {
@@ -94,6 +95,28 @@
             "text": "Jean-Baptiste Lemoyne (cropped).jpg"
           },
           "office": {
+            "text": "Minister Delegate for Tourism, French living abroad, Francophonie and Small and medium-sized enterprises",
+            "links": [
+              {
+                "text": "Minister Delegate",
+                "type": "internal",
+                "page": "Minister Delegate (France)"
+              },
+              {
+                "type": "internal",
+                "page": "Tourism"
+              },
+              {
+                "type": "internal",
+                "page": "Francophonie"
+              },
+              {
+                "type": "internal",
+                "page": "Small and medium-sized enterprises"
+              }
+            ]
+          },
+          "office1": {
             "text": "Secretary of State for Tourism, French living abroad and Francophonie",
             "links": [
               {
@@ -112,7 +135,7 @@
             ]
           },
           "term_start": {
-            "text": "26 July 2020"
+            "text": "8 December 2021"
           },
           "president": {
             "text": "Emmanuel Macron",
@@ -124,6 +147,39 @@
             ]
           },
           "primeminister": {
+            "text": "Jean Castex",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jean Castex"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Alain Griset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alain Griset"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "26 July 2020"
+          },
+          "term_end1": {
+            "text": "11 December 2021"
+          },
+          "president1": {
+            "text": "Emmanuel Macron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emmanuel Macron"
+              }
+            ]
+          },
+          "primeminister1": {
             "text": "Jean Castex",
             "links": [
               {
@@ -185,20 +241,6 @@
               {
                 "type": "internal",
                 "page": "Bourg-la-Reine"
-              },
-              {
-                "type": "internal",
-                "page": "France"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "French",
-            "links": [
-              {
-                "text": "French",
-                "type": "internal",
-                "page": "France"
               }
             ]
           },
