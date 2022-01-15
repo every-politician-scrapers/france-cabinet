@@ -67,7 +67,7 @@
               ]
             },
             {
-              "text": "A former member of the Socialist Party, he has been an Independent since 2018.",
+              "text": "A former member of the Socialist Party, he had been an Independent since 2018 before founding Territories of Progress in 2020.",
               "links": [
                 {
                   "text": "Socialist Party",
@@ -78,6 +78,10 @@
                   "text": "Independent",
                   "type": "internal",
                   "page": "Independent politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Territories of Progress"
                 }
               ]
             }
