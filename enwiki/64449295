@@ -293,7 +293,7 @@
             ]
           },
           "otherparty": {
-            "text": "Union for a Popular Movement (until 2015) The Republicans (2015–2020) Together Citizens ! (2021–)",
+            "text": "Union for a Popular Movement (until 2015) The Republicans (2015–2020)",
             "links": [
               {
                 "type": "internal",
@@ -303,10 +303,6 @@
                 "text": "The Republicans",
                 "type": "internal",
                 "page": "The Republicans (France)"
-              },
-              {
-                "type": "internal",
-                "page": "Together Citizens !"
               }
             ]
           },
