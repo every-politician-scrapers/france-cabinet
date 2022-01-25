@@ -25,11 +25,6 @@
               "text": "Richard Ferrand (born 1 July 1962) is a French politician of La République En Marche! (LREM) who has been serving as President of the National Assembly since 2018.",
               "links": [
                 {
-                  "text": "French",
-                  "type": "internal",
-                  "page": "France"
-                },
-                {
                   "type": "internal",
                   "page": "La République En Marche!"
                 },
@@ -83,10 +78,6 @@
           "template": "short description"
         },
         {
-          "date": "June 2017",
-          "template": "use dmy dates"
-        },
-        {
           "part": "Missing information on nepotism case concerning property transaction, controversy surrounding use of parliamentary assistants and indemnities, financing of France-Palestine Solidarité and brief term as Minister of Territorial Cohesion",
           "date": "June 2017",
           "template": "update"
@@ -95,6 +86,13 @@
           "topic": "gov",
           "date": "February 2017",
           "template": "expand french"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "date": "June 2017",
+          "template": "use dmy dates"
         },
         {
           "year": "1962",
