@@ -223,7 +223,13 @@
             ]
           },
           "successor3": {
-            "text": "Florence Provendier"
+            "text": "Florence Provendier",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florence Provendier"
+              }
+            ]
           },
           "birth_date": {
             "text": "March 16, 1989"
