@@ -162,10 +162,22 @@
             "text": "25 February 2019"
           },
           "predecessor2": {
-            "text": "Sébastien Pietrasanta"
+            "text": "Sébastien Pietrasanta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sébastien Pietrasanta"
+              }
+            ]
           },
           "successor2": {
-            "text": "Bénédicte Pételle"
+            "text": "Bénédicte Pételle",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bénédicte Pételle"
+              }
+            ]
           },
           "birth_date": {
             "text": "January 3, 1977"
