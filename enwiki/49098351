@@ -207,7 +207,13 @@
             "text": "Romain Joron"
           },
           "successor1": {
-            "text": "Cécile Delpirou"
+            "text": "Cécile Delpirou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cécile Delpirou"
+              }
+            ]
           },
           "office3": {
             "text": "Secretary of State for Biodiversity",

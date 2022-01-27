@@ -59,6 +59,13 @@
               "text": "He was elected on 16 June 2002, and re-elected on 17 June 2007, 17 June 2012 and in 2017."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed to government in 2020."
+            }
+          ]
         }
       ],
       "templates": [
@@ -174,6 +181,19 @@
           },
           "profession": {
             "text": "Haut fonctionnaire"
+          },
+          "termend": {
+            "text": "2020",
+            "number": 2020
+          },
+          "successor": {
+            "text": "Claire Bouchet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Claire Bouchet"
+              }
+            ]
           }
         }
       ]
