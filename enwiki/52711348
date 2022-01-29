@@ -88,9 +88,6 @@
           "template": "expand french"
         },
         {
-          "template": "multiple issues"
-        },
-        {
           "date": "June 2017",
           "template": "use dmy dates"
         },
