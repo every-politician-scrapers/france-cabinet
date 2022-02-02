@@ -12,7 +12,8 @@
     "Paris Nanterre University alumni",
     "Sciences Po alumni",
     "ESSEC Business School alumni",
-    "Secretaries of State of France"
+    "Secretaries of State of France",
+    "Members of Parliament for Paris"
   ],
   "sections": [
     {
@@ -226,6 +227,15 @@
               {
                 "type": "internal",
                 "page": "ESSEC Business School"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Marie Silin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marie Silin"
               }
             ]
           }
