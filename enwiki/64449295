@@ -147,7 +147,7 @@
             ]
           },
           "office1": {
-            "text": "President of Conflent Canigó (Community of Communes)",
+            "text": "President of Conflent Canigó",
             "links": [
               {
                 "text": " Conflent Canigó",
@@ -156,11 +156,6 @@
                   "wiki": "",
                   "lang": "fr"
                 }
-              },
-              {
-                "text": "Community of Communes",
-                "type": "internal",
-                "page": "Communauté de communes"
               }
             ]
           },
@@ -171,7 +166,12 @@
             "text": "3 July 2020"
           },
           "predecessor1": {
-            "text": "Office created"
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
           },
           "successor1": {
             "text": "Jean-Louis Jallat"
@@ -274,7 +274,7 @@
             "number": 4
           },
           "residence": {
-            "text": "Hôtel Matignon (official)",
+            "text": "Hôtel Matignon",
             "links": [
               {
                 "type": "internal",
