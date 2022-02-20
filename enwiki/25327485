@@ -181,10 +181,22 @@
             "text": "16 November 2018"
           },
           "predecessor3": {
-            "text": "Denys Robillard"
+            "text": "Denys Robillard",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Denys Robillard"
+              }
+            ]
           },
           "successor3": {
-            "text": "Stéphane Baudu"
+            "text": "Stéphane Baudu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stéphane Baudu"
+              }
+            ]
           },
           "office4": {
             "text": "Mayor of Marchenoir",
@@ -210,7 +222,13 @@
             "text": "Gérard Martineau"
           },
           "successor4": {
-            "text": "Sylvie Gagnier"
+            "text": "Sylvie Gagnier",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sylvie Gagnier"
+              }
+            ]
           },
           "birth_date": {
             "text": "January 11, 1971"
