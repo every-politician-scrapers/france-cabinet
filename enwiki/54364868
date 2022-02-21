@@ -5,8 +5,13 @@
     "1986 births",
     "Living people",
     "Paris 2 Panthéon-Assas University alumni",
-    "La République En Marche! politicians",
+    "21st-century French politicians",
+    "Departmental councilors (France)",
+    "Presidents of French departments",
+    "Union for a Popular Movement politicians",
     "The Republicans (France) politicians",
+    "La République En Marche! politicians",
+    "Mayors of places in Normandy",
     "Government ministers of France",
     "Secretaries of State of France"
   ],
@@ -18,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Sébastien Lecornu (born 11 June 1986) is a French politician serving as Minister of the Overseas since 2020.",
+              "text": "Sébastien Lecornu (born 11 June 1986) is a French politician who has served as Minister of the Overseas since 2020.",
               "links": [
                 {
                   "text": "Minister of the Overseas",
@@ -33,7 +38,7 @@
               }
             },
             {
-              "text": "A member of La République En Marche! (REM) since he left The Republicans (LR) in 2017, he was President of the Departmental Council of Eure from 2015 to 2017, Secretary of State to the Minister of the Ecological and Inclusive Transition from 2017 to 2018 and Minister of Local Authorities from 2018 until 2020.",
+              "text": "A member of La République En Marche! (LREM) since he left The Republicans (LR) in 2017, he was President of the Departmental Council of Eure from 2015 to 2017, Secretary of State to the Minister of the Ecological and Inclusive Transition from 2017 to 2018 and Minister of Local Authorities from 2018 until 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -278,16 +283,11 @@
             "text": "June 11, 1986"
           },
           "birth_place": {
-            "text": "Eaubonne, Île-de-France, France",
+            "text": "Eaubonne, France",
             "links": [
               {
                 "type": "internal",
                 "page": "Eaubonne"
-              },
-              {
-                "text": "Île-de-France",
-                "type": "internal",
-                "page": "Île-de-France"
               }
             ]
           },

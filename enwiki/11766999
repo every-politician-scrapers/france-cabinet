@@ -9,13 +9,16 @@
     "Knights Grand Cross of the Order of Isabella the Catholic",
     "People from Lorient",
     "Mayors of places in Brittany",
-    "Politicians of the French Fifth Republic",
+    "Presidents of French regions and overseas collectivities",
+    "20th-century French politicians",
+    "21st-century French politicians",
     "Socialist Party (France) politicians",
     "Rennes 2 University alumni",
     "Rennes 2 University faculty",
     "Deputies of the 12th National Assembly of the French Fifth Republic",
     "Grand Cordons of the Order of the Rising Sun",
-    "Grand Crosses with Star and Sash of the Order of Merit of the Federal Republic of Germany"
+    "Grand Crosses with Star and Sash of the Order of Merit of the Federal Republic of Germany",
+    "Regional councillors of France"
   ],
   "sections": [
     {
@@ -25,12 +28,16 @@
         {
           "sentences": [
             {
-              "text": "Jean-Yves Le Drian (born 30 June 1947) is a French politician serving as Minister for Europe and Foreign Affairs since 2017.",
+              "text": "Jean-Yves Le Drian (born 30 June 1947) is a French politician who has served as Minister for Europe and Foreign Affairs since 2017 under President Emmanuel Macron.",
               "links": [
                 {
                   "text": "Minister for Europe and Foreign Affairs",
                   "type": "internal",
                   "page": "Ministry for Europe and Foreign Affairs"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emmanuel Macron"
                 }
               ],
               "formatting": {
@@ -54,15 +61,17 @@
               ]
             },
             {
-              "text": "He was nominated by Emmanuel Macron to serve as Foreign Minister in the First Philippe government on 17 May 2017.",
+              "text": "He was appointed by Macron to serve as Foreign Minister in the first government of Prime Minister Édouard Philippe on 17 May 2017.",
               "links": [
                 {
-                  "type": "internal",
-                  "page": "Emmanuel Macron"
-                },
-                {
+                  "text": "first government",
                   "type": "internal",
                   "page": "First Philippe government"
+                },
+                {
+                  "text": "Édouard Philippe",
+                  "type": "internal",
+                  "page": "Édouard Philippe"
                 }
               ]
             },
@@ -131,15 +140,6 @@
                 "text": "Minister for Europe and Foreign Affairs",
                 "type": "internal",
                 "page": "Ministry for Europe and Foreign Affairs"
-              }
-            ]
-          },
-          "president": {
-            "text": "Emmanuel Macron",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emmanuel Macron"
               }
             ]
           },
@@ -311,15 +311,6 @@
                 "text": "Secretary of State for the Sea",
                 "type": "internal",
                 "page": "Minister of the Sea (France)"
-              }
-            ]
-          },
-          "president5": {
-            "text": "François Mitterrand",
-            "links": [
-              {
-                "type": "internal",
-                "page": "François Mitterrand"
               }
             ]
           },
