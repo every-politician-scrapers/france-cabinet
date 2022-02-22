@@ -39,7 +39,7 @@
               }
             },
             {
-              "text": "He was member of The Republicans (LR) until 2020, when he joined La République En Marche! (LREM).",
+              "text": "He was a member of The Republicans (LR) until 2020, when he joined La République En Marche! (LREM).",
               "links": [
                 {
                   "text": "The Republicans",
@@ -256,15 +256,8 @@
               {
                 "type": "internal",
                 "page": "Gers"
-              },
-              {
-                "type": "internal",
-                "page": "France"
               }
             ]
-          },
-          "nationality": {
-            "text": "French"
           },
           "spouse": {
             "text": "Sandra Ribelaygue"
