@@ -3,12 +3,18 @@
   "pageID": 625894,
   "categories": [
     "1951 births",
+    "Living people",
     "Candidates in the 2002 French presidential election",
     "Candidates in the 2007 French presidential election",
     "Candidates in the 2012 French presidential election",
     "Centre of Social Democrats politicians",
     "Democratic Force (France) politicians",
+    "Union for French Democracy politicians",
     "Democratic Movement (France) politicians",
+    "Deputies of the 8th National Assembly of the French Fifth Republic",
+    "Deputies of the 9th National Assembly of the French Fifth Republic",
+    "Deputies of the 10th National Assembly of the French Fifth Republic",
+    "Deputies of the 11th National Assembly of the French Fifth Republic",
     "Deputies of the 12th National Assembly of the French Fifth Republic",
     "Deputies of the 13th National Assembly of the French Fifth Republic",
     "European Democratic Party",
@@ -17,12 +23,12 @@
     "French Roman Catholics",
     "Gandhians",
     "Non-Indian Gandhians",
-    "Living people",
     "Mayors of places in Nouvelle-Aquitaine",
     "People from Pau, Pyrénées-Atlantiques",
     "Politicians from Nouvelle-Aquitaine",
     "State ministers of France",
-    "Union for French Democracy politicians"
+    "Departmental councillors (France)",
+    "Presidents of French departments"
   ],
   "sections": [
     {
@@ -470,13 +476,14 @@
             "text": "President of the General Council of Pyrénées-Atlantiques",
             "links": [
               {
-                "text": "President of the General Council",
+                "text": "President",
                 "type": "internal",
                 "page": "List of presidents of departmental councils (France)"
               },
               {
+                "text": "General Council of Pyrénées-Atlantiques",
                 "type": "internal",
-                "page": "Pyrénées-Atlantiques"
+                "page": "Departmental Council of Pyrénées-Atlantiques"
               }
             ]
           },

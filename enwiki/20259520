@@ -93,6 +93,37 @@
             "text": "Informal meeting of justice and home affairs ministers.Arrivals (Home Affairs) Jacqueline Gourault (34910260564) (cropped).jpg"
           },
           "office": {
+            "text": "Member of the Constitutional Council",
+            "links": [
+              {
+                "text": "Constitutional Council",
+                "type": "internal",
+                "page": "Constitutional Council of France"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 March 2022"
+          },
+          "appointer": {
+            "text": "Emmanuel Macron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emmanuel Macron"
+              }
+            ]
+          },
+          "succeeding": {
+            "text": "Nicole Maestracci",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicole Maestracci"
+              }
+            ]
+          },
+          "office1": {
             "text": "Minister of Territorial Cohesion and Relations with Local Authorities",
             "links": [
               {
@@ -102,10 +133,10 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "16 October 2018"
           },
-          "primeminister": {
+          "primeminister1": {
             "text": "Édouard Philippe Jean Castex",
             "links": [
               {
@@ -119,7 +150,7 @@
               }
             ]
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "Jacques Mézard",
             "links": [
               {
