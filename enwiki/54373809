@@ -12,7 +12,8 @@
     "21st-century French women politicians",
     "Women members of the National Assembly (France)",
     "Aix-Marseille University alumni",
-    "French Ministers of the Environment"
+    "French Ministers of the Environment",
+    "Members of Parliament for Haute-Marne"
   ],
   "sections": [
     {
@@ -165,6 +166,9 @@
           "term_start2": {
             "text": "21 June 2017"
           },
+          "term_end2": {
+            "text": "27 August 2020"
+          },
           "predecessor2": {
             "text": "Luc Chatel",
             "links": [
@@ -205,6 +209,15 @@
               {
                 "type": "internal",
                 "page": "Aix-Marseille University"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Sylvain Templier",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sylvain Templier"
               }
             ]
           }

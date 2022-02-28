@@ -374,6 +374,36 @@
             "text": "Édouard Philippe\n\nJean Castex"
           },
           "office1": {
+            "text": "Co-Princes of Andorra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Co-Princes of Andorra"
+              }
+            ]
+          },
+          "alongside1": {
+            "text": "Joan Enric Vives Sicília",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joan Enric Vives Sicília"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "14 May 2017"
+          },
+          "predecessor1": {
+            "text": "François Hollande",
+            "links": [
+              {
+                "type": "internal",
+                "page": "François Hollande"
+              }
+            ]
+          },
+          "office2": {
             "text": "Minister of the Economy, Industry and Digital Affairs",
             "links": [
               {
@@ -383,13 +413,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "26 August 2014"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "30 August 2016"
           },
-          "primeminister1": {
+          "primeminister2": {
             "text": "Manuel Valls",
             "links": [
               {
@@ -398,7 +428,7 @@
               }
             ]
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Arnaud Montebourg",
             "links": [
               {
@@ -407,7 +437,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Michel Sapin",
             "links": [
               {
@@ -416,7 +446,7 @@
               }
             ]
           },
-          "office2": {
+          "office3": {
             "text": "Additional positions",
             "links": [
               {
