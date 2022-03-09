@@ -20,8 +20,13 @@
         {
           "sentences": [
             {
-              "text": "Jacqueline Gourault (née Doliveux, 20 November 1950) is a French politician serving as Minister of Territorial Cohesion and Relations with Local Authorities in the governments of successive Prime Ministers Édouard Philippe and Jean Castex since 2018.",
+              "text": "Jacqueline Gourault (née Doliveux, 20 November 1950) is a French politician of the Democratic Movement (MoDem) who served as Minister of Territorial Cohesion and Relations with Local Authorities in the governments of successive Prime Ministers Édouard Philippe and Jean Castex from 2018 to 2022.",
               "links": [
+                {
+                  "text": "Democratic Movement",
+                  "type": "internal",
+                  "page": "Democratic Movement (France)"
+                },
                 {
                   "text": "Minister of Territorial Cohesion and Relations with Local Authorities",
                   "type": "internal",
@@ -50,13 +55,8 @@
               }
             },
             {
-              "text": "A member of the Democratic Movement (MoDem), she previously served as Minister attached to the Minister of the Interior from 2017 to 2018.",
+              "text": "She previously served as Minister attached to the Minister of the Interior from 2017 to 2018.",
               "links": [
-                {
-                  "text": "Democratic Movement",
-                  "type": "internal",
-                  "page": "Democratic Movement (France)"
-                },
                 {
                   "text": "Minister of the Interior",
                   "type": "internal",
@@ -135,6 +135,10 @@
           },
           "term_start1": {
             "text": "16 October 2018"
+          },
+          "term_end1": {
+            "text": "2022",
+            "number": 2022
           },
           "primeminister1": {
             "text": "Édouard Philippe Jean Castex",
