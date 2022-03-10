@@ -1,361 +1,39 @@
 {
-  "title": "Gérard Larcher",
-  "pageID": 19454779,
-  "categories": [
-    "1949 births",
-    "Living people",
-    "People from Orne",
-    "French Lutherans",
-    "The Republicans (France) politicians",
-    "Rally for the Republic politicians",
-    "Union for a Popular Movement politicians",
-    "Gaullism, a way forward for France",
-    "Government ministers of France",
-    "Presidents of the Senate (France)",
-    "French Senators of the Fifth Republic",
-    "Mayors of places in Île-de-France",
-    "Converts to Lutheranism from Roman Catholicism",
-    "Politicians from Normandy",
-    "Senators of Yvelines",
-    "French veterinarians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Gérard Philippe René André Larcher (born 14 September 1949) is a French politician serving as President of the Senate since 2014, previously holding the office from 2008 to 2011.",
-              "links": [
-                {
-                  "text": "President of the Senate",
-                  "type": "internal",
-                  "page": "List of presidents of the Senate of France"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Gérard Philippe René André Larcher"
-                ]
-              }
-            },
-            {
-              "text": "A member of The Republicans, he has been a Senator for the Yvelines department since 1986, with an interruption between 2004 and 2007, when he was Minister for Employment, Labour and Professional Integration of Young People under President Jacques Chirac.",
-              "links": [
-                {
-                  "text": "The Republicans",
-                  "type": "internal",
-                  "page": "The Republicans (France)"
-                },
-                {
-                  "text": "Senator",
-                  "type": "internal",
-                  "page": "Senate (France)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Yvelines"
-                },
-                {
-                  "text": "department",
-                  "type": "internal",
-                  "page": "Departments of France"
-                },
-                {
-                  "text": "Minister for Employment, Labour and Professional Integration of Young People",
-                  "type": "internal",
-                  "page": "Minister of Labour, Employment and Economic Inclusion (France)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jacques Chirac"
-                }
-              ]
-            },
-            {
-              "text": "Larcher also served as Mayor of Rambouillet from 1983 to 2004 and again from 2007 until 2014.",
-              "links": [
-                {
-                  "text": "Mayor",
-                  "type": "internal",
-                  "page": "Mayor (France)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Rambouillet"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "French politician",
-          "template": "short description"
-        },
-        {
-          "date": "October 2017",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1949",
-          "month": "09",
-          "day": "14",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Gérard Larcher"
-          },
-          "image": {
-            "text": "File:Portrait G. Larcher 2014 (cropped).jpg"
-          },
-          "office": {
-            "text": "President of the French Senate",
-            "links": [
-              {
-                "text": "President of the French Senate",
-                "type": "internal",
-                "page": "List of presidents of the Senate of France"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 October 2014"
-          },
-          "predecessor": {
-            "text": "Jean-Pierre Bel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean-Pierre Bel"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 October 2008"
-          },
-          "term_end1": {
-            "text": "30 September 2011"
-          },
-          "predecessor1": {
-            "text": "Christian Poncelet",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Christian Poncelet"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Jean-Pierre Bel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean-Pierre Bel"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the Senate",
-            "links": [
-              {
-                "text": "Senate",
-                "type": "internal",
-                "page": "Senate of France"
-              }
-            ]
-          },
-          "constituency2": {
-            "text": "Yvelines",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yvelines"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 October 2007"
-          },
-          "constituency3": {
-            "text": "Yvelines",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yvelines"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2 October 1986"
-          },
-          "term_end3": {
-            "text": "30 April 2004"
-          },
-          "office4": {
-            "text": "Minister Delegate for Labour",
-            "links": [
-              {
-                "text": "Minister Delegate for Labour",
-                "type": "internal",
-                "page": "Minister of Labour, Employment and Economic Inclusion (France)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "31 March 2004"
-          },
-          "term_end4": {
-            "text": "15 May 2007"
-          },
-          "primeminister4": {
-            "text": "Jean-Pierre Raffarin Dominique de Villepin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean-Pierre Raffarin"
-              },
-              {
-                "type": "internal",
-                "page": "Dominique de Villepin"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "successor4": {
-            "text": "Position abolished",
-            "formatting": {
-              "italic": [
-                "Position abolished"
-              ]
-            }
-          },
-          "office5": {
-            "text": "Mayor of Rambouillet",
-            "links": [
-              {
-                "text": "Mayor",
-                "type": "internal",
-                "page": "Mayor (France)"
-              },
-              {
-                "type": "internal",
-                "page": "Rambouillet"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "18 June 2007"
-          },
-          "term_end5": {
-            "text": "4 April 2014"
-          },
-          "predecessor5": {
-            "text": "Jean-Frédéric Poisson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean-Frédéric Poisson"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Marc Robert"
-          },
-          "term_start6": {
-            "text": "18 March 1983"
-          },
-          "term_end6": {
-            "text": "7 July 2004"
-          },
-          "predecessor6": {
-            "text": "Jacqueline Thome-Patenôtre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacqueline Thome-Patenôtre"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Jean-Frédéric Poisson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean-Frédéric Poisson"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "September 14, 1949"
-          },
-          "birth_place": {
-            "text": "Flers, France",
-            "links": [
-              {
-                "text": "Flers",
-                "type": "internal",
-                "page": "Flers, Orne"
-              },
-              {
-                "type": "internal",
-                "page": "France"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "French"
-          },
-          "spouse": {
-            "text": "Christine Weiss"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "profession": {
-            "text": "Veterinarian",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Veterinarian"
-              }
-            ]
-          },
-          "party": {
-            "text": "Rally for the Republic (1976–2002) Union for a Popular Movement (2002–2015) The Republicans (2015–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rally for the Republic"
-              },
-              {
-                "type": "internal",
-                "page": "Union for a Popular Movement"
-              },
-              {
-                "text": "The Republicans",
-                "type": "internal",
-                "page": "The Republicans (France)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Gérard Larcher",
+  "image": "File:Portrait G. Larcher 2014 (cropped).jpg",
+  "office": "President of the French Senate",
+  "term_start": "1 October 2014",
+  "predecessor": "Jean-Pierre Bel",
+  "term_start1": "1 October 2008",
+  "term_end1": "30 September 2011",
+  "predecessor1": "Christian Poncelet",
+  "successor1": "Jean-Pierre Bel",
+  "office2": "Member of the Senate",
+  "constituency2": "Yvelines",
+  "term_start2": "1 October 2007",
+  "constituency3": "Yvelines",
+  "term_start3": "2 October 1986",
+  "term_end3": "30 April 2004",
+  "office4": "Minister Delegate for Labour",
+  "term_start4": "31 March 2004",
+  "term_end4": "15 May 2007",
+  "primeminister4": "Jean-Pierre Raffarin Dominique de Villepin",
+  "predecessor4": "Position established",
+  "successor4": "Position abolished",
+  "office5": "Mayor of Rambouillet",
+  "term_start5": "18 June 2007",
+  "term_end5": "4 April 2014",
+  "predecessor5": "Jean-Frédéric Poisson",
+  "successor5": "Marc Robert",
+  "term_start6": "18 March 1983",
+  "term_end6": "7 July 2004",
+  "predecessor6": "Jacqueline Thome-Patenôtre",
+  "successor6": "Jean-Frédéric Poisson",
+  "birth_date": "September 14, 1949",
+  "birth_place": "Flers, France",
+  "nationality": "French",
+  "spouse": "Christine Weiss",
+  "children": "3",
+  "profession": "Veterinarian",
+  "party": "Rally for the Republic (1976–2002) Union for a Popular Movement (2002–2015) The Republicans (2015–present)"
 }

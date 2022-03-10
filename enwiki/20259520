@@ -1,295 +1,32 @@
 {
-  "title": "Jacqueline Gourault",
-  "pageID": 20259520,
-  "categories": [
-    "1950 births",
-    "Living people",
-    "Union for French Democracy politicians",
-    "Democratic Movement (France) politicians",
-    "French Senators of the Fifth Republic",
-    "Women members of the Senate (France)",
-    "20th-century French women politicians",
-    "21st-century French women politicians",
-    "Women government ministers of France",
-    "Senators of Loir-et-Cher",
-    "Politicians from Centre-Val de Loire",
-    "Mayors of places in Centre-Val de Loire",
-    "Departmental councillors (France)",
-    "Regional councillors of France"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Jacqueline Gourault (née Doliveux, 20 November 1950) is a French politician who served as Minister of Territorial Cohesion and Relations with Local Authorities in the governments of successive Prime Ministers Édouard Philippe and Jean Castex from 2018 to 2022.",
-              "links": [
-                {
-                  "text": "Minister of Territorial Cohesion and Relations with Local Authorities",
-                  "type": "internal",
-                  "page": "Minister of Territorial Development (France)"
-                },
-                {
-                  "text": "Prime Ministers",
-                  "type": "internal",
-                  "page": "Prime Minister of France"
-                },
-                {
-                  "text": "Édouard Philippe",
-                  "type": "internal",
-                  "page": "Édouard Philippe"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jean Castex"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Jacqueline Gourault",
-                  "Doliveux"
-                ]
-              }
-            },
-            {
-              "text": "A member of the Democratic Movement (MoDem), she previously served as Minister attached to the Minister of the Interior from 2017 to 2018.",
-              "links": [
-                {
-                  "text": "Democratic Movement",
-                  "type": "internal",
-                  "page": "Democratic Movement (France)"
-                },
-                {
-                  "text": "Minister of the Interior",
-                  "type": "internal",
-                  "page": "Minister of the Interior (France)"
-                }
-              ]
-            },
-            {
-              "text": "In 2022, she was appointed to the Constitutional Council by President Emmanuel Macron.",
-              "links": [
-                {
-                  "text": "Constitutional Council",
-                  "type": "internal",
-                  "page": "Constitutional Council (France)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Emmanuel Macron"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "French politician",
-          "template": "short description"
-        },
-        {
-          "year": "1950",
-          "month": "11",
-          "day": "20",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "ʒa.klin ɡu.ʁo",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Jacqueline Gourault"
-          },
-          "image": {
-            "text": "Informal meeting of justice and home affairs ministers.Arrivals (Home Affairs) Jacqueline Gourault (34910260564) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Gourault in 2017"
-          },
-          "office": {
-            "text": "Member of the Constitutional Council",
-            "links": [
-              {
-                "text": "Constitutional Council",
-                "type": "internal",
-                "page": "Constitutional Council (France)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "15 March 2022"
-          },
-          "appointer": {
-            "text": "Emmanuel Macron",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emmanuel Macron"
-              }
-            ]
-          },
-          "succeeding": {
-            "text": "Nicole Maestracci"
-          },
-          "office1": {
-            "text": "Minister of Territorial Cohesion and Relations with Local Authorities",
-            "links": [
-              {
-                "text": "Minister of Territorial Cohesion and Relations with Local Authorities",
-                "type": "internal",
-                "page": "Minister of Territorial Development (France)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "16 October 2018"
-          },
-          "term_end1": {
-            "text": "5 March 2022"
-          },
-          "primeminister1": {
-            "text": "Édouard Philippe Jean Castex",
-            "links": [
-              {
-                "text": "Édouard Philippe",
-                "type": "internal",
-                "page": "Édouard Philippe"
-              },
-              {
-                "type": "internal",
-                "page": "Jean Castex"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Jacques Mézard",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacques Mézard"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Joël Giraud",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joël Giraud"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Delegate Minister to the Minister of the Interior"
-          },
-          "term_start2": {
-            "text": "21 June 2017"
-          },
-          "term_end2": {
-            "text": "16 October 2018"
-          },
-          "primeminister2": {
-            "text": "Édouard Philippe",
-            "links": [
-              {
-                "text": "Édouard Philippe",
-                "type": "internal",
-                "page": "Édouard Philippe"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Senator for Loir-et-Cher",
-            "links": [
-              {
-                "text": "Senator",
-                "type": "internal",
-                "page": "Senate (France)"
-              },
-              {
-                "type": "internal",
-                "page": "Loir-et-Cher"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 October 2001"
-          },
-          "term_end3": {
-            "text": "22 Juillet 2017"
-          },
-          "office4": {
-            "text": "Mayor of La Chaussée-Saint-Victor",
-            "links": [
-              {
-                "text": "Mayor",
-                "type": "internal",
-                "page": "Mayor (France)"
-              },
-              {
-                "type": "internal",
-                "page": "La Chaussée-Saint-Victor"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "20 March 1989"
-          },
-          "term_end4": {
-            "text": "30 March 2014"
-          },
-          "predecessor4": {
-            "text": "Danièle Charron"
-          },
-          "successor4": {
-            "text": "Stéphane Baudu"
-          },
-          "birth_name": {
-            "text": "Jacqueline Doliveux"
-          },
-          "birth_date": {
-            "text": "November 20, 1950"
-          },
-          "birth_place": {
-            "text": "Montoire-sur-le-Loir, France",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Montoire-sur-le-Loir"
-              },
-              {
-                "type": "internal",
-                "page": "France"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "French"
-          },
-          "party": {
-            "text": "Union for French Democracy (until 2007) Democratic Movement (from 2007)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Union for French Democracy"
-              },
-              {
-                "text": "Democratic Movement",
-                "type": "internal",
-                "page": "Democratic Movement (France)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Jacqueline Gourault",
+  "image": "Informal meeting of justice and home affairs ministers.Arrivals (Home Affairs) Jacqueline Gourault (34910260564) (cropped).jpg",
+  "caption": "Gourault in 2017",
+  "office": "Member of the Constitutional Council",
+  "term_start": "8 March 2022",
+  "appointer": "Emmanuel Macron",
+  "succeeding": "Nicole Maestracci",
+  "office1": "Minister of Territorial Cohesion and Relations with Local Authorities",
+  "term_start1": "16 October 2018",
+  "term_end1": "5 March 2022",
+  "primeminister1": "Édouard Philippe Jean Castex",
+  "predecessor1": "Jacques Mézard",
+  "successor1": "Joël Giraud",
+  "office2": "Delegate Minister to the Minister of the Interior",
+  "term_start2": "21 June 2017",
+  "term_end2": "16 October 2018",
+  "primeminister2": "Édouard Philippe",
+  "office3": "Senator for Loir-et-Cher",
+  "term_start3": "1 October 2001",
+  "term_end3": "22 Juillet 2017",
+  "office4": "Mayor of La Chaussée-Saint-Victor",
+  "term_start4": "20 March 1989",
+  "term_end4": "30 March 2014",
+  "predecessor4": "Danièle Charron",
+  "successor4": "Stéphane Baudu",
+  "birth_name": "Jacqueline Doliveux",
+  "birth_date": "November 20, 1950",
+  "birth_place": "Montoire-sur-le-Loir, France",
+  "nationality": "French",
+  "party": "Union for French Democracy (until 2007) Democratic Movement (from 2007)"
 }
