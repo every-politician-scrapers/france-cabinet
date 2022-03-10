@@ -4,13 +4,18 @@
   "categories": [
     "1950 births",
     "Living people",
+    "Union for French Democracy politicians",
     "Democratic Movement (France) politicians",
     "French Senators of the Fifth Republic",
     "Women members of the Senate (France)",
+    "20th-century French women politicians",
     "21st-century French women politicians",
     "Women government ministers of France",
     "Senators of Loir-et-Cher",
-    "Politicians from Centre-Val de Loire"
+    "Politicians from Centre-Val de Loire",
+    "Mayors of places in Centre-Val de Loire",
+    "Departmental councillors (France)",
+    "Regional councillors of France"
   ],
   "sections": [
     {
@@ -20,13 +25,8 @@
         {
           "sentences": [
             {
-              "text": "Jacqueline Gourault (née Doliveux, 20 November 1950) is a French politician of the Democratic Movement (MoDem) who served as Minister of Territorial Cohesion and Relations with Local Authorities in the governments of successive Prime Ministers Édouard Philippe and Jean Castex from 2018 to 2022.",
+              "text": "Jacqueline Gourault (née Doliveux, 20 November 1950) is a French politician who served as Minister of Territorial Cohesion and Relations with Local Authorities in the governments of successive Prime Ministers Édouard Philippe and Jean Castex from 2018 to 2022.",
               "links": [
-                {
-                  "text": "Democratic Movement",
-                  "type": "internal",
-                  "page": "Democratic Movement (France)"
-                },
                 {
                   "text": "Minister of Territorial Cohesion and Relations with Local Authorities",
                   "type": "internal",
@@ -55,12 +55,31 @@
               }
             },
             {
-              "text": "She previously served as Minister attached to the Minister of the Interior from 2017 to 2018.",
+              "text": "A member of the Democratic Movement (MoDem), she previously served as Minister attached to the Minister of the Interior from 2017 to 2018.",
               "links": [
+                {
+                  "text": "Democratic Movement",
+                  "type": "internal",
+                  "page": "Democratic Movement (France)"
+                },
                 {
                   "text": "Minister of the Interior",
                   "type": "internal",
                   "page": "Minister of the Interior (France)"
+                }
+              ]
+            },
+            {
+              "text": "In 2022, she was appointed to the Constitutional Council by President Emmanuel Macron.",
+              "links": [
+                {
+                  "text": "Constitutional Council",
+                  "type": "internal",
+                  "page": "Constitutional Council (France)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emmanuel Macron"
                 }
               ]
             }
@@ -92,18 +111,21 @@
           "image": {
             "text": "Informal meeting of justice and home affairs ministers.Arrivals (Home Affairs) Jacqueline Gourault (34910260564) (cropped).jpg"
           },
+          "caption": {
+            "text": "Gourault in 2017"
+          },
           "office": {
             "text": "Member of the Constitutional Council",
             "links": [
               {
                 "text": "Constitutional Council",
                 "type": "internal",
-                "page": "Constitutional Council of France"
+                "page": "Constitutional Council (France)"
               }
             ]
           },
           "term_start": {
-            "text": "8 March 2022"
+            "text": "15 March 2022"
           },
           "appointer": {
             "text": "Emmanuel Macron",
@@ -115,13 +137,7 @@
             ]
           },
           "succeeding": {
-            "text": "Nicole Maestracci",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicole Maestracci"
-              }
-            ]
+            "text": "Nicole Maestracci"
           },
           "office1": {
             "text": "Minister of Territorial Cohesion and Relations with Local Authorities",
@@ -137,8 +153,7 @@
             "text": "16 October 2018"
           },
           "term_end1": {
-            "text": "2022",
-            "number": 2022
+            "text": "5 March 2022"
           },
           "primeminister1": {
             "text": "Édouard Philippe Jean Castex",
@@ -160,6 +175,15 @@
               {
                 "type": "internal",
                 "page": "Jacques Mézard"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Joël Giraud",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joël Giraud"
               }
             ]
           },
@@ -251,7 +275,7 @@
             "text": "French"
           },
           "party": {
-            "text": "Union for French Democracy (until 2007) Democratic Movement (since 2007)",
+            "text": "Union for French Democracy (until 2007) Democratic Movement (from 2007)",
             "links": [
               {
                 "type": "internal",

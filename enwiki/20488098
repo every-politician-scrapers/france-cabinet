@@ -4,13 +4,21 @@
   "categories": [
     "1959 births",
     "Living people",
+    "École nationale d'administration alumni",
+    "20th-century French politicians",
+    "21st-century French politicians",
     "People from Gap, Hautes-Alpes",
     "Radical Party of the Left politicians",
-    "Deputies of the 15th National Assembly of the French Fifth Republic",
+    "La République En Marche! politicians",
+    "Radical Movement politicians",
     "Politicians from Provence-Alpes-Côte d'Azur",
+    "Mayors of places in Provence-Alpes-Côte d'Azur",
+    "Regional councillors of France",
     "Deputies of the 12th National Assembly of the French Fifth Republic",
     "Deputies of the 13th National Assembly of the French Fifth Republic",
-    "Deputies of the 14th National Assembly of the French Fifth Republic"
+    "Deputies of the 14th National Assembly of the French Fifth Republic",
+    "Deputies of the 15th National Assembly of the French Fifth Republic",
+    "LGBT politicians from France"
   ],
   "sections": [
     {
@@ -20,15 +28,16 @@
         {
           "sentences": [
             {
-              "text": "Joël Giraud (born 14 October 1959 in Gap, Hautes-Alpes) is a member of the National Assembly of France.",
+              "text": "Joël Giraud (born 14 October 1959) is a French politician who has served as Minister of Territorial Cohesion and Relations with Local Authorities under Prime Minister Jean Castex since 5 March 2022.",
               "links": [
                 {
+                  "text": "Minister of Territorial Cohesion and Relations with Local Authorities",
                   "type": "internal",
-                  "page": "Gap, Hautes-Alpes"
+                  "page": "Minister of Territorial Development (France)"
                 },
                 {
                   "type": "internal",
-                  "page": "National Assembly of France"
+                  "page": "Jean Castex"
                 }
               ],
               "formatting": {
@@ -38,32 +47,46 @@
               }
             },
             {
-              "text": "He represents the Hautes-Alpes department, and is a member of La République En Marche! (formerly of the Radical Party of the Left) and former Secretary of the Economic Affairs Committee.",
+              "text": "A member of both La République En Marche! (LREM) and the Radical Movement (MR), he previously represented the 2nd constituency of the Hautes-Alpes department in the National Assembly from 2002 to 2020 and served as Secretary of State for Rurality from 2020 until 2022.",
               "links": [
-                {
-                  "text": "Hautes-Alpes",
-                  "type": "internal",
-                  "page": "Hautes-Alpes's 2nd constituency"
-                },
                 {
                   "type": "internal",
                   "page": "La République En Marche!"
                 },
                 {
                   "type": "internal",
-                  "page": "Radical Party of the Left"
+                  "page": "Radical Movement"
+                },
+                {
+                  "text": "2nd constituency",
+                  "type": "internal",
+                  "page": "Hautes-Alpes's 2nd constituency"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hautes-Alpes"
+                },
+                {
+                  "text": "department",
+                  "type": "internal",
+                  "page": "Departments of France"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (France)"
+                },
+                {
+                  "text": "Secretary of State",
+                  "type": "internal",
+                  "page": "Secretary of state"
+                },
+                {
+                  "text": "Rurality",
+                  "type": "internal",
+                  "page": "Minister of Territorial Development (France)"
                 }
               ]
-            },
-            {
-              "text": "He was elected on 16 June 2002, and re-elected on 17 June 2007, 17 June 2012 and in 2017."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He was appointed to government in 2020."
             }
           ]
         }
@@ -72,10 +95,6 @@
         {
           "description": "French politician",
           "template": "short description"
-        },
-        {
-          "date": "July 2010",
-          "template": "blp sources"
         },
         {
           "date": "March 2020",
@@ -103,28 +122,115 @@
             "text": "Joël Giraud"
           },
           "image": {
-            "text": "Joël Giraud.jpg"
+            "text": "Joël GIRAUD.jpg"
           },
           "caption": {
-            "text": "Joël Giraud"
+            "text": "Giraud in 2020"
           },
           "office": {
-            "text": "Member of the French National Assembly for Hautes-Alpes's 2nd constituency",
+            "text": "Minister of Territorial Cohesion and Relations with Local Authorities",
+            "links": [
+              {
+                "text": "Minister of Territorial Cohesion and Relations with Local Authorities",
+                "type": "internal",
+                "page": "Minister of Territorial Development (France)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "5 March 2022"
+          },
+          "primeminister": {
+            "text": "Jean Castex",
             "links": [
               {
                 "type": "internal",
-                "page": "French National Assembly"
+                "page": "Jean Castex"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Jacqueline Gourault",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacqueline Gourault"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Secretary of State for Rurality",
+            "links": [
+              {
+                "text": "Secretary of State",
+                "type": "internal",
+                "page": "Secretary of state"
               },
               {
+                "text": "Rurality",
+                "type": "internal",
+                "page": "Minister of Territorial Development (France)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "26 July 2020"
+          },
+          "term_end1": {
+            "text": "5 March 2022"
+          },
+          "primeminister1": {
+            "text": "Jean Castex",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jean Castex"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Jean-Michel Baylet (indirectly)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jean-Michel Baylet"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Position abolished",
+            "formatting": {
+              "italic": [
+                "Position abolished"
+              ]
+            }
+          },
+          "office2": {
+            "text": "Member of the National Assembly for Hautes-Alpes's 2nd constituency",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly (France)"
+              },
+              {
+                "type": "internal",
+                "page": "Hautes-Alpes"
+              },
+              {
+                "text": "2nd",
                 "type": "internal",
                 "page": "Hautes-Alpes's 2nd constituency"
               }
             ]
           },
-          "term_start": {
+          "term_start2": {
             "text": "18 June 2002"
           },
-          "predecessor": {
+          "termend2": {
+            "text": "26 August 2020"
+          },
+          "predecessor2": {
             "text": "Patrick Ollier",
             "links": [
               {
@@ -133,20 +239,40 @@
               }
             ]
           },
-          "office2": {
+          "successor2": {
+            "text": "Claire Bouchet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Claire Bouchet"
+              }
+            ]
+          },
+          "office3": {
             "text": "Mayor of L'Argentière-la-Bessée",
             "links": [
+              {
+                "text": "Mayor",
+                "type": "internal",
+                "page": "Mayor (France)"
+              },
               {
                 "type": "internal",
                 "page": "L'Argentière-la-Bessée"
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "20 March 1989"
           },
-          "predecessor2": {
+          "term_end3": {
+            "text": "29 July 2017"
+          },
+          "predecessor3": {
             "text": "Auguste Toye"
+          },
+          "successor3": {
+            "text": "Patrick Vigne"
           },
           "birth_date": {
             "text": "October 14, 1959"
@@ -166,32 +292,42 @@
             ]
           },
           "party": {
-            "text": "PRG\nEn Marche!",
+            "text": "Radical Party of the Left (1998–2017) La République En Marche! (2016–present) Radical Movement (2017–present)",
             "links": [
               {
-                "text": "PRG",
                 "type": "internal",
                 "page": "Radical Party of the Left"
               },
               {
                 "type": "internal",
-                "page": "En Marche!"
+                "page": "La République En Marche!"
+              },
+              {
+                "type": "internal",
+                "page": "Radical Movement"
               }
             ]
           },
           "profession": {
-            "text": "Haut fonctionnaire"
-          },
-          "termend": {
-            "text": "2020",
-            "number": 2020
-          },
-          "successor": {
-            "text": "Claire Bouchet",
+            "text": "Civil servant",
             "links": [
               {
+                "text": "Civil servant",
                 "type": "internal",
-                "page": "Claire Bouchet"
+                "page": "French Civil Service"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "French"
+          },
+          "alma_mater": {
+            "text": "École nationale d'administration",
+            "links": [
+              {
+                "text": "École nationale d'administration",
+                "type": "internal",
+                "page": "École nationale d'administration"
               }
             ]
           }
