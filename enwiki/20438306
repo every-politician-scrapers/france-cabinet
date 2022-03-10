@@ -1,414 +1,45 @@
 {
-  "title": "Annick Girardin",
-  "pageID": 20438306,
-  "categories": [
-    "1964 births",
-    "Living people",
-    "People from Saint-Malo",
-    "Politicians from Brittany",
-    "Saint Pierre and Miquelon politicians",
-    "Radical Party of the Left politicians",
-    "Radical Movement politicians",
-    "Women members of the National Assembly (France)",
-    "Deputies of the 13th National Assembly of the French Fifth Republic",
-    "Deputies of the 14th National Assembly of the French Fifth Republic",
-    "Deputies of the 15th National Assembly of the French Fifth Republic",
-    "21st-century French women politicians",
-    "20th-century French women politicians",
-    "Women government ministers of France",
-    "Members of Parliament for Saint-Pierre-et-Miquelon"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Annick Girardin (born 3 August 1964) is a French government minister and a former member of the National Assembly of France.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Assembly of France"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Annick Girardin"
-                ]
-              }
-            },
-            {
-              "text": "She represented the islands of Saint-Pierre and Miquelon, from 2007 to 2014 before being appointed Junior Minister for Development and Francophonie in April 2014 in the Valls Cabinet.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Saint-Pierre and Miquelon"
-                },
-                {
-                  "text": "Valls Cabinet",
-                  "type": "internal",
-                  "page": "First Valls Government"
-                }
-              ]
-            },
-            {
-              "text": "Following the election of President Emmanuel Macron in May 2017, she was appointed Minister of Overseas France in the new Philippe Government.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Emmanuel Macron"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister of Overseas France"
-                },
-                {
-                  "text": "Philippe Government",
-                  "type": "internal",
-                  "page": "Second Philippe Government"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "French politician",
-          "template": "short description"
-        },
-        {
-          "date": "April 2017",
-          "template": "blp sources"
-        },
-        {
-          "date": "May 2014",
-          "template": "engvarb"
-        },
-        {
-          "date": "October 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1964",
-          "month": "08",
-          "day": "03",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Annick Girardin"
-          },
-          "image": {
-            "text": "Annick Girardin.jpg"
-          },
-          "office": {
-            "text": "Minister of the Sea",
-            "links": [
-              {
-                "text": "Minister of the Sea",
-                "type": "internal",
-                "page": "Minister of the Sea (France)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Emmanuel Macron",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emmanuel Macron"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Jean Castex",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean Castex"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 July 2020"
-          },
-          "office2": {
-            "text": "Minister of Overseas Territories",
-            "links": [
-              {
-                "text": "Minister of Overseas Territories",
-                "type": "internal",
-                "page": "Minister of Overseas Territories (France)"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Emmanuel Macron",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emmanuel Macron"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Édouard Philippe",
-            "links": [
-              {
-                "text": "Édouard Philippe",
-                "type": "internal",
-                "page": "Édouard Philippe"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "17 May 2017"
-          },
-          "term_end2": {
-            "text": "6 July 2020"
-          },
-          "predecessor2": {
-            "text": "Ericka Bareigts",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ericka Bareigts"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Sébastien Lecornu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sébastien Lecornu"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Public Service",
-            "links": [
-              {
-                "text": "Minister of Public Service",
-                "type": "internal",
-                "page": "Ministry of Public Action and Accounts"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Manuel Valls\nBernard Cazeneuve",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manuel Valls"
-              },
-              {
-                "type": "internal",
-                "page": "Bernard Cazeneuve"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "11 February 2016"
-          },
-          "term_end3": {
-            "text": "10 May 2017"
-          },
-          "predecessor3": {
-            "text": "Marylise Lebranchu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marylise Lebranchu"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Gérald Darmanin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gérald Darmanin"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Secretary of State for Development and Francophonie",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Secretary of State"
-              },
-              {
-                "type": "internal",
-                "page": "Francophonie"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Manuel Valls",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manuel Valls"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "9 April 2014"
-          },
-          "term_end4": {
-            "text": "11 February 2016"
-          },
-          "predecessor4": {
-            "text": "Pascal Canfin\nYamina Benguigui",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pascal Canfin"
-              },
-              {
-                "type": "internal",
-                "page": "Yamina Benguigui"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "André Vallini",
-            "links": [
-              {
-                "type": "internal",
-                "page": "André Vallini"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of the National Assembly\nfor Saint-Pierre-et-Miquelon's 1st constituency",
-            "links": [
-              {
-                "text": "National Assembly",
-                "type": "internal",
-                "page": "National Assembly (France)"
-              },
-              {
-                "type": "internal",
-                "page": "Saint-Pierre-et-Miquelon's 1st constituency"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "21 June 2017"
-          },
-          "term_end5": {
-            "text": "21 July 2017"
-          },
-          "predecessor5": {
-            "text": "Stéphane Claireaux",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stéphane Claireaux"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Stéphane Claireaux",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stéphane Claireaux"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "30 June 2014"
-          },
-          "term_end6": {
-            "text": "29 July 2014"
-          },
-          "predecessor6": {
-            "text": "Catherine Pen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Catherine Pen"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Stéphane Claireaux",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stéphane Claireaux"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "20 June 2007"
-          },
-          "term_end7": {
-            "text": "9 May 2014"
-          },
-          "office8": {
-            "text": "Member of the Territorial Council of Saint Pierre and Miquelon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Territorial Council of Saint Pierre and Miquelon"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "28 March 2000"
-          },
-          "term_end8": {
-            "text": "19 March 2017"
-          },
-          "birth_date": {
-            "text": "August 3, 1964"
-          },
-          "birth_place": {
-            "text": "Saint-Malo, Ille-et-Vilaine, France",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Saint-Malo"
-              },
-              {
-                "type": "internal",
-                "page": "Ille-et-Vilaine"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "French",
-            "links": [
-              {
-                "text": "French",
-                "type": "internal",
-                "page": "France"
-              }
-            ]
-          },
-          "party": {
-            "text": "Rad",
-            "links": [
-              {
-                "text": "Rad",
-                "type": "internal",
-                "page": "Radical Party (France)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Annick Girardin",
+  "image": "Annick Girardin.jpg",
+  "office": "Minister of the Sea",
+  "president": "Emmanuel Macron",
+  "primeminister": "Jean Castex",
+  "term_start": "6 July 2020",
+  "office2": "Minister of Overseas Territories",
+  "president2": "Emmanuel Macron",
+  "primeminister2": "Édouard Philippe",
+  "term_start2": "17 May 2017",
+  "term_end2": "6 July 2020",
+  "predecessor2": "Ericka Bareigts",
+  "successor2": "Sébastien Lecornu",
+  "office3": "Minister of Public Service",
+  "primeminister3": "Manuel Valls\nBernard Cazeneuve",
+  "term_start3": "11 February 2016",
+  "term_end3": "10 May 2017",
+  "predecessor3": "Marylise Lebranchu",
+  "successor3": "Gérald Darmanin",
+  "office4": "Secretary of State for Development and Francophonie",
+  "primeminister4": "Manuel Valls",
+  "term_start4": "9 April 2014",
+  "term_end4": "11 February 2016",
+  "predecessor4": "Pascal Canfin\nYamina Benguigui",
+  "successor4": "André Vallini",
+  "office5": "Member of the National Assembly\nfor Saint-Pierre-et-Miquelon's 1st constituency",
+  "term_start5": "21 June 2017",
+  "term_end5": "21 July 2017",
+  "predecessor5": "Stéphane Claireaux",
+  "successor5": "Stéphane Claireaux",
+  "term_start6": "30 June 2014",
+  "term_end6": "29 July 2014",
+  "predecessor6": "Catherine Pen",
+  "successor6": "Stéphane Claireaux",
+  "term_start7": "20 June 2007",
+  "term_end7": "9 May 2014",
+  "office8": "Member of the Territorial Council of Saint Pierre and Miquelon",
+  "term_start8": "28 March 2000",
+  "term_end8": "19 March 2017",
+  "birth_date": "August 3, 1964",
+  "birth_place": "Saint-Malo, Ille-et-Vilaine, France",
+  "nationality": "French",
+  "party": "Rad"
 }

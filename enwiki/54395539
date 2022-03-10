@@ -1,284 +1,31 @@
 {
-  "title": "Gabriel Attal",
-  "pageID": 54395539,
-  "categories": [
-    "1989 births",
-    "Living people",
-    "Deputies of the 15th National Assembly of the French Fifth Republic",
-    "Government ministers of France",
-    "La République En Marche! politicians",
-    "People from Clamart",
-    "Politicians from Île-de-France",
-    "Paris 2 Panthéon-Assas University alumni",
-    "Sciences Po alumni",
-    "LGBT legislators in France",
-    "Gay politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Gabriel Attal (born 16 March 1989) is a French politician of La République En Marche! (LREM) who has served as government spokesperson under President Emmanuel Macron since 6 July 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "La République En Marche!"
-                },
-                {
-                  "text": "government spokesperson",
-                  "type": "internal",
-                  "page": "List of Government spokespeople of France"
-                },
-                {
-                  "type": "internal",
-                  "page": "Emmanuel Macron"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Gabriel Attal"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "French politician",
-          "template": "short description"
-        },
-        {
-          "date": "September 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1989",
-          "month": "03",
-          "day": "16",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Gabriel Attal"
-          },
-          "image": {
-            "text": "ATTAL Gabriel - 20200916.jpg"
-          },
-          "office": {
-            "text": "Government Spokesperson",
-            "links": [
-              {
-                "text": "Government Spokesperson",
-                "type": "internal",
-                "page": "List of Government spokespeople of France"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 July 2020"
-          },
-          "president": {
-            "text": "Emmanuel Macron",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emmanuel Macron"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Jean Castex",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean Castex"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Sibeth Ndiaye",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sibeth Ndiaye"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Secretary of State to the Minister of National Education and Youth",
-            "links": [
-              {
-                "text": "Secretary of State",
-                "type": "internal",
-                "page": "Secretary of State (France)"
-              },
-              {
-                "text": "Minister of National Education and Youth",
-                "type": "internal",
-                "page": "Ministry of National Education (France)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "16 October 2018"
-          },
-          "term_end1": {
-            "text": "6 July 2020"
-          },
-          "president1": {
-            "text": "Emmanuel Macron",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emmanuel Macron"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Édouard Philippe",
-            "links": [
-              {
-                "text": "Édouard Philippe",
-                "type": "internal",
-                "page": "Édouard Philippe"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "office2": {
-            "text": "Spokesperson of La République En Marche!",
-            "links": [
-              {
-                "type": "internal",
-                "page": "La République En Marche!"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "4 January 2018"
-          },
-          "term_end2": {
-            "text": "16 October 2018"
-          },
-          "predecessor2": {
-            "text": "Benjamin Griveaux",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Benjamin Griveaux"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Laetitia Avia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Laetitia Avia"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the National Assembly\nfor Hauts-de-Seine's 10th constituency",
-            "links": [
-              {
-                "text": "National Assembly",
-                "type": "internal",
-                "page": "National Assembly (France)"
-              },
-              {
-                "type": "internal",
-                "page": "Hauts-de-Seine's 10th constituency"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "21 June 2017"
-          },
-          "term_end3": {
-            "text": "16 November 2018"
-          },
-          "predecessor3": {
-            "text": "André Santini",
-            "links": [
-              {
-                "type": "internal",
-                "page": "André Santini"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Florence Provendier",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Florence Provendier"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "March 16, 1989"
-          },
-          "birth_place": {
-            "text": "Clamart, France",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Clamart"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "French"
-          },
-          "party": {
-            "text": "La République En Marche!",
-            "links": [
-              {
-                "type": "internal",
-                "page": "La République En Marche!"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Panthéon-Assas University\nSciences Po",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Panthéon-Assas University"
-              },
-              {
-                "type": "internal",
-                "page": "Sciences Po"
-              }
-            ]
-          },
-          "partner": {
-            "text": "Stéphane Séjourné",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stéphane Séjourné"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Gabriel Attal",
+  "image": "ATTAL Gabriel - 20200916.jpg",
+  "office": "Government Spokesperson",
+  "term_start": "6 July 2020",
+  "president": "Emmanuel Macron",
+  "primeminister": "Jean Castex",
+  "predecessor": "Sibeth Ndiaye",
+  "office1": "Secretary of State to the Minister of National Education and Youth",
+  "term_start1": "16 October 2018",
+  "term_end1": "6 July 2020",
+  "president1": "Emmanuel Macron",
+  "primeminister1": "Édouard Philippe",
+  "predecessor1": "Position established",
+  "office2": "Spokesperson of La République En Marche!",
+  "term_start2": "4 January 2018",
+  "term_end2": "16 October 2018",
+  "predecessor2": "Benjamin Griveaux",
+  "successor2": "Laetitia Avia",
+  "office3": "Member of the National Assembly\nfor Hauts-de-Seine's 10th constituency",
+  "term_start3": "21 June 2017",
+  "term_end3": "16 November 2018",
+  "predecessor3": "André Santini",
+  "successor3": "Florence Provendier",
+  "birth_date": "March 16, 1989",
+  "birth_place": "Clamart, France",
+  "nationality": "French",
+  "party": "La République En Marche!",
+  "alma_mater": "Panthéon-Assas University\nSciences Po",
+  "partner": "Stéphane Séjourné"
 }

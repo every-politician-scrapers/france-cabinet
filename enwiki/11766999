@@ -1,490 +1,56 @@
 {
-  "title": "Jean-Yves Le Drian",
-  "pageID": 11766999,
-  "categories": [
-    "1947 births",
-    "Living people",
-    "French Foreign Ministers",
-    "French Ministers of Defence and Veterans Affairs",
-    "Knights Grand Cross of the Order of Isabella the Catholic",
-    "People from Lorient",
-    "Mayors of places in Brittany",
-    "Presidents of French regions and overseas collectivities",
-    "20th-century French politicians",
-    "21st-century French politicians",
-    "Socialist Party (France) politicians",
-    "Rennes 2 University alumni",
-    "Rennes 2 University faculty",
-    "Deputies of the 12th National Assembly of the French Fifth Republic",
-    "Grand Cordons of the Order of the Rising Sun",
-    "Grand Crosses with Star and Sash of the Order of Merit of the Federal Republic of Germany",
-    "Regional councillors of France"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Jean-Yves Le Drian (born 30 June 1947) is a French politician who has served as Minister for Europe and Foreign Affairs since 2017 under President Emmanuel Macron.",
-              "links": [
-                {
-                  "text": "Minister for Europe and Foreign Affairs",
-                  "type": "internal",
-                  "page": "Ministry for Europe and Foreign Affairs"
-                },
-                {
-                  "type": "internal",
-                  "page": "Emmanuel Macron"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Jean-Yves Le Drian"
-                ]
-              }
-            },
-            {
-              "text": "He previously was Minister of Defence from 2012 to 2017 under President François Hollande.",
-              "links": [
-                {
-                  "text": "Minister of Defence",
-                  "type": "internal",
-                  "page": "Minister of the Armies (France)"
-                },
-                {
-                  "type": "internal",
-                  "page": "François Hollande"
-                }
-              ]
-            },
-            {
-              "text": "He was appointed by Macron to serve as Foreign Minister in the first government of Prime Minister Édouard Philippe on 17 May 2017.",
-              "links": [
-                {
-                  "text": "first government",
-                  "type": "internal",
-                  "page": "First Philippe government"
-                },
-                {
-                  "text": "Édouard Philippe",
-                  "type": "internal",
-                  "page": "Édouard Philippe"
-                }
-              ]
-            },
-            {
-              "text": "A former member of the Socialist Party, he had been an Independent since 2018 before founding Territories of Progress in 2020.",
-              "links": [
-                {
-                  "text": "Socialist Party",
-                  "type": "internal",
-                  "page": "Socialist Party (France)"
-                },
-                {
-                  "text": "Independent",
-                  "type": "internal",
-                  "page": "Independent politician"
-                },
-                {
-                  "type": "internal",
-                  "page": "Territories of Progress"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "French politician",
-          "template": "short description"
-        },
-        {
-          "date": "May 2014",
-          "template": "engvarb"
-        },
-        {
-          "date": "May 2014",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1947",
-          "month": "06",
-          "day": "30",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "ʒɑ̃ iv lə dʁijɑ̃",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Jean-Yves Le Drian"
-          },
-          "image": {
-            "text": "Conférence-débat de Jean-Yves Le Drian, ministre de la Défense, et John Chambers président du Conseil d’administration de Cisco Systems le Mardi 18 octobre 2016 à L'Ecole polytechnique (29792458914).jpg"
-          },
-          "caption": {
-            "text": "Le Drian in October 2016"
-          },
-          "office": {
-            "text": "Minister for Europe and Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister for Europe and Foreign Affairs",
-                "type": "internal",
-                "page": "Ministry for Europe and Foreign Affairs"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Édouard Philippe Jean Castex",
-            "links": [
-              {
-                "text": "Édouard Philippe",
-                "type": "internal",
-                "page": "Édouard Philippe"
-              },
-              {
-                "type": "internal",
-                "page": "Jean Castex"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "17 May 2017"
-          },
-          "predecessor": {
-            "text": "Jean-Marc Ayrault",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean-Marc Ayrault"
-              }
-            ]
-          },
-          "office1": {
-            "text": "President of the Committee of Ministers of the Council of Europe",
-            "links": [
-              {
-                "text": "President of the Committee of Ministers of the Council of Europe",
-                "type": "internal",
-                "page": "Committee of Ministers of the Council of Europe"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "17 May 2019"
-          },
-          "term_end1": {
-            "text": "27 November 2019"
-          },
-          "predecessor1": {
-            "text": "Timo Soini",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Timo Soini"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "David Zalkaliani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Zalkaliani"
-              }
-            ]
-          },
-          "office2": {
-            "text": "President of the Regional Council of Brittany",
-            "links": [
-              {
-                "text": "President",
-                "type": "internal",
-                "page": "List of current presidents of the regional councils of France and the Corsican Assembly"
-              },
-              {
-                "type": "internal",
-                "page": "Regional Council of Brittany"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "18 December 2015"
-          },
-          "term_end2": {
-            "text": "2 June 2017"
-          },
-          "predecessor2": {
-            "text": "Pierrick Massiot"
-          },
-          "successor2": {
-            "text": "Loïg Chesnais-Girard",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Loïg Chesnais-Girard"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2 April 2004"
-          },
-          "term_end3": {
-            "text": "29 June 2012"
-          },
-          "predecessor3": {
-            "text": "Josselin de Rohan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Josselin de Rohan"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Pierrick Massiot"
-          },
-          "office4": {
-            "text": "Minister of Defence",
-            "links": [
-              {
-                "text": "Minister of Defence",
-                "type": "internal",
-                "page": "Minister of the Armies (France)"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Jean-Marc Ayrault Manuel Valls Bernard Cazeneuve",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean-Marc Ayrault"
-              },
-              {
-                "type": "internal",
-                "page": "Manuel Valls"
-              },
-              {
-                "type": "internal",
-                "page": "Bernard Cazeneuve"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "16 May 2012"
-          },
-          "term_end4": {
-            "text": "10 May 2017"
-          },
-          "predecessor4": {
-            "text": "Gérard Longuet",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gérard Longuet"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Sylvie Goulard",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sylvie Goulard"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Secretary of State for the Sea",
-            "links": [
-              {
-                "text": "Secretary of State for the Sea",
-                "type": "internal",
-                "page": "Minister of the Sea (France)"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Édith Cresson",
-            "links": [
-              {
-                "text": "Édith Cresson",
-                "type": "internal",
-                "page": "Édith Cresson"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "16 May 1991"
-          },
-          "term_end5": {
-            "text": "2 April 1992"
-          },
-          "predecessor5": {
-            "text": "Jacques Mellick"
-          },
-          "successor5": {
-            "text": "Charles Josselin"
-          },
-          "office6": {
-            "text": "Mayor of Lorient",
-            "links": [
-              {
-                "text": "Mayor",
-                "type": "internal",
-                "page": "Mayor (France)"
-              },
-              {
-                "type": "internal",
-                "page": "Lorient"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "4 July 1981"
-          },
-          "term_end6": {
-            "text": "2 April 1998"
-          },
-          "predecessor6": {
-            "text": "Jean Lagarde"
-          },
-          "successor6": {
-            "text": "Norbert Métairie"
-          },
-          "office7": {
-            "text": "Member of the National Assembly for Morbihan",
-            "links": [
-              {
-                "text": "National Assembly",
-                "type": "internal",
-                "page": "National Assembly (France)"
-              },
-              {
-                "type": "internal",
-                "page": "Morbihan"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "12 June 1997"
-          },
-          "term_end7": {
-            "text": "19 June 2007"
-          },
-          "predecessor7": {
-            "text": "Michel Godard"
-          },
-          "successor7": {
-            "text": "Françoise Olivier-Coupeau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Françoise Olivier-Coupeau"
-              }
-            ]
-          },
-          "constituency7": {
-            "text": "5th",
-            "links": [
-              {
-                "text": "5th",
-                "type": "internal",
-                "page": "Morbihan's 5th constituency"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "3 April 1978"
-          },
-          "term_end8": {
-            "text": "1 April 1991"
-          },
-          "predecessor8": {
-            "text": "Yves Allainmat"
-          },
-          "successor8": {
-            "text": "Pierre Victoria"
-          },
-          "constituency8": {
-            "text": "5th (1978–1986) At-large (1986–1988) 5th (1988–1991)",
-            "links": [
-              {
-                "text": "5th",
-                "type": "internal",
-                "page": "Morbihan's 5th constituency"
-              },
-              {
-                "type": "internal",
-                "page": "At-large"
-              },
-              {
-                "text": "5th",
-                "type": "internal",
-                "page": "Moselle's 5th constituency"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 30, 1947"
-          },
-          "birth_place": {
-            "text": "Lorient, France",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lorient"
-              },
-              {
-                "type": "internal",
-                "page": "France"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "French"
-          },
-          "party": {
-            "text": "Socialist Party (1974–2018) Independent (2018–2020) Territories of Progress (2020–present)",
-            "links": [
-              {
-                "text": "Socialist Party",
-                "type": "internal",
-                "page": "Socialist Party (France)"
-              },
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              },
-              {
-                "type": "internal",
-                "page": "Territories of Progress"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Rennes 2",
-            "links": [
-              {
-                "text": "University of Rennes 2",
-                "type": "internal",
-                "page": "University of Rennes 2 – Upper Brittany"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Jean-Yves Le Drian",
+  "image": "Conférence-débat de Jean-Yves Le Drian, ministre de la Défense, et John Chambers président du Conseil d’administration de Cisco Systems le Mardi 18 octobre 2016 à L'Ecole polytechnique (29792458914).jpg",
+  "caption": "Le Drian in October 2016",
+  "office": "Minister for Europe and Foreign Affairs",
+  "primeminister": "Édouard Philippe Jean Castex",
+  "term_start": "17 May 2017",
+  "predecessor": "Jean-Marc Ayrault",
+  "office1": "President of the Committee of Ministers of the Council of Europe",
+  "term_start1": "17 May 2019",
+  "term_end1": "27 November 2019",
+  "predecessor1": "Timo Soini",
+  "successor1": "David Zalkaliani",
+  "office2": "President of the Regional Council of Brittany",
+  "term_start2": "18 December 2015",
+  "term_end2": "2 June 2017",
+  "predecessor2": "Pierrick Massiot",
+  "successor2": "Loïg Chesnais-Girard",
+  "term_start3": "2 April 2004",
+  "term_end3": "29 June 2012",
+  "predecessor3": "Josselin de Rohan",
+  "successor3": "Pierrick Massiot",
+  "office4": "Minister of Defence",
+  "primeminister4": "Jean-Marc Ayrault Manuel Valls Bernard Cazeneuve",
+  "term_start4": "16 May 2012",
+  "term_end4": "10 May 2017",
+  "predecessor4": "Gérard Longuet",
+  "successor4": "Sylvie Goulard",
+  "office5": "Secretary of State for the Sea",
+  "primeminister5": "Édith Cresson",
+  "term_start5": "16 May 1991",
+  "term_end5": "2 April 1992",
+  "predecessor5": "Jacques Mellick",
+  "successor5": "Charles Josselin",
+  "office6": "Mayor of Lorient",
+  "term_start6": "4 July 1981",
+  "term_end6": "2 April 1998",
+  "predecessor6": "Jean Lagarde",
+  "successor6": "Norbert Métairie",
+  "office7": "Member of the National Assembly for Morbihan",
+  "term_start7": "12 June 1997",
+  "term_end7": "19 June 2007",
+  "predecessor7": "Michel Godard",
+  "successor7": "Françoise Olivier-Coupeau",
+  "constituency7": "5th",
+  "term_start8": "3 April 1978",
+  "term_end8": "1 April 1991",
+  "predecessor8": "Yves Allainmat",
+  "successor8": "Pierre Victoria",
+  "constituency8": "5th (1978–1986) At-large (1986–1988) 5th (1988–1991)",
+  "birth_date": "June 30, 1947",
+  "birth_place": "Lorient, France",
+  "nationality": "French",
+  "party": "Socialist Party (1974–2018) Independent (2018–2020) Territories of Progress (2020–present)",
+  "alma_mater": "University of Rennes 2"
 }
