@@ -2,7 +2,7 @@ position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 President,Jacques Chirac,Q2105,1995-05-17,2007-05-16,male,1932-11-29,2019-09-26,Jacques Chirac (1997) (cropped).jpg,Jacques Chirac
 President,Nicolas Sarkozy,Q329,2007-05-16,2012-05-15,male,1955-01-28,,Nicolas Sarkozy (2015-10-29) 03 (cropped).jpg,Nicolas Sarkozy
 President,François Hollande,Q157,2012-05-15,2017-05-14,male,1954-08-12,,Francois Hollande 2015.jpeg,François Hollande
-President,Emmanuel Macron,Q3052772,2017-05-14,,male,1977-12-21,,Emmanuel Macron in July 2017.jpg,Emmanuel Macron
+President,Emmanuel Macron,Q3052772,2017-05-14,,male,1977-12-21,,Emmanuel Macron (cropped).jpg,Emmanuel Macron
 Prime Minister,Lionel Jospin,Q187099,1997-06-03,2002-05-06,male,1937-07-12,,"Lionel Jospin, mai 2014, Rennes, France (cropped).jpg",Lionel Jospin
 Prime Minister,Jean-Pierre Raffarin,Q63263,2002-05-06,2005-05-31,male,1948-08-03,,Jean-Pierre Raffarin par Claude Truong-Ngoc 2013.jpg,Jean-Pierre Raffarin
 Prime Minister,Dominique de Villepin,Q131660,2005-05-31,2007-05-17,male,1953-11-14,,Dominique de Villepin (2010).jpg,Dominique de Villepin
@@ -78,7 +78,7 @@ Minister of Ecological and Solidary Transition,Barbara Pompili,Q117402,2020-07-0
 "Minister of the Economy, Finances and Industry",Michel Sapin,Q713296,2016-12-06,2017-05-15,male,1952-04-09,,Michel sapin mars 2015-wikipedia1 (cropped).jpg,Michel Sapin
 "Minister of the Economy, Finances and Industry",Bruno Le Maire,Q993472,2017-05-15,2017-06-21,male,1969-04-15,,Bruno Le Maire par Claude Truong-Ngoc novembre 2014.jpg,Bruno Le Maire
 "Minister of the Economy, Finances and Industry",Bruno Le Maire,Q993472,2017-06-21,,male,1969-04-15,,Bruno Le Maire par Claude Truong-Ngoc novembre 2014.jpg,Bruno Le Maire
-"Minister of Economy, Industry and Digital",Emmanuel Macron,Q3052772,2014-08-26,2016-08-30,male,1977-12-21,,Emmanuel Macron in July 2017.jpg,Emmanuel Macron
+"Minister of Economy, Industry and Digital",Emmanuel Macron,Q3052772,2014-08-26,2016-08-30,male,1977-12-21,,Emmanuel Macron (cropped).jpg,Emmanuel Macron
 Minister of Europe and Foreign Affairs,Jean-Yves Le Drian,Q559040,2017-05-17,2017-06-21,male,1947-06-30,,"Reuven Rivlin at a meeting with Jean-Yves Le Drian, March 2018 (9730) (cropped).jpg",Jean-Yves Le Drian
 Minister of Europe and Foreign Affairs,Jean-Yves Le Drian,Q559040,2017-06-21,,male,1947-06-30,,"Reuven Rivlin at a meeting with Jean-Yves Le Drian, March 2018 (9730) (cropped).jpg",Jean-Yves Le Drian
 Minister of European Affairs,Noëlle Lenoir,Q529265,2002-06-17,2004-03-31,female,1948-04-27,,Noëlle Lenoir 2.jpg,Noëlle Lenoir
@@ -177,7 +177,7 @@ Minister of State for Disabled People,Dominique Gillot,Q3035194,2001-02-07,2001-
 Minister of State for Disabled People,Sophie Cluzel,Q3490886,2017-05-17,,female,1961-01-07,,Sophie Cluzel 2018-04-06 lancement stratégie autisme 2018-2022 (3).jpg,Sophie Cluzel
 Minister of State for Pensions and Occupational Health,Laurent Pietraszewski,Q30385534,2019-12-17,,male,1966-11-19,,Laurent Pietraszewski 2017.jpg,Laurent Pietraszewski
 Minister of State for Pensions and Occupational Health,Laurent Pietraszewski,Q30385534,2019-12-17,2020-07-03,male,1966-11-19,,Laurent Pietraszewski 2017.jpg,Laurent Pietraszewski
-Minister of State for Priority Education Policy,Nathalie Élimas,Q30511578,2020-07,2022-03,female,1973-06-05,,NathalieAvyElimas.jpg,Nathalie Élimas
+Minister of State for Priority Education Policy,Nathalie Élimas,Q30511578,2020-07-26,2022-03-05,female,1973-06-05,,NathalieAvyElimas.jpg,Nathalie Élimas
 Minister of State for Rural Affairs,Joël Giraud,Q637002,2020-07-06,2022-03-05,male,1959-10-14,,Joël Giraud.jpg,Joël Giraud
 "Minister of State for Tourism, French Nationals Abroad and Francophonie",Amélie de Montchalin,Q30379410,2019-03-31,2020-07-06,female,1985-06-19,,Amélie de Montchalin.jpg,Amélie de Montchalin
 "Minister of State for Tourism, French Nationals Abroad and Francophonie",Jean-Baptiste Lemoyne,Q18202528,2020-07-25,2021-12-11,male,1977-09-15,,Jean-Baptiste Lemoyne (cropped).jpg,Jean-Baptiste Lemoyne (politician)
@@ -246,7 +246,7 @@ Government Spokesperson,Christophe Castaner,Q1726930,2017-06-21,2017-11-24,male,
 Government Spokesperson,Benjamin Griveaux,Q29210910,2017-11-24,2019-03-27,male,1977-12-29,,Benjamin Griveaux (40581872673).jpg,Benjamin Griveaux
 Government Spokesperson,Sibeth Ndiaye,Q29867485,2019-03-31,2020-07-03,female,1979-12-13,,Sibeth-Ndiaye-le-17-mai-2019-à-Poitiers (cropped).jpg,Sibeth Ndiaye
 Government Spokesperson,Gabriel Attal,Q30339350,2020-07-06,,male,1989-03-16,,ATTAL Gabriel - 20200916.jpg,Gabriel Attal
-Chief of Staff of the Army,,Q60499624,1999-01-20,2002-08-30,male,,,,
+Chief of Staff of the Army,Yves Crène,Q60499624,1999-01-20,2002-08-30,male,,,,
 Chief of Staff of the Army,Bernard Thorette,Q33104780,2002-09-01,2006-07-15,male,1945-10-20,,,
 Chief of Staff of the Army,Bruno Cuche,Q2926718,2006-07-16,2008-07-01,male,1948-04-13,,Bruno Cuche par Claude Truong-Ngoc novembre 2014.jpg,
 Chief of Staff of the Army,Elrick Irastorza,Q3051692,2008-07-02,2011-08-31,male,1950-09-29,,Elrick Irastorza-120109-M-0884D-005b.jpg,Elrick Irastorza
