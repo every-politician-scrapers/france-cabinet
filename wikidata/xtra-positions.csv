@@ -9,6 +9,7 @@ Q54322270,ambassador to Armenia
 Q26236832,ambassador to Australia
 Q26253765,ambassador to Austria
 Q26253812,ambassador to Azerbaijan
+Q50364389,ambassador to Bahrain
 Q50364613,ambassador to Bangladesh
 Q50918049,ambassador to Belarus
 Q26236993,ambassador to Belgium
@@ -17,6 +18,7 @@ Q50364915,ambassador to Bolivia
 Q26252472,ambassador to Bosnia and Herzegovina
 Q54913801,ambassador to Botswana
 Q26256073,ambassador to Brazil
+Q105993034,ambassador to Brunei
 Q26256175,ambassador to Bulgaria
 Q26256286,ambassador to Burkina Faso
 Q50392129,ambassador to Burundi
@@ -35,6 +37,8 @@ Q28064743,ambassador to Cyprus
 Q26262756,ambassador to Côte d'Ivoire
 Q26261042,ambassador to the Democratic Republic of the Congo
 Q26261162,ambassador to Denmark
+Q55759714,ambassador to Djibouti
+Q30105073,ambassador to Dominica
 Q55013279,ambassador to the Dominican Republic
 Q26265825,ambassador to Ecuador
 Q26256151,ambassador to Egypt
@@ -45,6 +49,7 @@ Q26262827,ambassador to Ethiopia
 Q61742479,ambassador to Fiji
 Q26261289,ambassador to Finland
 Q26262736,ambassador to Gabon
+Q87653584,ambassador to the Gambia
 Q26253837,ambassador to Georgia
 Q20942020,ambassador to Germany
 Q26262084,ambassador to Greece
@@ -67,7 +72,10 @@ Q26252334,ambassador to Japan
 Q26252463,ambassador to Jordan
 Q99395051,ambassador to Kazakhstan
 Q38184126,ambassador to Kenya
-Q101552213,ambassador to Kirghizistan
+Q28061713,ambassador to the Republic of Korea
+Q26261011,ambassador to the Republic of the Congo
+Q101552213,ambassador to Kyrgyzstan
+Q54887749,ambassador to Kuwait
 Q29897317,ambassador to Laos
 Q93424591,ambassador to Latvia
 Q26252198,ambassador to Lebanon
@@ -103,7 +111,7 @@ Q26265882,ambassador to Panama and Bahamas
 Q102397921,ambassador to Papua New Guinea
 Q30158204,ambassador to Paraguay
 Q26263217,ambassador to Peru
-Q50841094,"ambassador of France, Manila"
+Q50841094,ambassador to the Phillipines
 Q26256262,ambassador to Poland
 Q26262089,ambassador to Portugal
 Q26262845,ambassador in Prague
@@ -114,6 +122,7 @@ Q29640791,ambassador to Rwanda
 Q26253729,ambassador to Saudi Arabia
 Q26262809,ambassador to Senegal
 Q50364089,ambassador to Serbia
+Q106869003,ambassador to the Seychelles
 Q26265915,ambassador to Singapore
 Q26265829,ambassador to Slovakia
 Q50307149,Ambassador to Slovenia
@@ -129,12 +138,16 @@ Q25301497,ambassador to Syria
 Q50564057,ambassador to Tanzania
 Q26262765,ambassador to Thailand
 Q26265673,ambassador to Togo
+Q26265627,ambassador to Trinidad and Tobago
 Q26262788,ambassador to Tunisia
 Q25301477,ambassador to Turkey
 Q106515657,ambassador to Turkmenistan
 Q26237526,ambassador to UNESCO
 Q54833669,ambassador to Uganda
 Q25302509,ambassador to Ukraine
+Q26265485,ambassador to the United Arab Emirates
+Q25293347,ambassador to the United Kingdom
+Q25293432,ambassador to the United States
 Q110086626,ambassador to Uzbekistan
 Q29897301,ambassador to Vanuatu
 Q26267144,ambassador to Venezuela
@@ -143,9 +156,4 @@ Q54974176,ambassador to Yemen
 Q25885015,ambassador to Zambia
 Q26267179,ambassador to Zimbabwe
 Q25294348,Permanent Representative to the United Nations
-Q28061713,ambassador in the Republic of Korea
-Q26261011,ambassador to the Republic of the Congo
-Q26265485,ambassador to the United Arab Emirates
-Q25293347,ambassador to the United Kingdom
-Q25293432,ambassador to the United States
 Q28061729,ambassador of France
