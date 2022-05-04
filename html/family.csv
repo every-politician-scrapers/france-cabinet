@@ -217,6 +217,7 @@ Q2897761,Bernard Debré,sibling,Q713235,Jean-Louis Debré
 Q2897988,Bernard Grasset,father,Q50889487,Marius Grasset
 Q2898459,Bernard Pons,child,Q33150562,Frédérique Pons
 Q2898459,Bernard Pons,child,Q48341784,Isabelle Secrétan
+Q2898459,Bernard Pons,father,Q111817197,Claude Pons
 Q2898602,Bernard Seillier,child,Q16534262,Bruno Seillier
 Q2898602,Bernard Seillier,spouse,Q17420895,Françoise Seillier
 Q2899658,Bertrand Ract-Madoux,child,Q47639967,Ferréol Ract-Madoux
@@ -316,6 +317,7 @@ Q3084135,François Bujon de l'Estang,child,Q62178731,Anne-Lorraine Bujon de l'Es
 Q3084310,François Cornut-Gentille,relative,Q2897714,Bernard Cornut-Gentille
 Q3084390,François Delapierre,spouse,Q42420251,Charlotte Girard
 Q3085538,François Perrot,child,Q30343102,Patrice Perrot
+Q3086255,François de Mazières,father,Q56106645,Philippe de Mazières
 Q3090356,Frédérique Bredin,father,Q1230574,Jean-Denis Bredin
 Q3090390,Frédérique Massat,father,Q3426608,René Massat
 Q3105581,Gilbert Annette,relative,Q3056510,Ericka Bareigts
