@@ -1,5 +1,9 @@
 {
   "name": "Jean-Baptiste Djebbari",
+  "office": "Minister for Transport",
+  "predecessor": "Élisabeth Borne",
+  "termstart": "3 September 2019",
+  "termend": "16 May 2022",
   "office2": "Member of the National Assembly\nfor Haute-Vienne's 2nd constituency",
   "term_start2": "21 June 2017",
   "predecessor2": "Daniel Boisserie",
@@ -10,8 +14,5 @@
   "birth_place": "Melun, France",
   "nationality": "French",
   "party": "La République En Marche! (since 2016)",
-  "alma_mater": "École nationale de l'aviation civile",
-  "office": "Minister for Transport",
-  "predecessor": "Élisabeth Borne",
-  "termstart": "3 September 2019"
+  "alma_mater": "École nationale de l'aviation civile"
 }
