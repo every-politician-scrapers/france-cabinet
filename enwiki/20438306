@@ -4,6 +4,7 @@
   "president": "Emmanuel Macron",
   "primeminister": "Jean Castex",
   "term_start": "6 July 2020",
+  "term_end": "20 May 2022",
   "office2": "Minister of Overseas Territories",
   "president2": "Emmanuel Macron",
   "primeminister2": "Édouard Philippe",
@@ -40,5 +41,6 @@
   "birth_date": "August 3, 1964",
   "birth_place": "Saint-Malo, Ille-et-Vilaine, France",
   "nationality": "French",
-  "party": "Rad"
+  "party": "Rad",
+  "successor": "Justine Benin"
 }
