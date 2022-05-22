@@ -1,39 +1,26 @@
 item,itemLabel,position,positionLabel,start,psid
-Q117402,Barbara Pompili,Q29962937,Minister of Ecological and Solidary Transition,2020-07-06,Q117402-2685115d-45ba-d5c2-938a-86100d926a97
-Q18202528,Jean-Baptiste Lemoyne,Q110310819,"Minister Delegate for Tourism, French Nationals Abroad and Francophonie",2021-12-08,Q18202528-20333DB1-609C-4D26-A874-881D1168202D
-Q20020731,Élisabeth Borne,Q105445328,Minister of Labour (France),2020-07-06,Q20020731-2ebd3ce0-4be7-fd83-1a8e-c57005955614
+Q112079659,Rima Abdul Malak,Q12436652,Minister of Culture (France),2022-05-20,Q112079659-2106e00f-4935-0c95-f271-eb217ee9a64e
 Q20020731,Élisabeth Borne,Q1587677,Prime Minister of France,2022-05-16,Q20020731-25e7166a-4965-b60b-c7e9-51673ce597c2
-Q20089181,Sébastien Lecornu,Q29963125,Minister for Overseas France,2020-07-06,Q20089181-4eb6002d-4a1f-8597-ca1a-6eb04822453f
-Q2020823,Olivier Dussopt,Q107659488,Minister Delegate for Public Accounts,2017-11-24,Q2020823-cde4bb03-4fc1-46a4-74dd-c8b59c0cd42e
-Q20807844,Marlène Schiappa,Q107659645,Minister Delegate for Citizenship,2020-07-01,Q20807844-D24B38CD-DC7B-4682-A4FF-3A34A01BD45A
-Q2851582,Annick Girardin,Q3251873,French Minister of the Sea,2020-07-06,Q2851582-906c8c01-4400-7e45-cfd2-37df64dbf7df
-Q28950190,Frédérique Vidal,Q29968038,"Minister of Higher Education, Research and Innovation",2017-05-17,Q28950190-9164b7ce-4654-612b-50d6-cd9c7ad40a22
-Q30339350,Gabriel Attal,Q65146859,Government Spokesperson,2020-07-06,Q30339350-762a597e-4e15-4f68-2992-85e6ecd7fc96
-Q30339386,Bérangère Abba,Q97705623,Minister of State for Biodiversity,2020-07-25,Q30339386-a590e642-4639-00a7-f43f-dd918aa7798e
-Q30343005,Jean-Baptiste Djebbari,Q27103646,Minister for Transport,2019-09-03,Q30343005-2b8ee0bc-4133-9495-ef25-90b3b4320076
-Q30343155,Nadia Hai,Q21113166,Minister of City Affairs,2020-07-06,Q30343155-7353F527-C27E-402A-9789-FD31194B0E01
-Q30343245,Sarah El Haïry,Q107658956,Minister of State for Youth and Engagement,2020-07-26,Q30343245-c75f1534-4f76-3b0b-edee-66d4f27e62ea
-Q30344625,Adrien Taquet,Q107659110,Minister of State for Children and Families,2020-07-01,Q30344625-0F4D6493-4419-4568-BD17-F9E9B116A035
-Q30349408,Olivia Grégoire,Q107658936,"Minister of State for the Social, Inclusive and Responsible Economy",2020-07-01,Q30349408-AA7E26F9-B383-499E-B049-BF6CED9A8567
-Q30379410,Amélie de Montchalin,Q56880877,Minister of the Civil Service,2020-07-06,Q30379410-df635714-480a-be5a-d6ce-1bec31ad7d0b
-Q30385534,Laurent Pietraszewski,Q78976751,Minister of State for Pensions and Occupational Health,2019-12-17,Q30385534-248f79b8-487a-e8cf-b54b-00ce36996221
-Q30459912,Julien Denormandie,Q61649628,Minister of Agriculture and Food,2020-07-06,Q30459912-4f7c2b94-43f4-be7e-d9d3-f6feeff62f75
-Q3074013,Florence Parly,Q15215099,Minister of the Armed Forces,2017-06-21,Q3074013-7978958a-4931-b18c-785f-bddee6bc5247
-Q3100615,Geneviève Darrieussecq,Q107659387,Minister Delegate for Remembrance and Veterans,2020-07-01,Q3100615-D9D39D59-5792-46F6-B3E4-468F42C4EB2E
-Q3167954,Jean-Michel Blanquer,Q16059954,Minister of National Education,2017-06-21,Q3167954-15e6bb04-4fa3-62ff-3ea4-e4397fa098df
-Q33103571,Cédric O,Q16260691,Secretary of State for Digital Affairs,2019-03-31,Q33103571-15f45da6-4322-cd47-237e-5bcc271067ad
-Q33142338,Emmanuelle Wargon,Q107659549,Minister Delegate for Housing,2020-07-01,Q33142338-EF9D71EA-46F8-480B-B77B-FC43F7EFAF6A
+Q20089181,Sébastien Lecornu,Q15215099,Minister of the Armed Forces,2022-05-20,Q20089181-D6CED45C-A36D-443F-894E-53E246C3B0F5
+Q2020823,Olivier Dussopt,Q105445328,Minister of Labour (France),2022-05-16,Q2020823-8D01BCCC-9675-4A51-A042-06BCB49894FB
+Q273396,Catherine Colonna,Q29962890,Minister of Europe and Foreign Affairs,2022-05-20,Q273396-3BDE5446-3A61-4115-A7CF-259A6FF9FC02
+Q2925411,Brigitte Bourguignon,Q107658508,Minister for Solidarity and Health,2022-05-16,Q2925411-4534D648-DC14-4BD6-8070-7FA0EF66A0F2
+Q30339350,Gabriel Attal,Q107659488,Minister Delegate for Public Accounts,2022-05-20,Q30339350-5a6b16db-44ff-30fb-8fa0-d8d15010f98f
+Q30339422,Yaël Braun-Pivet,Q29963125,Minister for Overseas France,2022-05-20,Q30339422-b28a76ff-46d9-ac0b-ee19-19ce8e457350
+Q30342954,Justine Benin,Q3251873,French Minister of the Sea,2022-05-20,Q30342954-E823C332-ABAE-4766-A0ED-CF7191C46C3E
+Q30343112,Stanislas Guerini,Q56880877,Minister of the Civil Service,2022-05-20,Q30343112-13796d13-402a-5487-86ca-0db7112dfc78
+Q30349408,Olivia Grégoire,Q65146859,Government Spokesperson,2022-05-20,Q30349408-f0ee48a7-4a6d-b32c-d8fd-410473836efa
+Q30379410,Amélie de Montchalin,Q29962937,Minister of Ecological and Solidary Transition,2022-05-20,Q30379410-7f16bfcc-4121-7141-18ec-f549557128a1
 Q33172434,Clément Beaune,Q3251882,Minister of European Affairs of France,2020-07-25,Q33172434-9c90f522-4ece-a35e-cad6-e109072551ae
 Q33230494,Agnès Pannier-Runacher,Q107659517,Minister Delegate for Industry,2020-07-01,Q33230494-E9861A2B-95EE-487F-944D-CEF8369FB045
-Q3332699,Olivier Véran,Q107658508,Minister for Solidarity and Health,2020-02-16,Q3332699-279a316a-4bbb-9d37-8d7a-b7b8264fda5a
-Q3490886,Sophie Cluzel,Q29963253,Minister of State for Disabled People,2017-05-17,Q3490886-e02f1449-4235-97da-b791-42ebbc7d2910
+Q3332699,Olivier Véran,Q29963198,Secretary of State for Parliamentary Affairs,2022-05-16,Q3332699-C7A6FBE5-0C71-4667-B2A1-38855F5E2740
+Q3362697,Pap Ndiaye,Q16059954,Minister of National Education,2022-05-20,Q3362697-3db9f529-4028-ccaa-fe34-8894549209dd
 Q3591105,Éric Dupond-Moretti,Q17553783,Minister of Justice,2020-07-06,Q3591105-a6902102-4c62-8497-33c4-874b46c67362
-Q436173,Roselyne Bachelot,Q12436652,Minister of Culture (France),2020-07-06,Q436173-98342a2c-4f48-c5b2-fbca-a1f0b80e0504
-Q446170,Roxana Maracineanu,Q107659360,Minister Delegate for Sport,2020-07-06,Q446170-D0BEDBD3-93D4-4FD4-B99D-B180D77585F0
-Q559040,Jean-Yves Le Drian,Q29962890,Minister of Europe and Foreign Affairs,2017-06-21,Q559040-6b685015-4301-4416-a347-e1b77897941c
-Q637002,Joël Giraud,Q29962874,Minister of Territorial Development,2022-03-05,Q637002-37707049-7FF6-4445-A1E8-27A06A29DB07
-Q63764562,Brigitte Klinkert,Q97015780,Minister Delegate for Integration,2020-07-06,Q63764562-b1d6826f-40c2-a878-e11e-e7c36511a55c
-Q64373817,Elisabeth Moreno,Q107659591,"Minister Delegate for Gender Equality, Diversity and Equal Opportunities",2020-07-06,Q64373817-6d0e5b3c-40e6-368c-be2a-da7cb83b2671
-Q6755549,Marc Fesneau,Q29963198,Secretary of State for Parliamentary Affairs,2020-07-01,Q6755549-C8DAC5B6-1D39-40DF-8297-B3E238830D72
+Q47498954,Sylvie Retailleau,Q29968038,"Minister of Higher Education, Research and Innovation",2022-05-20,Q47498954-9D58854A-1F9B-49CC-A9DD-4B56629456E3
+Q544725,Christophe Béchu,Q112110872,Minister Delegate in charge of Territorial Communities,2022-05-20,Q544725-A5529212-D837-4601-9916-FB70BD224A94
+Q64032959,Chrisoula Zacharopoulou,Q110310819,"Minister Delegate for Tourism, French Nationals Abroad and Francophonie",2022-05-20,Q64032959-56121735-4378-651d-6ff3-fb0e764ce1f5
+Q6755549,Marc Fesneau,Q61649628,Minister of Agriculture and Food,2022-05-16,Q6755549-B58B03C7-EB9F-421A-B368-266C798A6F49
+Q966529,Damien Abad,Q29963253,Minister of State for Disabled People,2022-05-16,Q966529-33C1F049-EA4B-4E09-BC95-E8C179497DC0
+Q99193104,Charlotte Caubel,Q107659591,"Minister Delegate for Gender Equality, Diversity and Equal Opportunities",2022-05-20,Q99193104-81decc48-442d-12d3-71a6-c63304e78d45
 Q993472,Bruno Le Maire,Q20202948,"Minister of the Economy, Finances and Industry",2017-06-21,Q993472-21d7b7a7-42e1-ce47-a710-fa4fbfaf5186
 Q64463,Franck Riester,Q97061396,French Minister of Foreign Trade,2020-07-06,Q64463-af58e993-498d-47ce-51fc-43bb4dc94e44
