@@ -164,6 +164,7 @@ Q2396093,Colette Giudicelli,spouse,Q3165004,Jean-Claude Guibal
 Q2396260,Franck Borotra,child,Q2975013,Claire Borotra
 Q2396260,Franck Borotra,sibling,Q3026943,Didier Borotra
 Q2414678,Annie Genevard,mother,Q3154666,Irène Tharin
+Q2483192,Yvan Lachaud,spouse,Q112125217,Mireille Lachaud
 Q25301468,Charles Fries,sibling,Q33102045,Fabrice Fries
 Q257752,Frédéric Mitterrand,father,Q1973016,Robert Mitterrand
 Q257752,Frédéric Mitterrand,mother,Q49264995,Édith Cahier
@@ -321,6 +322,7 @@ Q3074013,Florence Parly,mother,Q37990488,Jeanne-Marie Parly
 Q3074013,Florence Parly,spouse,Q2388925,Martin Vial
 Q3074223,Florian Philippot,father,Q43649900,Daniel Philippot
 Q3074223,Florian Philippot,sibling,Q27334939,Damien Philippot
+Q3079081,Émile Zuccarelli,father,Q3175142,Jean Zuccarelli
 Q3083699,François-Xavier Deniau,father,Q2597807,Xavier Deniau
 Q3084135,François Bujon de l'Estang,child,Q62178731,Anne-Lorraine Bujon de l'Estang
 Q3084310,François Cornut-Gentille,relative,Q2897714,Bernard Cornut-Gentille
@@ -429,6 +431,10 @@ Q33103571,Cédric O,sibling,Q30068067,Delphine O
 Q33104128,Marine de Carné,spouse,Q3288193,Marc Le Fur
 Q33104478,Harold Huwart,father,Q3084884,François Huwart
 Q33104697,Amélie Oudéa-Castéra,father,Q99736100,Richard Castéra
+Q33104697,Amélie Oudéa-Castéra,mother,Q99736096,Dominique Castéra
+Q33104697,Amélie Oudéa-Castéra,relative,Q112115156,Jean-François Duhamel
+Q33104697,Amélie Oudéa-Castéra,relative,Q2829769,Alain Duhamel
+Q33104697,Amélie Oudéa-Castéra,relative,Q3368925,Patrice Duhamel
 Q33104697,Amélie Oudéa-Castéra,spouse,Q984266,Frederic Oudéa
 Q33105695,François Pinte,father,Q3592334,Étienne Pinte
 Q33109969,Romain Nadal,mother,Q63759157,Marie-Françoise Matouk
