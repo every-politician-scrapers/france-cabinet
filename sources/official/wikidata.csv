@@ -1,28 +1,27 @@
 wdid,name,wdLabel,source,sourceDate,pid,position,psid
-Q112079659,Rima Abdul Malak,Rima Abdul Malak,,,Q12436652,Minister of Culture (France),Q112079659-2106e00f-4935-0c95-f271-eb217ee9a64e
-Q20020731,Élisabeth Borne,Élisabeth Borne,,,Q1587677,Prime Minister of France,Q20020731-25e7166a-4965-b60b-c7e9-51673ce597c2
-Q20089181,Sébastien Lecornu,Sébastien Lecornu,,,Q15215099,Minister of the Armed Forces,Q20089181-D6CED45C-A36D-443F-894E-53E246C3B0F5
-Q2020823,Olivier Dussopt,Olivier Dussopt,,,Q105445328,Minister of Labour (France),Q2020823-8D01BCCC-9675-4A51-A042-06BCB49894FB
-Q273396,Catherine Colonna,Catherine Colonna,,,Q29962890,Minister of Europe and Foreign Affairs,Q273396-3BDE5446-3A61-4115-A7CF-259A6FF9FC02
-Q2925411,Brigitte Bourguignon,Brigitte Bourguignon,,,Q107658508,Minister for Solidarity and Health,Q2925411-4534D648-DC14-4BD6-8070-7FA0EF66A0F2
-Q30339350,Gabriel Attal,Gabriel Attal,,,Q107659488,Minister Delegate for Public Accounts,Q30339350-5a6b16db-44ff-30fb-8fa0-d8d15010f98f
-Q30339422,Yaël Braun-Pivet,Yaël Braun-Pivet,,,Q29963125,Minister for Overseas France,Q30339422-b28a76ff-46d9-ac0b-ee19-19ce8e457350
-Q30342954,Justine Benin,Justine Benin,,,Q3251873,French Minister of the Sea,Q30342954-E823C332-ABAE-4766-A0ED-CF7191C46C3E
-Q30343112,Stanislas Guerini,Stanislas Guerini,,,Q56880877,Minister of the Civil Service,Q30343112-13796d13-402a-5487-86ca-0db7112dfc78
-Q30349408,Olivia Grégoire,Olivia Grégoire,,,Q65146859,Government Spokesperson,Q30349408-f0ee48a7-4a6d-b32c-d8fd-410473836efa
-Q30379410,Amélie de Montchalin,Amélie de Montchalin,,,Q29962937,Minister of Ecological and Solidary Transition,Q30379410-7f16bfcc-4121-7141-18ec-f549557128a1
-Q3123610,Gérald Darmanin,Gérald Darmanin,https://www.gouvernement.fr/en/composition-of-the-government,2021-07-27,Q20203006,Minister of the Interior,Q3123610-585be64b-49d4-df2b-7fad-dce5d91aa1f8
-Q33104697,Amélie Oudéa-Castéra,Amélie Oudéa-Castéra,,,Q25395297,Minister of Sport,Q33104697-fb282c26-471f-2601-279d-5400da1abb97
-Q33172434,Clément Beaune,Clément Beaune,https://www.gouvernement.fr/en/composition-of-the-government,2021-07-27,Q3251882,Minister of State for European Affairs,Q33172434-9c90f522-4ece-a35e-cad6-e109072551ae
-Q33230494,Agnès Pannier-Runacher,Agnès Pannier-Runacher,https://www.gouvernement.fr/en/composition-of-the-government,2021-07-27,Q107659517,Minister Delegate for Industry,Q33230494-E9861A2B-95EE-487F-944D-CEF8369FB045
-Q3332699,Olivier Véran,Olivier Véran,,,Q29963198,Secretary of State for Parliamentary Affairs,Q3332699-C7A6FBE5-0C71-4667-B2A1-38855F5E2740
-Q3362697,Pap Ndiaye,Pap Ndiaye,,,Q16059954,Minister of National Education,Q3362697-3db9f529-4028-ccaa-fe34-8894549209dd
+Q112079659,Rima Abdul-Malak,Rima Abdul Malak,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q12436652,Ministre de la Culture,Q112079659-2106e00f-4935-0c95-f271-eb217ee9a64e
+Q20020731,Élisabeth Borne,Élisabeth Borne,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q1587677,Première ministre,Q20020731-25e7166a-4965-b60b-c7e9-51673ce597c2
+Q20089181,Sébastien Lecornu,Sébastien Lecornu,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q15215099,Ministre des Armées,Q20089181-D6CED45C-A36D-443F-894E-53E246C3B0F5
+Q2020823,Olivier Dussopt,Olivier Dussopt,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q105445328,"Ministre du Travail, du Plein emploi et de l'Insertion",Q2020823-8D01BCCC-9675-4A51-A042-06BCB49894FB
+Q273396,Catherine Colonna,Catherine Colonna,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q29962890,Ministre de l'Europe et des Affaires étrangères,Q273396-3BDE5446-3A61-4115-A7CF-259A6FF9FC02
+Q2925411,Brigitte Bourguignon,Brigitte Bourguignon,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q107658508,Ministre de la Santé et de la Prévention,Q2925411-4534D648-DC14-4BD6-8070-7FA0EF66A0F2
+Q30339350,Gabriel Attal,Gabriel Attal,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q107659488,"Ministre délégué auprès du ministre de l'Économie, des Finances et de la Souveraineté industrielle et numérique chargé des Comptes publics",Q30339350-5a6b16db-44ff-30fb-8fa0-d8d15010f98f
+Q30339422,Yaël Braun-Pivet,Yaël Braun-Pivet,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q29963125,Ministre des Outre-mer,Q30339422-b28a76ff-46d9-ac0b-ee19-19ce8e457350
+Q30342954,Justine Benin,Justine Benin,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q3251873,"Secrétaire d’Etat auprès de la Première ministre, chargée de la Mer",Q30342954-E823C332-ABAE-4766-A0ED-CF7191C46C3E
+Q30343112,Stanislas Guerini,Stanislas Guerini,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q56880877,Ministre de la Transformation et de la Fonction publiques,Q30343112-13796d13-402a-5487-86ca-0db7112dfc78
+Q30349408,Olivia Grégoire,Olivia Grégoire,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q65146859,"Secrétaire d'État auprès de la Première ministre, Porte-parole du Gouvernement",Q30349408-f0ee48a7-4a6d-b32c-d8fd-410473836efa
+Q30379410,Amélie de Montchalin,Amélie de Montchalin,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q29962937,Ministre de la Transition écologique et de la Cohésion des territoires,Q30379410-7f16bfcc-4121-7141-18ec-f549557128a1
+Q3123610,Gérald Darmanin,Gérald Darmanin,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q20203006,Ministre de l'Intérieur,Q3123610-585be64b-49d4-df2b-7fad-dce5d91aa1f8
+Q33104697,Amélie Oudéa-Castéra,Amélie Oudéa-Castéra,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q25395297,Ministre des Sports et des Jeux olympiques et paralympiques,Q33104697-fb282c26-471f-2601-279d-5400da1abb97
+Q33172434,Clément Beaune,Clément Beaune,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q3251882,"Ministre délégué auprès de la ministre de l'Europe et des Affaires étrangères, chargé de l'Europe",Q33172434-9c90f522-4ece-a35e-cad6-e109072551ae
+Q3332699,Olivier Véran,Olivier Véran,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q29963198,"Ministre délégué auprès de la Première ministre, chargé des Relations avec le Parlement et de la Vie démocratique",Q3332699-C7A6FBE5-0C71-4667-B2A1-38855F5E2740
+Q3362697,Pap Ndiaye,Pap Ndiaye,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q16059954,Ministre de l'Education nationale et de la Jeunesse,Q3362697-3db9f529-4028-ccaa-fe34-8894549209dd
 Q3591105,Éric Dupond-Moretti,Éric Dupond-Moretti,https://www.gouvernement.fr/en/composition-of-the-government,2021-07-27,Q17553783,"Keeper of the Seals, Minister of Justice",Q3591105-a6902102-4c62-8497-33c4-874b46c67362
-Q47498954,Sylvie Retailleau,Sylvie Retailleau,,,Q29968038,"Minister of Higher Education, Research and Innovation",Q47498954-9D58854A-1F9B-49CC-A9DD-4B56629456E3
-Q544725,Christophe Béchu,Christophe Béchu,,,Q112110872,Minister Delegate in charge of Territorial Communities,Q544725-A5529212-D837-4601-9916-FB70BD224A94
+Q47498954,Sylvie Retailleau,Sylvie Retailleau,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q29968038,Ministre de l'Enseignement supérieur et de la Recherche,Q47498954-9D58854A-1F9B-49CC-A9DD-4B56629456E3
+Q544725,Christophe Béchu,Christophe Béchu,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q112110872,"Ministre délégué auprès du ministre de l’Intérieur et de la ministre de la Transition écologique et de la Cohésion des territoires, chargé des Collectivités territoriales",Q544725-A5529212-D837-4601-9916-FB70BD224A94
 Q64032959,Chrisoula Zacharopoulou,Chrisoula Zacharopoulou,,,Q110310819,"Minister Delegate for Tourism, French Nationals Abroad and Francophonie",Q64032959-56121735-4378-651d-6ff3-fb0e764ce1f5
 Q64463,Franck Riester,Franck Riester,https://www.gouvernement.fr/en/composition-of-the-government,2021-07-27,Q97061396,Minister Delegate for Foreign Trade and Economic Attractiveness,Q64463-af58e993-498d-47ce-51fc-43bb4dc94e44
-Q6755549,Marc Fesneau,Marc Fesneau,,,Q61649628,Minister of Agriculture and Food,Q6755549-B58B03C7-EB9F-421A-B368-266C798A6F49
-Q966529,Damien Abad,Damien Abad,,,Q29963253,Minister of State for Disabled People,Q966529-33C1F049-EA4B-4E09-BC95-E8C179497DC0
+Q6755549,Marc Fesneau,Marc Fesneau,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q61649628,Ministre de l'Agriculture et de la Souveraineté alimentaire,Q6755549-B58B03C7-EB9F-421A-B368-266C798A6F49
+Q966529,Damien Abad,Damien Abad,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q29963253,"Ministre des Solidarités, de l’Autonomie et des Personnes handicapées",Q966529-33C1F049-EA4B-4E09-BC95-E8C179497DC0
 Q99193104,Charlotte Caubel,Charlotte Caubel,,,Q107659591,"Minister Delegate for Gender Equality, Diversity and Equal Opportunities",Q99193104-81decc48-442d-12d3-71a6-c63304e78d45
-Q993472,Bruno Le Maire,Bruno Le Maire,https://www.gouvernement.fr/en/composition-of-the-government,2021-07-27,Q20202948,"Minister of the Economy, Finance and the Recovery",Q993472-21d7b7a7-42e1-ce47-a710-fa4fbfaf5186
+Q993472,Bruno Le Maire,Bruno Le Maire,https://www.gouvernement.fr/en/composition-of-the-government,2022-05-26,Q20202948,"Ministre de l'Économie, des Finances et de la Souveraineté industrielle et numérique",Q993472-21d7b7a7-42e1-ce47-a710-fa4fbfaf5186
