@@ -32,10 +32,9 @@ module.exports = function () {
           OPTIONAL { ?item rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "en") }
           BIND(COALESCE(?sourceName, ?wdLabel) AS ?name)
 
-          OPTIONAL { ?positionItem wdt:P1705  ?nativeLabel   FILTER(LANG(?nativeLabel)   = "en") }
           OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "en") }
-          BIND(COALESCE(?statedName, ?nativeLabel, ?positionLabel) AS ?position)
+          BIND(COALESCE(?statedName, ?positionLabel) AS ?position)
         }
         # ${new Date().toISOString()}
-        ORDER BY STR(?name) STR(?position) ?began ?wdid ?sourceDate`
+        ORDER BY ?sourceDate STR(?name) STR(?position) ?began ?wdid`
 }
