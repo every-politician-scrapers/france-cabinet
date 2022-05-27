@@ -1,8 +1,13 @@
 {
   "name": "Pap Ndiaye",
-  "alt": "man speaking into a microphone",
-  "birth_place": "Antony, Hauts-de-Seine, France",
-  "fields": "Political science",
-  "workplaces": "École des Hautes Etudes en Sciences Sociales\n\nInstituts d'études politiques",
-  "alma_mater": "École des Hautes Etudes en Sciences Sociales"
+  "office": "Minister of National Education",
+  "term_start": "22 May 2022",
+  "president": "Emmanuel Macron",
+  "primeminister": "Élisabeth Borne",
+  "predecessor": "Jean-Michel Blanquer",
+  "birth_date": "October 25, 1965",
+  "birth_place": "Antony, France",
+  "education": "Lycée Lakanal Lycée Henri-IV",
+  "alma_mater": "École normale supérieure de lettres et sciences humaines University of Virginia École des Hautes Études en Sciences Sociales",
+  "profession": "Historian"
 }

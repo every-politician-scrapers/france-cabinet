@@ -4,13 +4,13 @@
   "president": "Emmanuel Macron",
   "term_start": "16 May 2022",
   "predecessor": "Jean Castex",
-  "office2": "Minister of Labour",
+  "office2": "Minister of Labour, Employment and Integration",
   "primeminister2": "Jean Castex",
   "term_start2": "6 July 2020",
   "term_end2": "16 May 2022",
   "predecessor2": "Muriel Pénicaud",
   "successor2": "Olivier Dussopt",
-  "office3": "Minister of the Ecological Transition",
+  "office3": "Minister of Ecological and Inclusive Transition",
   "primeminister3": "Édouard Philippe",
   "term_start3": "16 July 2019",
   "term_end3": "6 July 2020",
@@ -27,5 +27,6 @@
   "spouse": "Olivier Allix (m. 1989-2008)",
   "children": "1",
   "party": "Renaissance (since 2017) Territories of Progress (since 2020)",
-  "education": "École Polytechnique École des ponts ParisTech Collège des Ingénieurs"
+  "education": "École Polytechnique École des ponts ParisTech Collège des Ingénieurs",
+  "residence": "Hôtel Matignon (official)"
 }
