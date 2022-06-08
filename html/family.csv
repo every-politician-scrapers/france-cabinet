@@ -158,6 +158,7 @@ Q2379348,Éric Besson,child,Q2861194,Ariane Fornia
 Q2379348,Éric Besson,spouse,Q3507288,Sylvie Brunel
 Q23868608,Fabrice Delloye,child,Q3332875,Mélanie Delloye-Betancourt
 Q23868608,Fabrice Delloye,spouse,Q152472,Ingrid Betancourt
+Q2388603,Nicolas Bays,partner,Q33230494,Agnès Pannier-Runacher
 Q2388603,Nicolas Bays,spouse,Q29570183,Aurore Bergé
 Q2388603,Nicolas Bays,spouse,Q33230494,Agnès Pannier-Runacher
 Q2396093,Colette Giudicelli,spouse,Q3165004,Jean-Claude Guibal
@@ -439,6 +440,7 @@ Q33104697,Amélie Oudéa-Castéra,spouse,Q984266,Frederic Oudéa
 Q33105695,François Pinte,father,Q3592334,Étienne Pinte
 Q33109969,Romain Nadal,mother,Q63759157,Marie-Françoise Matouk
 Q33113534,Jean-Christophe Peaucelle,spouse,Q42414936,Véronique Peaucelle-Delelis
+Q33122330,Christophe Lecourtier,father,Q100243112,Philippe Lecourtier
 Q33140156,Bertrand Dutheil de La Rochère,child,Q41338402,Amélie de La Rochère
 Q33140156,Bertrand Dutheil de La Rochère,sibling,Q29641388,Christian Dutheil de La Rochère
 Q33142338,Emmanuelle Wargon,father,Q3241949,Lionel Stoléru
@@ -448,7 +450,7 @@ Q33170148,Patrick Hénault,father,Q75883369,Pierre Henault
 Q33170148,Patrick Hénault,mother,Q75883371,Leontine-Marguerite-Raymonde D'Arcy
 Q33170148,Patrick Hénault,spouse,Q47525059,Anne Hénault
 Q33186421,Florence Mangin,spouse,Q111183014,Pino Adriano
-Q33230494,Agnès Pannier-Runacher,spouse,Q2388603,Nicolas Bays
+Q33230494,Agnès Pannier-Runacher,partner,Q2388603,Nicolas Bays
 Q33230494,Agnès Pannier-Runacher,spouse,Q48929742,Marc Pannier
 Q33245821,Laurent Dejoie,father,Q3264791,Luc Dejoie
 Q3328120,Muriel Marland-Militello,spouse,Q3380317,Philippe Marland
