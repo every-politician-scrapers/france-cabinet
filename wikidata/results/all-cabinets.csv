@@ -152,5 +152,6 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 39,Q27967567,Cazeneuve Ministry,2016-12-06,11,2016-12-06,11,2017-05-15,11,2017-05-15,11,Q17606200,Government of Manuel Valls II,Q29949210,Philippe Government,Q17606200,Government of Manuel Valls II,Q29949210,Philippe Government
 ,Q29949210,Philippe Government,2017-05-15,11,2017-05-16,11,2017-06-19,11,,,Q27967567,Cazeneuve Ministry,Q30339129,Second Philippe Government,Q27967567,Cazeneuve Ministry,Q30339129,Second Philippe Government
 41,Q30339129,Second Philippe Government,2017-06-19,11,2017-06-19,11,,,2020-07-03,11,Q29949210,Philippe Government,Q96872687,Castex government,Q29949210,Philippe Government,,
-42,Q96872687,Castex government,2020-07-03,11,,,2022-05-16,11,,,Q30339129,Second Philippe Government,Q112042684,Borne government,,,,
-,Q112042684,Borne government,2022-05-16,11,,,,,,,Q96872687,Castex government,,,Q96872687,Castex government,,
+42,Q96872687,Castex government,2020-07-03,11,,,2022-05-16,11,,,Q30339129,Second Philippe Government,Q112042684,1st Borne government,,,,
+,Q112042684,1st Borne government,2022-05-16,11,,,2022-07-04,11,,,Q96872687,Castex government,Q112894205,2nd Borne Government,Q96872687,Castex government,,
+,Q112894205,2nd Borne Government,2022-07-04,11,,,,,,,Q112042684,1st Borne government,,,,,,
