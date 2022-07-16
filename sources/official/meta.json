@@ -9,13 +9,15 @@
       "parent": "Q2993836",
       "government": "Q1450662"
     },
-    "source": {
-        "url":   "https://www.gouvernement.fr/en/composition-of-the-government",
-        "title": "Composition of the Government",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://www.gouvernement.fr/en/composition-of-the-government",
+        "P1476": {
+            "text": "Composition of the Government",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/france-cabinet"
+    "current_only": "true",
+    "person_description": {
+        "en": "French politician"
+    }
 }
