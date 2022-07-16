@@ -14,7 +14,8 @@ module.exports = function () {
       SELECT DISTINCT ?item ?position ?startNode ?endNode ?ps
       WHERE {
           # Positions in the cabinet
-          ?position p:P361/ps:P361 wd:${meta.cabinet.parent} .
+          VALUES ?cabinet { wd:Q2993836 wd:Q1450662 }
+          ?position wdt:P361 ?cabinet .
 
           # People in those positions
           ?item wdt:P31 wd:Q5 ; p:P39 ?ps .
