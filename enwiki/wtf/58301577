@@ -1,0 +1,411 @@
+{
+  "title": "Olivier Becht",
+  "pageID": 58301577,
+  "categories": [
+    "1976 births",
+    "Living people",
+    "Agir (France) politicians",
+    "Deputies of the 15th National Assembly of the French Fifth Republic",
+    "Mayors of places in Grand Est",
+    "People from Strasbourg",
+    "École nationale d'administration alumni",
+    "French people of German descent"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Olivier Becht (born April 28, 1976) is a French politician of the Agir party who has been serving as Minister for Foreign Trade, Attractiveness and French Nationals Abroad in the government of Prime Minister Élisabeth Borne since 2022.",
+              "links": [
+                {
+                  "text": "Agir",
+                  "type": "internal",
+                  "page": "Agir (France)"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Borne government"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of France"
+                },
+                {
+                  "text": "Élisabeth Borne",
+                  "type": "internal",
+                  "page": "Élisabeth Borne"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Olivier Becht"
+                ]
+              }
+            },
+            {
+              "text": "From the 2017 elections to 2022, he was a member of the National Assembly of France, representing the Haut-Rhin department.",
+              "links": [
+                {
+                  "text": "2017 elections",
+                  "type": "internal",
+                  "page": "2017 French legislative election"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of France"
+                },
+                {
+                  "type": "internal",
+                  "page": "Haut-Rhin"
+                }
+              ]
+            },
+            {
+              "text": "He was previously the mayor of the Rixheim commune.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rixheim"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "French politician of the Agir party",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1976",
+          "month": "04",
+          "day": "28",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Olivier Becht"
+          },
+          "image": {
+            "text": "Olivier Becht.jpg"
+          },
+          "office": {
+            "text": "Member of the National Assembly\nfor Haut-Rhin's 5th constituency",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly (France)"
+              },
+              {
+                "type": "internal",
+                "page": "Haut-Rhin's 5th constituency"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "20 June 2017"
+          },
+          "predecessor": {
+            "text": "Arlette Grosskost",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arlette Grosskost"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Mayor of Rixheim",
+            "links": [
+              {
+                "text": "Mayor",
+                "type": "internal",
+                "page": "Mayor (France)"
+              },
+              {
+                "type": "internal",
+                "page": "Rixheim"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "15 March 2008"
+          },
+          "term_end2": {
+            "text": "23 March 2014"
+          },
+          "predecessor2": {
+            "text": "Bernard Hanser"
+          },
+          "successor2": {
+            "text": "Ludovic Haye"
+          },
+          "birth_date": {
+            "text": "April 28, 1976"
+          },
+          "birth_place": {
+            "text": "Strasbourg, France",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Strasbourg"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "French",
+            "links": [
+              {
+                "text": "French",
+                "type": "internal",
+                "page": "France"
+              }
+            ]
+          },
+          "party": {
+            "text": "Agir",
+            "links": [
+              {
+                "text": "Agir",
+                "type": "internal",
+                "page": "Agir (France)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Sciences Po Strasbourg École nationale d'administration",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sciences Po Strasbourg"
+              },
+              {
+                "text": "École nationale d'administration",
+                "type": "internal",
+                "page": "École nationale d'administration"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.francebleu.fr/infos/politique/clone-de-legislatives-qui-est-olivier-becht-le-nouveau-depute-dvd-de-la-5eme-circonscription-du-haut-rhin-1497603574",
+          "title": "Législatives: qui est Olivier Becht, le nouveau député DVD de la 5e circonscription du Haut-Rhin ?",
+          "date": "18 June 2017",
+          "publisher": "France Bleu",
+          "language": "fr",
+          "accessdate": "28 August 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://rixheim.fr/vos_elus.html",
+          "archive-url": "https://web.archive.org/web/20170704124009/http://rixheim.fr/vos_elus.html",
+          "url-status": "dead",
+          "archive-date": "4 July 2017",
+          "title": "Vos élus - Mairie de Rixheim",
+          "date": "4 July 2017",
+          "accessdate": "28 August 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In parliament, Becht served as member of the Defence Committee.",
+              "links": [
+                {
+                  "text": "Defence Committee",
+                  "type": "internal",
+                  "page": "National Defence and Armed Forces Committee"
+                }
+              ]
+            },
+            {
+              "text": "In this capacity, he co-authored (with Stéphane Trompille) a parliamentary report on space defence in 2019, calling on the Ministry of the Armies to upgrade its capabilities given the proliferation of competitors and potential enemies.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stéphane Trompille"
+                },
+                {
+                  "text": "Ministry of the Armies",
+                  "type": "internal",
+                  "page": "Ministry of the Armies (France)"
+                }
+              ]
+            },
+            {
+              "text": "He was also a member of the French parliamentary friendship groups with Germany, Japan and Romania.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Germany"
+                },
+                {
+                  "type": "internal",
+                  "page": "Japan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Romania"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In addition to his committee assignments, Becht was a member of the French delegation to the Parliamentary Assembly of the Council of Europe from 2017 to 2022.",
+              "links": [
+                {
+                  "text": "Parliamentary Assembly",
+                  "type": "internal",
+                  "page": "Parliamentary Assembly of the Council of Europe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Council of Europe"
+                }
+              ]
+            },
+            {
+              "text": "In this capacity, he served on the Committee on the Election of Judges to the European Court of Human Rights; the Committee on Culture, Science, Education and Media; and the Sub-Committee on Media and Information Society.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Court of Human Rights"
+                }
+              ]
+            },
+            {
+              "text": "In 2020, he was the Assembly's rapporteur on the regulation of neurotechnology, including brain–computer interfaces.",
+              "links": [
+                {
+                  "text": "rapporteur",
+                  "type": "internal",
+                  "page": "rapporteur"
+                },
+                {
+                  "text": "neurotechnology",
+                  "type": "internal",
+                  "page": "neurotechnology"
+                },
+                {
+                  "text": "brain–computer interfaces",
+                  "type": "internal",
+                  "page": "brain–computer interface"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political positions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In late 2019, Becht was one of 17 members of the committee who co-signed a letter to Prime Minister Édouard Philippe in which they warned that the 365 million euro ($406 million) sale of aerospace firm Groupe Latécoère to U.S. fund Searchlight Capital raised “questions about the preservation of know-how and France’s defence industry base” and urged government intervention.",
+              "links": [
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of France"
+                },
+                {
+                  "text": "Édouard Philippe",
+                  "type": "internal",
+                  "page": "Édouard Philippe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Groupe Latécoère"
+                },
+                {
+                  "type": "internal",
+                  "page": "Searchlight Capital"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "france-mayor-stub"
+        }
+      ]
+    }
+  ]
+}

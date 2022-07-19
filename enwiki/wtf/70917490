@@ -1,0 +1,181 @@
+{
+  "title": "Sylvie Retailleau",
+  "pageID": 70917490,
+  "categories": [
+    "Living people",
+    "1965 births",
+    "Women government ministers of France",
+    "Higher education ministers",
+    "21st-century French politicians",
+    "21st-century French women politicians",
+    "People from Nice"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sylvie Retailleau (née Galdin; born 24 February 1965) is a French politician who is currently serving as Minister of Higher Education in the Borne government since May 2022.",
+              "links": [
+                {
+                  "text": "née",
+                  "type": "internal",
+                  "page": "née"
+                },
+                {
+                  "text": "Minister of Higher Education",
+                  "type": "internal",
+                  "page": "Minister of Higher Education, Research and Innovation (France)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Borne government"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sylvie Retailleau",
+                  "Galdin"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "May 2022",
+          "template": "expand french"
+        },
+        {
+          "description": "French politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1965",
+          "month": "02",
+          "day": "24",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Sylvie Retailleau 2018 (crop).jpg"
+          },
+          "office": {
+            "text": "Minister of Higher Education, Research and Innovation",
+            "links": [
+              {
+                "text": "Minister of Higher Education, Research and Innovation",
+                "type": "internal",
+                "page": "Minister of Higher Education, Research and Innovation (France)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Élisabeth Borne",
+            "links": [
+              {
+                "text": "Élisabeth Borne",
+                "type": "internal",
+                "page": "Élisabeth Borne"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "20 May 2022"
+          },
+          "predecessor": {
+            "text": "Frédérique Vidal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Frédérique Vidal"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Sylvie Galdin"
+          },
+          "birth_date": {
+            "text": "February 24, 1965"
+          },
+          "birth_place": {
+            "text": "Nice, France",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nice"
+              },
+              {
+                "type": "internal",
+                "page": "France"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "French",
+            "links": [
+              {
+                "text": "French",
+                "type": "internal",
+                "page": "France"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "École normale supérieure Paris-Saclay, Paris-Sud University",
+            "links": [
+              {
+                "text": "École normale supérieure Paris-Saclay",
+                "type": "internal",
+                "page": "École normale supérieure Paris-Saclay"
+              },
+              {
+                "type": "internal",
+                "page": "Paris-Sud University"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Monod",
+          "first": "Olivier",
+          "title": "Avec Sylvie Retailleau, le ministère de l’Enseignement supérieur et de la Recherche change de tête, pas de ligne",
+          "url": "https://www.liberation.fr/politique/avec-sylvie-retailleau-le-ministere-de-lenseignement-superieur-et-de-la-recherche-change-de-tete-pas-de-ligne-20220520_OKSAOTDHCNAGHJ5BN375H6DM3Q/",
+          "access-date": "2022-05-31",
+          "website": "Libération",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "france-politician-stub"
+        }
+      ]
+    }
+  ]
+}

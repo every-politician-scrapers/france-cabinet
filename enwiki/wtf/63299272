@@ -1,0 +1,108 @@
+{
+  "title": "Kareen Rispal",
+  "pageID": 63299272,
+  "categories": [
+    "French women ambassadors",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Ambassadors of France to Canada"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kareen Géraldine Rispal is a French diplomat.",
+              "formatting": {
+                "bold": [
+                  "Kareen Géraldine Rispal"
+                ]
+              }
+            },
+            {
+              "text": "She is the Ambassador of France to Canada, starting in 2017."
+            },
+            {
+              "text": "She is the 28th French ambassador to Canada and the first female ambassador to North America."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "French diplomat",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "fetchwikidata": {
+            "text": "ALL"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Biography of Kareen Rispal",
+          "url": "https://ca.ambafrance.org/Biography-of-Kareen-Rispal",
+          "website": "La France au Canada/France in Canada",
+          "accessdate": "6 March 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Shekar",
+          "first1": "Shruti",
+          "title": "First female French ambassador tackles climate change, trad",
+          "url": "https://www.hilltimes.com/2017/07/19/first-female-french-ambassador-canada-tackles-climate-change-trade-relations/113926",
+          "accessdate": "6 March 2020",
+          "publisher": "The Hill Times",
+          "date": "July 29, 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rispal has a master's degree in Law and attended the Institut d’études politiques and the École nationale d’administration."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She joined the French Ministry of Foreign Affairs in 1986."
+            },
+            {
+              "text": "In 2006, she moved to New York initially as the First Counsellor at France's Permanent Mission to the United Nations, then as Cultural Counsellor of the French Embassy and Permanent Representative of French universities in the United States."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "france-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

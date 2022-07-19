@@ -1,0 +1,161 @@
+{
+  "title": "Isabelle Lonvis-Rome",
+  "pageID": 70917673,
+  "categories": [
+    "Living people",
+    "1963 births",
+    "21st-century French politicians",
+    "21st-century French women politicians",
+    "Women government ministers of France",
+    "Women's ministers of France",
+    "People from Bourg-en-Bresse"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Isabelle Lonvis-Rome (née Lonvis; born 29 April 1963) is a French politician.",
+              "links": [
+                {
+                  "text": "née",
+                  "type": "internal",
+                  "page": "née"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Isabelle Lonvis-Rome",
+                  "Lonvis"
+                ]
+              }
+            },
+            {
+              "text": "She has been Minister for Gender Equality, Diversity and Equal Opportunities in the Borne government since May 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for Gender Equality, Diversity and Equal Opportunities"
+                },
+                {
+                  "type": "internal",
+                  "page": "Borne government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "French politician (born 1963)",
+          "template": "short description"
+        },
+        {
+          "date": "May 2022",
+          "template": "expand french"
+        },
+        {
+          "year": "1963",
+          "month": "04",
+          "day": "29",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Isabelle Rome - 2018.jpg"
+          },
+          "office": {
+            "text": "Minister for Gender Equality, Diversity and Equal Opportunities",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Gender Equality, Diversity and Equal Opportunities"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Élisabeth Borne",
+            "links": [
+              {
+                "text": "Élisabeth Borne",
+                "type": "internal",
+                "page": "Élisabeth Borne"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "20 May 2022"
+          },
+          "predecessor": {
+            "text": "Élisabeth Moreno",
+            "links": [
+              {
+                "text": "Élisabeth Moreno",
+                "type": "internal",
+                "page": "Élisabeth Moreno"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Isabelle Lonvis"
+          },
+          "birth_date": {
+            "text": "April 29, 1963"
+          },
+          "birth_place": {
+            "text": "Bourg-en-Bresse, France",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bourg-en-Bresse"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "French National School for the Judiciary",
+            "links": [
+              {
+                "type": "internal",
+                "page": "French National School for the Judiciary"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-05-20",
+          "title": "Nouveau gouvernement. La ministre Isabelle Rome a fondé une association dans l'Oise",
+          "url": "https://www.oisehebdo.fr/2022/05/20/nouveau-gouvernement-la-ministre-isabelle-rome-a-fonde-une-association-dans-loise/",
+          "access-date": "2022-05-31",
+          "website": "Oise Hebdo",
+          "language": "fr-FR",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "france-politician-stub"
+        }
+      ]
+    }
+  ]
+}

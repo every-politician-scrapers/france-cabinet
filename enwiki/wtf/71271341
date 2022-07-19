@@ -1,0 +1,327 @@
+{
+  "title": "François Braun",
+  "pageID": 71271341,
+  "categories": [
+    "Living people",
+    "1962 births",
+    "French Ministers of Health",
+    "21st-century French politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "François Braun, born in 1962, is a French emergency doctor and politician.",
+              "links": [
+                {
+                  "text": "French",
+                  "type": "internal",
+                  "page": "France"
+                },
+                {
+                  "text": "emergency doctor",
+                  "type": "internal",
+                  "page": "Emergency physician"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "François Braun"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On July 4, 2022, he was appointed Minister of Health and Prevention in the Élisabeth Borne government.",
+              "links": [
+                {
+                  "text": "Élisabeth Borne government",
+                  "type": "internal",
+                  "page": "Borne government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "French politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2022",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "July 2022",
+          "template": "use american english"
+        },
+        {
+          "birth_year": "1962",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "François Braun"
+          },
+          "office": {
+            "text": "Minister of Health and Prevention"
+          },
+          "term_start": {
+            "text": "July 4, 2022"
+          },
+          "predecessor": {
+            "text": "Brigitte Bourguignon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigitte Bourguignon"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "François Braun"
+          },
+          "birth_date": {
+            "text": "1962 (age 60)"
+          },
+          "occupation": {
+            "text": "politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://viaf.org/viaf/198811874/#Braun,_Franc%CC%A7ois,_1962-",
+          "title": "198811874",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "François Braun chose to study medicine to become an emergency doctor and to respect the family tradition."
+            },
+            {
+              "text": "In this regard, he said: “My grandfather and my great-grandfather were military doctors."
+            },
+            {
+              "text": "As for my father, he was a general practitioner and chief medical officer of the fire department in the Territoire de Belfort.",
+              "links": [
+                {
+                  "text": "general",
+                  "type": "internal",
+                  "page": "Family medicine"
+                },
+                {
+                  "type": "internal",
+                  "page": "Territoire de Belfort"
+                }
+              ]
+            },
+            {
+              "text": "With each accident, day or night, he went to the field."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the fifth year of medicine, he became an emergency physician at the regional and university hospital center of Nancy in 1984."
+            },
+            {
+              "text": "This activity in its infancy was then not very anchored within hospitals, François Braun became over the years a pioneer in this discipline so that it is recognized as a medical specialty in its own right."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2010, he was head of the emergency department of the Mercy hospital of the regional hospital center of Metz-Thionville."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Previously Secretary General, he chairs the SAMU - Urgences de France union from 2014."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the end of 2016, in collaboration with Patrick Pelloux and Pierre Carli, he spoke of the importance of training hospital staff in war medicine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Patrick Pelloux"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2022, François Braun was charged by Emmanuel Macron with a \"flash mission\" on the deficiencies of the hospital in France.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Emmanuel Macron"
+                }
+              ]
+            },
+            {
+              "text": "François Braun submits a non-final version of his report on June 30."
+            },
+            {
+              "text": "This appointment is not unanimous in the hospital world, because of his rather liberal vision of the hospital."
+            },
+            {
+              "text": "Among the 41 recommendations, François Braun mainly defends that access to emergencies must be regulated according to a \"sorting principle\" via telephone regulation or at the entrance to emergencies, to treat vital emergencies as a priority and redirect other patients to duty doctors."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2022, he was appointed Minister of Health and Prevention in the Élisabeth Borne government.",
+              "links": [
+                {
+                  "text": "Élisabeth Borne government",
+                  "type": "internal",
+                  "page": "Borne government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://infodujour.fr/societe/58759-enfin-un-nouveau-gouvernement-pour-la-france",
+          "title": "Enfin, un nouveau gouvernement pour la France",
+          "date": "July 4, 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.la-croix.com/Actualite/France/La-medecine-d-urgence-chevillee-au-caeur-2014-01-30-1098900",
+          "title": "La médecine d'urgence chevillée au cœur",
+          "newspaper": "La Croix",
+          "date": "January 30, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.marianne.net/societe/sante/crise-de-lhopital-francois-braun-le-conseiller-sante-de-macron-au-remede-tres-liberal",
+          "title": "François Braun, un nouveau ministre de la Santé au remède très libéral",
+          "date": "July 4, 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.francebleu.fr/infos/politique/le-medecin-messin-francois-braun-referent-sante-du-futur-candidat-macron-1642415569",
+          "title": "Le médecin messin François Braun référent santé du futur candidat Macron",
+          "date": "January 17, 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.samu-urgences-de-france.fr/fr/actualites/presse/-fran-ccedil-ois-braun-pr-eacute-sident-de-samu-urgences-de-france/art_id/776",
+          "title": "Communiqués de Presse / François BRAUN, Président de Samu-Urgences de France / Samu - Urgences de France",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.sfmu.org/fr/actualites/actualites-de-l-urgences/le-dr-francois-braun-reelu-president-de-samu-urgences-de-france/new_id/62288",
+          "title": "Actualités de l'Urgence - APM / Société Française de Médecine d'Urgence - SFMU",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.francebleu.fr/infos/politique/le-medecin-messin-francois-braun-referent-sante-du-futur-candidat-macron-1642415569",
+          "title": "Le médecin messin François Braun référent santé du futur candidat Macron",
+          "date": "January 17, 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.republicain-lorrain.fr/edition-de-metz-ville/2016/12/27/francois-braun-a-metz-etre-sur-le-pied-de-guerre",
+          "title": "SANTE. François Braun à Metz : être sur le pied de guerre",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.publicsenat.fr/article/parlementaire/les-constats-nous-les-connaissons-le-senat-auditionne-francois-braun-a-la-tete",
+          "title": "\"les constats, nous les connaissons\" : Le Sénat auditionne le médecin à la tête de la mission sur l'hôpital",
+          "date": "June 7, 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lemonde.fr/societe/article/2022/06/30/financement-recrutement-et-tri-les-premieres-propositions-de-la-mission-flash-pour-l-hopital_6132783_3224.html",
+          "title": "Financement, recrutement et tri : Les premières propositions de la \" mission flash \" pour l'hôpital",
+          "newspaper": "Le Monde.fr",
+          "date": "June 30, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.marianne.net/societe/sante/crise-de-lhopital-francois-braun-le-conseiller-sante-de-macron-au-remede-tres-liberal",
+          "title": "François Braun, un nouveau ministre de la Santé au remède très libéral",
+          "date": "July 4, 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.whatsupdoc-lemag.fr/article/les-urgences-ca-ne-peut-plus-etre-open-bar-selon-francois-braun",
+          "title": "\"Les urgences, ça ne peut plus être open bar\", selon François Braun",
+          "date": "June 9, 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bfmtv.com/politique/gouvernement/le-medecin-urgentiste-francois-braun-remplace-brigitte-bourguignon-au-ministere-de-la-sante_AN-202207040171.html",
+          "title": "Le médecin urgentiste François Braun remplace Brigitte Bourguignon au ministère de la Santé",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "title": "François Richier",
+  "pageID": 38289271,
+  "categories": [
+    "Living people",
+    "Ambassadors of France to India",
+    "1963 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "François Richier (born on 11 August 1963) is a former Ambassador Extraordinary and Plenipotentiary of Republic of France to India.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ambassador Extraordinary and Plenipotentiary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of France"
+                },
+                {
+                  "type": "internal",
+                  "page": "India"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "François Richier"
+                ]
+              }
+            },
+            {
+              "text": "He was previously the second counsellor at the Embassy of France in Berlin, from 1999 to 2000.",
+              "links": [
+                {
+                  "text": "Embassy of France in Berlin",
+                  "type": "internal",
+                  "page": "Embassy of France, Berlin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Richier was later the French ambassador to Afghanistan."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2022",
+          "template": "update"
+        },
+        {
+          "date": "June 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "June 2022",
+          "template": "when"
+        },
+        {
+          "date": "June 2022",
+          "template": "cn"
+        }
+      ],
+      "infoboxes": [
+        {
+          "post": {
+            "text": "Former Ambassador of France to India and Afghanistan"
+          },
+          "insignia": {
+            "text": "François Richier, 2014.jpg"
+          },
+          "insigniacaption": {
+            "text": "François Richier, 2014"
+          },
+          "department": {
+            "text": "Ministry of Foreign Affairs",
+            "links": [
+              {
+                "text": "Ministry of Foreign Affairs",
+                "type": "internal",
+                "page": "French Ministry of Foreign Affairs"
+              }
+            ]
+          },
+          "residence": {
+            "text": "France",
+            "links": [
+              {
+                "type": "internal",
+                "page": "France"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Jérôme Bonnafont",
+            "links": [
+              {
+                "text": "Jérôme Bonnafont",
+                "type": "internal",
+                "page": "Jérôme Bonnafont (diplomat)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.ambafrance-in.org/Ambassador-Bonnafont-s-farewell",
+          "title": "Ambassador Bonnafont's farewell reception, 23 September 2011",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Ashwini Phadnis",
+          "url": "http://www.thehindubusinessline.com/industry-and-economy/article3799813.ece",
+          "title": "Indo-French trade ties immune to political change",
+          "website": "The Hindu Business Line",
+          "archiveurl": "https://web.archive.org/web/20120822041757/http://www.thehindubusinessline.com/industry-and-economy/article3799813.ece",
+          "archivedate": "22 August 2012",
+          "accessdate": "17 June 2022}}{{dead link|date=June 2022}} - {{Cite web |url=http://www.ambafrance-in.org/H-E-Mr-Francois-Richier-s |title=H.E. Mr François Richier’s presentation of credentials, 1st November 2011|publisher= French Embassy, India |access-date=18 February 2014 |archive-url=https://web.archive.org/web/20140223130713/http://www.ambafrance-in.org/H-E-Mr-Francois-Richier-s |archive-date=23 February 2014 |url-status=dead }} - {{cite web |url=http://ambafrance-in.org/Bio-data-of-the-Ambassador |title=Bio-data of the Ambassador|publisher= French Embassy, India|date=16 April 2012 |accessdate=21 January 2013 |archive-url=https://web.archive.org/web/20121001015236/http://ambafrance-in.org/Bio-data-of-the-Ambassador |archive-date=1 October 2012 |url-status=dead |undefined",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "french-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Jacques-Henry Heuls",
+  "pageID": 70205937,
+  "categories": [
+    "Living people",
+    "French diplomats",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jacques-Henry Heuls is a French diplomat.",
+              "formatting": {
+                "bold": [
+                  "Jacques-Henry Heuls"
+                ]
+              }
+            },
+            {
+              "text": "He is a permanent diplomat in the Ministry of Europe and Foreign Affairs of France."
+            },
+            {
+              "text": "He had previously served as the French Ambassador to the Eastern Caribbean States, Barbados and the OECS.",
+              "links": [
+                {
+                  "text": "Eastern Caribbean States",
+                  "type": "internal",
+                  "page": "Organisation of Eastern Caribbean States"
+                },
+                {
+                  "type": "internal",
+                  "page": "Barbados"
+                }
+              ]
+            },
+            {
+              "text": "He served as French ambassador from 2020 till 2022."
+            },
+            {
+              "text": "In 2013, he served as the French ambassador to Uzbekistan till 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Uzbekistan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "French diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "March 2022",
+          "template": "orphan"
+        }
+      ],
+      "references": [
+        {
+          "last": "Correspondent",
+          "first": "WIC News",
+          "date": "2021-11-06",
+          "title": "PM Roosevelt Skerrit meets French Ambassador to Dominica Jacques-Henry Heuls",
+          "url": "https://wicnews.com/caribbean/dominica/pm-roosevelt-skerrit-meets-french-ambassador-to-dominica-jacques-henry-heuls-190838672/",
+          "access-date": "2022-03-02",
+          "website": "WIC News",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-04-14",
+          "title": "Ambassador of the Republic of France Presents Credentials to DG of the OECS",
+          "url": "https://thevoiceslu.com/2021/04/ambassador-of-the-republic-of-france-presents-credentials-to-dg-of-the-oecs/",
+          "access-date": "2022-03-02",
+          "website": "St. Lucia News From The Voice",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "DOMINICA RECEIVES NEW FRENCH AMBASSADOR - GIS Dominica",
+          "url": "http://news.gov.dm/news/5342-dominica-receives-new-french-ambassador",
+          "access-date": "2022-03-02",
+          "website": "news.gov.dm",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "france-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Aurelia Bouchez",
+  "pageID": 68722927,
+  "categories": [
+    "Ambassadors of France to Azerbaijan",
+    "French women ambassadors",
+    "Ambassadors of the European Union",
+    "1960 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aurelia Bouchez (born January 20, 1960) is a French diplomat who was Ambassador to Azerbaijan and the European Union Ambassador to Kazakhstan from 2011 until 2015.",
+              "formatting": {
+                "bold": [
+                  "Aurelia Bouchez"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "French diplomat",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Aurélia Bouchez"
+          ],
+          "date": "September 2021",
+          "template": "expand french"
+        }
+      ],
+      "references": [
+        {
+          "title": "French envoy Aurelia Bouchez completes her diplomatic term in Azerbaijan",
+          "url": "https://vestnikkavkaza.net/news/French-envoy-Aurelia-Bouchez-completes-her-diplomatic-term-in-Azerbaijan.html",
+          "website": "Vestnik Kavkaza",
+          "access-date": "14 September 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "france-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

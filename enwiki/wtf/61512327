@@ -1,0 +1,231 @@
+{
+  "title": "Aurélien Lechevallier",
+  "pageID": 61512327,
+  "categories": [
+    "French diplomats",
+    "Living people",
+    "1976 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aurélien Lechevallier(born 6 September 1976) is a French diplomat.",
+              "links": [
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Aurélien Lechevallier"
+                ]
+              }
+            },
+            {
+              "text": ", he is the French Ambassador-Designate to the Republic of South Africa, based in the French Embassy in Pretoria.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ambassador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of South Africa"
+                },
+                {
+                  "text": "French Embassy in Pretoria",
+                  "type": "internal",
+                  "page": "Embassy of France, Pretoria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ambassador Aurélien Lechevallier is France’s Ambassador to South Africa, Lesotho and Malawi."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "French diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "one source"
+        },
+        {
+          "list": [
+            "2019",
+            "08"
+          ],
+          "template": "as of"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://za.ambafrance.org/Ambassador-Designate-of-France-to-South-Africa-Aurelien-Lechevallier",
+          "title": "Ambassador Designate of France to South Africa Aurélien Lechevallier",
+          "website": "French Embassy in South Africa",
+          "language": "en",
+          "access-date": "2019-08-14",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0
+    },
+    {
+      "title": "Early life and education",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aurélien Lechevallier was born in 1976 in Poitiers (Nouvelle-Aquitaine)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He holds diplomas from HEC business school, the Institute of political sciences in Paris (Institut d’études politiques), and is an alumnus of the École nationale d’administration, promotion \"Leopold Sédar Senghor\" (2004).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Institute of political sciences"
+                },
+                {
+                  "text": "École nationale d’administration",
+                  "type": "internal",
+                  "page": "École nationale d’administration"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Before his posting to South Africa, Aurélien Lechevallier has held many positions:"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 2004 and 2007, he served as Deputy, then Bureau Chief, then advisor to the Director of the International Cooperation and Development at the French Ministry of Foreign Affairs in Paris."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 2007 and 2008, he was dispatched to the U.S. State Department in Washington."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2008 to 2010, he served as First Secretary at the Embassy of France in the United States of America."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 2010 and 2013, he served as Second Counsellor, Counsellor for Cultural Action and Cooperation, Director of the Beyrouth French Institute at the Embassy of France in Lebanon."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2013 to 2014, he was dispatched to the French Presidency as Diplomatic Counsellor to the Special Envoy for the conservation of the planet of the President of the French Republic."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 2014 and 2016, he was dispatched to the City of Paris as Diplomatic Counsellor and Delegate General for International Relations."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From January to May 2017, he served as advisor at the Center for Analysis and Policy Planning at the French Ministry of Foreign Affairs in Paris."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2017 to 2019, he was the Deputy Diplomatic Counsellor to the President of the French Republic, Mr Emmanuel Macron.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Emmanuel Macron"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aurélien Lechevallier is married with two children."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He speaks English and Spanish."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "france-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

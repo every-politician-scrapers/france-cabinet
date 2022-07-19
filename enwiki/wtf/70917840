@@ -1,0 +1,231 @@
+{
+  "title": "Charlotte Caubel",
+  "pageID": 70917840,
+  "categories": [
+    "Living people",
+    "1972 births",
+    "People from Nancy, France",
+    "Women government ministers of France",
+    "21st-century French women politicians",
+    "21st-century French politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Charlotte Bompard (née Caubel; born 2 June 1972 in Nancy, France) is a French politician who has been serving as State Secretary for Children in the government of Prime Minister Élisabeth Borne since 2022.",
+              "links": [
+                {
+                  "text": "née",
+                  "type": "internal",
+                  "page": "née"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nancy, France"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Borne government"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of France"
+                },
+                {
+                  "text": "Élisabeth Borne",
+                  "type": "internal",
+                  "page": "Élisabeth Borne"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Charlotte Bompard",
+                  "Caubel"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "French politician",
+          "template": "short description"
+        },
+        {
+          "year": "1972",
+          "month": "06",
+          "day": "02",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Charlotte Caubel"
+          },
+          "office": {
+            "text": "Secretary of State for Child Protection",
+            "links": [
+              {
+                "text": "Secretary of State",
+                "type": "internal",
+                "page": "Secretary of state"
+              },
+              {
+                "text": "Child Protection",
+                "type": "internal",
+                "page": "Child protection"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "20 May 2022"
+          },
+          "president": {
+            "text": "Emmanuel Macron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emmanuel Macron"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Élisabeth Borne",
+            "links": [
+              {
+                "text": "Élisabeth Borne",
+                "type": "internal",
+                "page": "Élisabeth Borne"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Adrien Taquet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adrien Taquet"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 2, 1972"
+          },
+          "birth_place": {
+            "text": "Nancy, France",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nancy, France"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "French"
+          },
+          "alma_mater": {
+            "text": "IEP de Paris Université Panthéon-Assas ENM",
+            "links": [
+              {
+                "text": "IEP de Paris",
+                "type": "internal",
+                "page": "Institut d'études politiques de Paris"
+              },
+              {
+                "text": "Université Panthéon-Assas",
+                "type": "internal",
+                "page": "Paris 2 Panthéon-Assas University"
+              },
+              {
+                "text": "ENM",
+                "type": "internal",
+                "page": "École nationale de la magistrature"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-05-20",
+          "title": "Nouveau gouvernement : Charlotte Caubel, une magistrate chargée de l'Enfance",
+          "url": "https://www.lefigaro.fr/politique/nouveau-gouvernement-charlotte-caubel-une-magistrate-chargee-de-l-enfance-20220520",
+          "access-date": "2022-05-31",
+          "website": "LEFIGARO",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "From 2020 to 2022, Caubel led the activities on youth protection at the Ministry of Justice.",
+              "links": [
+                {
+                  "text": "Ministry of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (France)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Caubel is married to Alexandre Bompard.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alexandre Bompard"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "france-politician-stub"
+        }
+      ]
+    }
+  ]
+}

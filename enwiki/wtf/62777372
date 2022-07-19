@@ -1,0 +1,153 @@
+{
+  "title": "Romain Nadal",
+  "pageID": 62777372,
+  "categories": [
+    "1968 births",
+    "Ambassadors of France to Venezuela",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Romain Nadal (born 19 May 1968) is the current French Ambassador in Venezuela.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ambassador"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Romain Nadal"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "French diplomat",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Romain Nadal"
+          },
+          "image": {
+            "text": "Romain Nadal.jpg"
+          },
+          "office": {
+            "text": "Ambassador of France to Venezuela"
+          },
+          "term_start": {
+            "text": "2017",
+            "number": 2017
+          },
+          "president": {
+            "text": "Emmanuel Macron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emmanuel Macron"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "🇫🇷 France",
+            "links": [
+              {
+                "text": "France",
+                "type": "internal",
+                "page": "france"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.challenges.fr/monde/ameriques/les-confidences-de-l-ambassadeur-de-france-au-venezuela-romain-nadal_610230",
+          "title": "Les confidences de l'ambassadeur de France au Venezuela Romain Nadal",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://ve.ambafrance.org/Biographie-de-l-Ambassadeur",
+          "title": "Biographie de l’Ambassadeur Romain Nadal",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "From 1999 to 2002, Nadal served as diplomatic advisor to the President of the National Assembly (France).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly (France)"
+                }
+              ]
+            },
+            {
+              "text": "From 2002 to 2005, he became the second Secretary at the French Embassy in Spain."
+            },
+            {
+              "text": "From 2005 to 2008, he was Head of the \"mission de la modernisation\" at the Ministry of Foreign Affairs."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2008 he became Deputy Director of Press and Spokesperson, and in 2011 Deputy Director of Communication and Spokesperson."
+            },
+            {
+              "text": "In 2012 Nadal served as the Diplomatic spokesperson for the President of the Republic, and from 2013 to 2017 Spokesperson, director of communication and press at the Ministry of Foreign Affairs."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since 2017, he has served as the French Ambassador in Venezuela."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.lemonde.fr/international/article/2020/05/13/au-venezuela-l-ambassadeur-de-france-prive-d-electricite-et-de-gaz-par-les-autorites_6039560_3210.html",
+          "title": "Le Monde l'ambassadeur de France au Venezuela Romain Nadal",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "france-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}
