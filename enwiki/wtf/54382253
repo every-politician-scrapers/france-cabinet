@@ -93,10 +93,6 @@
                   "page": "Paris's 3rd constituency"
                 },
                 {
-                  "type": "internal",
-                  "page": "Paris"
-                },
-                {
                   "text": "17th",
                   "type": "internal",
                   "page": "17th arrondissement of Paris"
@@ -233,16 +229,7 @@
             "text": "May 14, 1982"
           },
           "birth_place": {
-            "text": "Paris, France",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paris"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "French"
+            "text": "Paris, France"
           },
           "party": {
             "text": "La République En Marche!",
